@@ -1,0 +1,118 @@
+{
+  "title": "Red Hot Tour",
+  "images": "tour/redhot/images/",
+  "data": [
+    {
+      "src": "rh_tour_front.jpg",
+      "alt": "Front Cover of the Red Hot Tour Booklet",
+      "cap": "Front Cover",
+      "slide": "0",
+      "active":"active"
+    },
+    {
+      "src": "rh_tour_ins_1.jpg",
+      "alt": "Insert Page 1 of the Red Hot Tour Booklet",
+      "cap": "Insert Page 1",
+      "slide": "1",
+      "active":""
+    },
+    {
+      "src": "rh_tour_ins_2.jpg",
+      "alt": "Insert Page 2 of the Red Hot Tour Booklet",
+      "cap": "Insert Page 2",
+      "slide": "2",
+      "active":""
+    },
+    {
+      "src": "rh_tour_ins_3.jpg",
+      "alt": "Insert Page 3 of the Red Hot Tour Booklet",
+      "cap": "Insert Page 3",
+      "slide": "3",
+      "active":""
+    },
+    {
+      "src": "rh_tour_ins_4.jpg",
+      "alt": "Insert Page 4 of the Red Hot Tour Booklet",
+      "cap": "Insert Page 4",
+      "slide": "4",
+      "active":""
+    },
+    {
+      "src": "rh_tour_ins_5.jpg",
+      "alt": "Insert Page 5 of the Red Hot Tour Booklet",
+      "cap": "Insert Page 5",
+      "slide": "5",
+      "active":""
+    },
+    {
+      "src": "rh_tour_ins_6.jpg",
+      "alt": "Insert Page 6 of the Red Hot Tour Booklet",
+      "cap": "Insert Page 6",
+      "slide": "6",
+      "active":""
+    },
+    {
+      "src": "rh_tour_ins_7.jpg",
+      "alt": "Insert Page 7 of the Red Hot Tour Booklet",
+      "cap": "Insert Page 7",
+      "slide": "7",
+      "active":""
+    },
+    {
+      "src": "rh_tour_ins_8.jpg",
+      "alt": "Insert Page 8 of the Red Hot Tour Booklet",
+      "cap": "Insert Page 8",
+      "slide": "8",
+      "active":""
+    },
+    {
+      "src": "rh_tour_ins_9.jpg",
+      "alt": "Insert Page 9 of the Red Hot Tour Booklet",
+      "cap": "Insert Page 9",
+      "slide": "1",
+      "active":""
+    },
+    {
+      "src": "rh_tour_ins_10.jpg",
+      "alt": "Insert Page 10 of the Red Hot Tour Booklet",
+      "cap": "Insert Page 10",
+      "slide": "10",
+      "active":""
+    },
+    {
+      "src": "rh_tour_ins_11.jpg",
+      "alt": "Insert Page 11 of the Red Hot Tour Booklet",
+      "cap": "Insert Page 11",
+      "slide": "11",
+      "active":""
+    },
+    {
+      "src": "rh_tour_ins_12.jpg",
+      "alt": "Insert Page 12 of the Red Hot Tour Booklet",
+      "cap": "Insert Page 12",
+      "slide": "12",
+      "active":""
+    },
+    {
+      "src": "rh_tour_ins_13.jpg",
+      "alt": "Insert Page 13 of the Red Hot Tour Booklet",
+      "cap": "Insert Page 13",
+      "slide": "13",
+      "active":""
+    },
+    {
+      "src": "rh_tour_ins_14.jpg",
+      "alt": "Insert Page 14 of the Red Hot Tour Booklet",
+      "cap": "Insert Page 14",
+      "slide": "14",
+      "active":""
+    },
+    {
+      "src": "rh_tour_back.jpg",
+      "alt": "Back Cover of the Red Hot Tour Booklet",
+      "cap": "back Cover",
+      "slide": "15",
+      "active":""
+    } 
+    ]
+}

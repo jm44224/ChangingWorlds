@@ -1,0 +1,16 @@
+<!-- 
+    show the link in the primary color
+    show any link notes, in this case translation links, in the secondary color
+-->
+<!-- each section should allow a title -->
+<h3 ng-show="title != null">
+    <span class="specializedFont primaryColor" ng-show="title != null">{{title}}</span>
+</h3>
+<ul>
+    <li ng-repeat="x in names" >
+        <span class="primaryColor" ng-show="x.value != null" ><a ng-if="x.active == 1" target="blank" href="{{x.value}}">{{x.name}}</a><span class="disabledColor" ng-if="x.active == 0" >{{x.name}}</span>
+        <span class="secondaryColor" ng-show="x.language != null"><a target="blank" href="http://www.bing.com/translator/"><span class="secondaryColor" >{{x.language}}</span></a></span>
+    </li>
+</ul>
+<!-- each section should allow a footnote -->
+<span ng-show="footnote != null" class="specializedFont secondaryColor italicsFont">{{footnote}}</span>

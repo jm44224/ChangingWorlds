@@ -1,0 +1,111 @@
+{
+  "title": "Tour Of Change and Best Of Tour",
+  "images": "tour/changebest/images/",
+  "data": [
+    {
+      "src": "tfc_front.jpg",
+      "alt": "Front Cover of the Tour Of Change and Best Of Tour Booklet",
+      "cap": "Front Cover",
+      "slide": "0",
+      "active":"active"
+    },
+    {
+      "src": "tfc_ins_1.jpg",
+      "alt": "Insert Page 1 of the Tour Of Change and Best Of Tour Booklet",
+      "cap": "Insert Page 1",
+      "slide": "1",
+      "active":""
+    },
+    {
+      "src": "tfc_ins_2.jpg",
+      "alt": "Insert Page 2 of the Tour Of Change and Best Of Tour Booklet",
+      "cap": "Insert Page 2",
+      "slide": "2",
+      "active":""
+    },
+    {
+      "src": "tfc_ins_3.jpg",
+      "alt": "Insert Page 3 of the Tour Of Change and Best Of Tour Booklet",
+      "cap": "Insert Page 3",
+      "slide": "3",
+      "active":""
+    },
+    {
+      "src": "tfc_ins_4.jpg",
+      "alt": "Insert Page 4 of the Tour Of Change and Best Of Tour Booklet",
+      "cap": "Insert Page 4",
+      "slide": "4",
+      "active":""
+    },
+    {
+      "src": "tfc_ins_5.jpg",
+      "alt": "Insert Page 5 of the Tour Of Change and Best Of Tour Booklet",
+      "cap": "Insert Page 5",
+      "slide": "5",
+      "active":""
+    },
+    {
+      "src": "tfc_ins_6.jpg",
+      "alt": "Insert Page 6 of the Tour Of Change and Best Of Tour Booklet",
+      "cap": "Insert Page 6",
+      "slide": "6",
+      "active":""
+    },
+    {
+      "src": "tfc_mid_78.jpg",
+      "alt": "Insert Pages 7 and 8 of the Tour Of Change and Best Of Tour Booklet",
+      "cap": "Insert Pages 7 and 8",
+      "slide": "7",
+      "active":""
+    },
+    {
+      "src": "tfc_ins_9.jpg",
+      "alt": "Insert Page 9 of the Tour Of Change and Best Of Tour Booklet",
+      "cap": "Insert Page 9",
+      "slide": "1",
+      "active":""
+    },
+    {
+      "src": "tfc_ins_10.jpg",
+      "alt": "Insert Page 10 of the Tour Of Change and Best Of Tour Booklet",
+      "cap": "Insert Page 10",
+      "slide": "10",
+      "active":""
+    },
+    {
+      "src": "tfc_ins_11.jpg",
+      "alt": "Insert Page 11 of the Tour Of Change and Best Of Tour Booklet",
+      "cap": "Insert Page 11",
+      "slide": "11",
+      "active":""
+    },
+    {
+      "src": "tfc_ins_12.jpg",
+      "alt": "Insert Page 12 of the Tour Of Change and Best Of Tour Booklet",
+      "cap": "Insert Page 12",
+      "slide": "12",
+      "active":""
+    },
+    {
+      "src": "tfc_ins_13.jpg",
+      "alt": "Insert Page 13 of the Tour Of Change and Best Of Tour Booklet",
+      "cap": "Insert Page 13",
+      "slide": "13",
+      "active":""
+    },
+    {
+      "src": "tfc_ins_14.jpg",
+      "alt": "Insert Page 14 of the Tour Of Change and Best Of Tour Booklet",
+      "cap": "Insert Page 14",
+      "slide": "14",
+      "active":""
+    },
+    {
+      "src": "tfc_back.jpg",
+      "alt": "Back Cover of the Tour Of Change and Best Of Tour Booklet",
+      "cap": "back Cover",
+      "slide": "15",
+      "active":""
+    }
+   ]
+}

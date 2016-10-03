@@ -1,0 +1,21 @@
+{
+  "footnote" : "Yahoo Messenger Desktop is no longer available as of March 27, 2016.",
+  "images": "download/images/",
+  "files": "download/files/",
+  "data": [
+    {
+      "name": "Yahoo Messenger Theme",
+      "file": "YMT_VMAE.zip",
+      "preview":"preview1.jpg",
+      "height":"200",
+      "width":"91"
+    },
+    {
+      "name": "IPAQ Pocket PC Theme",
+      "file": "Vanessa-Mae.tsk",
+      "preview":"preview2.jpg",
+      "height":"200",
+      "width":"161"
+    }
+  ]
+}

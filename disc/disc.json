@@ -1,0 +1,65 @@
+{
+    "title": "Music",
+    "footer": "Pages In Progress",
+    "data": [
+      {
+        "link" : "mediaChoreography",
+        "title" : "2004: Choreography"
+      },
+      {
+        "link" : "mediaUltimate",
+        "title" : "2003: The Ultimate Vanessa-Mae"
+      },
+      {
+        "link" : "mediaBestOf",
+        "title" : "2002: The Best Of Vanessa-Mae"
+      },
+      {
+        "link" : "mediaSubject",
+        "title" : "2001: Subject To Change"
+      },
+      {
+        "link" : "mediaFourSeasons",
+        "title" : "1998: The Original Four Seasons and the Devil's Trill Sonata"
+      },
+      {
+        "link" : "mediaStorm",
+        "title" : "1997: Storm"
+      },
+      {
+        "link" : "mediaChinaGirl",
+        "title" : "1997: China Girl - The Classical Album 2"
+      },
+      {
+        "link" : "mediaBerlin",
+        "title" : "1996: Live at the Berlin Philharmonie"
+      },
+      {
+        "link" : "mediaClassical1",
+        "title" : "1996: The Classical Album 1"
+      },
+      {
+        "link" : "mediaAlternative",
+        "title" : "1996: The Alternative Record From Vanessa-Mae"
+      },{
+        "link" : "mediaRoyal",
+        "title" : "1995: Live at the Royal Albert Hall"
+      },
+      {
+        "link" : "mediaVPlayer",
+        "title" : "1995: The Violin Player"
+      },
+      {
+        "link" : "mediaTBConcertos",
+        "title" : "1992: Tchaikovsky and Beethoven Concertos"
+      },
+      {
+        "link" : "mediaKids",
+        "title" : "1991: Kids' Classics"
+      },
+      {
+        "link" : "mediaViolin",
+        "title" : "1990: Violin"
+      }
+    ]
+}

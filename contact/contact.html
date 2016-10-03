@@ -1,0 +1,15 @@
+<!-- 
+    TO DO - find a way to allow html displayed. 
+    this may hold a tip
+    http://jsfiddle.net/gFFBa/885/
+    ng-bind-html-unsafe does not work for me.
+-->
+<!-- each section should allow a title -->
+<h3 ng-show="title != null">
+    <span class="specializedFont primaryColor" ng-show="title != null">{{title}}</span>
+</h3>
+<p class="primaryColor" ng-repeat="x in names" ng-bind-html-unsafe="x.value">
+{{x.value}}
+</p>
+<!-- each section should allow a footnote -->
+<span ng-show="footnote != null" class="specializedFont secondaryColor italicsFont">{{footnote}}</span>

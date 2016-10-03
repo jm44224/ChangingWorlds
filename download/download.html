@@ -1,0 +1,26 @@
+<!-- 
+    show the text  in the primary color.
+    keep file locations in the JSON.
+    we know there are only two, col-md-6 is okay
+-->
+<!-- each section should allow a title -->
+<h3 ng-show="title != null">
+    <span class="specializedFont primaryColor" ng-show="title != null">{{title}}</span>
+</h3>
+<div class="container-fluid">
+    <div class="row">
+    <div ng-repeat="x in names" class="col-md-6">
+            <a target=blank href="{{files}}{{x.file}}">
+                <span class="primaryColor">{{x.name}}</span>
+                <br>
+                <img src="{{images}}{{x.preview}}" 
+                    height="{{x.height}}" 
+                    width="{{x.width}}" 
+                    align="top"
+                    alt="image of the {{x.name}}">
+            </a>
+    </div>
+    </div>
+</div>
+<!-- each section should allow a footnote -->
+<span ng-show="footnote != null" class="specializedFont secondaryColor italicsFont">{{footnote}}</span>

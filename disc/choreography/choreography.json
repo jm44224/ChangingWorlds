@@ -1,0 +1,73 @@
+{
+    "title": "Choreography",
+    "year": "2004",
+    "release": "20041008",
+    time: "43:18",
+    "tracks": "1",
+    "images": "1",
+    "extra": "0",
+    label: "Sony Classical",
+    "footer": "Pages In Progress",
+    "tracklist": [
+      {
+        "number" : "1",
+        "name" : "Sabre Dance",
+        "time" : "6:01",
+        "composer" : "Khachaturian, arr. Tolga Kashif"
+      },
+      {
+        "number" : "2",
+        "name" : "Roxane's Veil",
+        "time" : "4:42",
+        "composer" : "Vangelis"
+      },
+      {
+        "number" : "3",
+        "name" : "Bolero for Violin and Orchestra",
+        "time" : "5:06,
+        "composer" : "Walter Taieb"
+      },
+      {
+        "number" : "4",
+        "name" : "Tango De Los Exilados",
+        "time" : "3:55",
+        "composer" : "Walter Taieb"
+      },
+      {
+        "number" : "5",
+        "name" : "The Havana Slide",
+        "time" : "3:45",
+        "composer" : "Jon Cohen"
+      },
+      {
+        "number" : "6",
+        "name" : "Emerald Tiger",
+        "time" : "3:50",
+        "composer" : "Bill Whelan"
+      },
+      {
+        "number" : "7",
+        "name" : "Tribal Gathering,
+        "time" : "3:37",
+        "composer" : "Walter Taieb and Vanessa-Mae"
+      },
+      {
+        "number" : "8",
+        "name" : "Raga's Dance",
+        "time" : "5:26",
+        "composer" : "A.R. Rahman"
+      },
+      {
+        "number" : "9",
+        "name" : "Moroccan Roll",
+        "time" : "3:08",
+        "composer" : "Kad Achouri and Jon Cohen"
+      },
+      {
+        "number" : "10",
+        "name" : "Handel's Minuet",
+        "time" : "3:50",
+        "composer" : "arr. Vanessa-Mae"
+      }
+    ]
+}

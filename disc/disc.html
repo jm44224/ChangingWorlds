@@ -1,0 +1,13 @@
+<!-- each section should allow a title -->
+<h3 ng-show="title != null">
+    <span class="specializedFont primaryColor" ng-show="title != null">{{title}}</span>
+</h3>
+<ul>
+    <li ng-repeat="x in names">
+        <a href="#/{{x.link}}">
+            {{x.title}} 
+        </a>
+    </li>
+</ul>
+<!-- each section should allow a footnote -->
+<span ng-show="footnote != null" class="specializedFont secondaryColor italicsFont">{{footnote}}</span>

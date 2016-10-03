@@ -1,0 +1,40 @@
+.disabledColor {
+    color: #CCCCCC;
+}
+
+.primaryBackground {
+    background-color: #660066;
+}
+
+.primaryColor {
+    color: #FFCCFF;
+}
+
+.secondaryColor {
+    color: #FFFFFF;
+}
+
+.secondaryBackground {
+    background-color: #FFCCFF;
+}
+
+.sideNavColor {
+    color: #660066;
+}
+
+.specializedColor {
+    color: yellow;
+}
+
+
+a:link, a:visited {
+    color: #FFCCFF;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+a:link:active, a:visited:active {
+    color: #FFCCFF;
+}

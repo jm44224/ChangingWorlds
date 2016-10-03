@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<!-- Vanessa-Mae ... Changing Worlds -->
+<!-- © 2001-2003, 2015-2016 joe_mate, USA -->
+<!-- formerly vanessa-mae.us -->
+<!-- formerly vanessa-mae.cc -->
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Vanessa-Mae ... Changing Worlds</title>
+    <META name="author" content="joe_mate">
+    <META name="description" content="Yet another Vanessa-Mae fan site.">
+    <META name="keywords" content="Vanessa-Mae,vanessa-mae,vanessamae,VanessaMae,vanessa,mae,Vanessa,vanesa,Mae,vanakorn,nicholson,subject to change,changing worlds,changing,worlds,storm,violin player,classical,china girl,chen mei,chen,mei,jazz,techno,accoustic,fusion,violin,joe_mate">
+    <META content="joe_mate" name="maintainer">
+    <META content="© 2001-2003, 2015-2016 joe_mate" name="copyright">
+	<!-- Latest compiled and minified CSS -->
+	<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap.min.css">
+	<script src="//code.jquery.com/jquery-1.11.2.min.js"></script>
+    <script src="//code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
+	<!-- Latest compiled and minified JavaScript -->
+	<script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.2/js/bootstrap.min.js"></script>
+    <script src="bower_components/angular/angular.js"></script>
+    <script src="bower_components/angular-route/angular-route.js"></script>
+    <!-- include common CSS -->
+    <link rel="stylesheet" href="styles/vmcw.css" id="vmcw">
+    <link rel="stylesheet" href="styles/sidenav.css" id="sidenav">
+    <link rel="stylesheet" href="styles/topnav.css" id="topnav">
+    <link rel="stylesheet" href="styles/carousel.css" id="carousel">
+    <!-- include and disable all theme CSS -->
+    <link rel="stylesheet" href="styles/vp/vp.css" id="vp" disabled>    
+    <link rel="stylesheet" href="styles/stc/stc.css" id="stc" disabled>
+</head>
+<body class="primaryBackground primaryFont" ng-app="myApp" ng-controller="mainCtrl">
+    <header class="container-fluid">
+        <div class="row content">
+            <div class="col-sm-4">
+                <h3>
+                    <span class="specializedFont primaryColor">{{header}}</span>
+                    <span class="specializedColor specializedFont primaryColor">*</span>
+                    <span id="sidemenu" class="specializedFont primaryColor pointer float-right" onclick="toggleNav()">&#9776;</span>
+                </h3>
+            </div>
+            <div class="col-sm-8">
+                <ul id="widemenu" class="nav nav-pills nav-justified">
+                    <li ng-repeat="menuItem in menuItems">
+                        <a class="dropdown-toggle primaryColor" data-toggle="dropdown" href="#/{{menuItem.link}}">
+                            {{menuItem.title}} 
+                            <span ng-if="menuItem.icon" class="{{menuItem.icon}}"></span>
+                            <span ng-if="menuItem.submenu" class="caret"></span>
+                            <ul ng-if="menuItem.submenu" class="dropdown-menu primaryColor">
+                                <li ng-repeat="submenuItem in menuItem.submenu">
+                                    <a href="#{{submenuItem.link}}">{{submenuItem.title}}</a>
+                                </li>
+                            </ul>
+                        </a>
+                    </li>                    
+                </ul>
+            </div>
+        </div>
+    </header>
+    <!-- click anywhere on sideNav to close itself -->
+    <div id="mySidenav" class="sidenav secondaryBackground" onclick="toggleNav()">
+        <li ng-repeat="menuItem in menuItems">
+            <a class="sideNavColor" href="#/{{menuItem.link}}">
+                <span class="sideNavColor">{{menuItem.title}}</span>
+            </a>
+        </li>                    
+    </div>    
+<div id="main">
+    <div class="container-fluid primaryColor">
+        <div class="row content">
+            <div class="col-sm-5">
+                <img id="mainImg" class="mainImg img-responsive img-rounded" alt="main image of theme" src="">
+                <span class="specializedColor specializedFont italicsFont">{{asterisk}}</span>
+            </div>
+            <div class="col-sm-7">
+                <div ng-view></div>
+            </div>
+        </div>
+    </div>
+    <footer class="container-fluid">
+        <div class="row content primaryColor">
+            <div class="col-sm-5 text-right">
+                <span class="specializedColor specializedFont italicsFont">{{footer}}</span>
+                <select id="vmcc_theme" class="secondaryBackground sideNavColor">
+                    <option  ng-repeat="theme in themes" value="{{theme.value}}">{{theme.title}}</option>
+                </select>
+            </div>
+            <div class="col-sm-7 text-right">
+                {{copyright}}
+            </div>
+        </div>
+    </footer>
+</div>    
+    <script src="index.js"></script>
+    <!--
+    <link rel="stylesheet" href="jk-carousel.min.css" />
+    <script src="jk-carousel.min.js"></script>
+    --
+    <!-- include all menu JS files -->
+    <script src="about/about.js"></script>
+    <script src="gallery/gallery.js"></script>
+    <script src="contact/contact.js"></script>
+    <script src="disc/disc.js"></script>
+    <script src="download/download.js"></script>
+    <script src="links/links.js"></script>
+    <script src="tour/tour.js"></script>
+    <script src="tour/changebest/changebest.js"></script>
+    <script src="tour/classical1/classical1.js"></script>
+    <script src="tour/fourseasons/fourseasons.js"></script>
+    <script src="tour/redhot/redhot.js"></script>
+    <script src="tour/stormon/stormon.js"></script>
+</body>
+</html>

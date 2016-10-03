@@ -1,0 +1,90 @@
+{
+  "footnote" : "This site originally used babelfish.altavista.com; it now uses www.bing.com/translator/.",
+  "data": [
+    {
+      "name": "Vanessa-Mae (official site) ",
+      "value": "http://www.vanessamaeofficial.com/",
+      "active": 0
+    },
+    {
+      "name": "Four Seasons of Vanessa-Mae",
+      "value": "http://www.vanessamae.org/",
+      "active": "0"
+    },
+    {
+      "name": "The Red Hot Vanessa-Mae Homepage",
+      "value": "http://www.vanessamae.com/",
+      "active": "0"
+    },
+    {
+      "name": "Vanessa-Mae",
+      "value": "http://www.vanessa-mae.art.pl/",
+      "language": "(Polish)",
+      "active": "0"
+    },
+    {
+      "name": "Vanessa-Mae Online",
+      "value": "http://www.vanessamaeonline.com/",
+      "active": "0"
+    },
+    {
+      "name": "Saying Power on Strings",
+      "value": "http://www.vanessa-mae.nu/",
+      "active": "0"
+    },
+    {
+      "name": "Reflection",
+      "value": "http://www.vanessa-mae.co.uk/",
+      "active": "0"
+    },
+    {
+      "name": "Vanessa-Mae en Español",
+      "value": "http://www.vanessa-mae.com.ar/",
+      "language": "(Spanish)",
+      "active": "1"
+    },
+    {
+      "name": "::China Girl:: sito italiano",
+      "value": "http://vanessamae.altervista.org/",
+      "language": "(Italian)",
+      "active": "1"
+    },
+    {
+      "name": "Vanessa-Mae, The Neoclassic Violin Wizard",
+      "value": "http://www.ksmould.co.th/vm/",
+      "language": "(Thai version available)",
+      "active": "1"
+    },
+    {
+      "name": "Vanessa-Mae Is IT!",
+      "value": "http://www.vanessa-mae.is.it/",
+      "active": "1"
+    },
+    {
+      "name": "Vanessa-Mae in concert",
+      "value": "http://in-concert.de.vu/",
+      "active": "0"
+    },
+    {
+      "name": "Ванесса Мэй (Vanessa-Mae)",
+      "value": "http://www.vanessa-mae.narod.ru/",
+      "language": "(Russian)",
+      "active": "1"
+    },
+    {
+      "name": "The Unofficial Vanessa-Mae News Blog",
+      "value": "http://www.vanessamae.net/",
+      "active": "1"
+    },
+    {
+      "name": "The Vanessa-Mae Forum (FSVM)",
+      "value": "http://vanessamae.net/forum/",
+      "active": "1"
+    },
+    {
+      "name": "fu_HUE's Yahoo Group",
+      "value": "http://launch.groups.yahoo.com/group/vanessamae2/",
+      "active": "1"
+    }
+  ]
+}

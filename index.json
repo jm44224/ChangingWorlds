@@ -1,0 +1,64 @@
+{
+    "header":"陳美 Vanessa-Mae",
+    "asterisk":"* Changing Worlds",
+    "copyright":"copyright© 2001-2003, 2015-2016, Joseph Mate [joe_mate], USA",
+  "menu": [
+    {
+      "link" : "about",
+      "title" : "About",
+      "icon": ""
+    },
+    {
+      "link" : "gallery",
+      "title" : "Gallery",
+      "icon": "glyphicon glyphicon-camera"
+    },
+    {
+      "link" : "disc",
+      "title" : "Music",
+      "icon": "glyphicon glyphicon-cd"
+    },
+    {
+      "link" : "tour",
+      "title" : "Tours",
+      "icon" : "glyphicon glyphicon-road",
+      "submenu": [
+        {
+          "link" : "tourRedHot",
+          "title" : "Red Hot Tour"
+        },
+        {
+          "link" : "tourClassical1",
+          "title" : "1997 Classical Tour"
+        },
+        {
+          "link" : "tourStormOn",
+          "title" : "Storm On World Tour"
+        },
+        {
+          "link" : "tourFourSeasons",
+          "title" : "Four Seasons Tour"
+        },
+        {
+          "link" : "tourChangeBest",
+          "title" : "Tour Of Change and Best Of Tour"
+        }
+      ]
+    },
+    {
+      "link" : "download",
+      "title" : "Free",
+      "icon" : "glyphicon glyphicon-download-alt"
+    },
+    {
+      "link" : "links",
+      "title" : "Links",
+      "icon" : "glyphicon glyphicon-link"
+    },
+    {
+      "link" : "contact",
+      "title" : "Contact",
+      "icon" : "glyphicon glyphicon-info-sign"
+    }
+  ]
+}
