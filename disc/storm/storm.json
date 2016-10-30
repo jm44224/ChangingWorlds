@@ -1,0 +1,96 @@
+{
+    "title": "Storm",
+    "year": "1997",
+    "release": "",
+    "time": "",
+    "tracks": "1",
+    "images": "1",
+    "extra": "0",
+    "label": "EMI Records Ltd / Virgin Records America Inc.",
+    "tracklist": [
+      {
+        "number" : "1",
+        "name" : "Summer Haze",
+        "time" : "3.11",
+        "composer" : "Andy Hill/Vanessa-Mae"
+      },
+      {
+        "number" : "2",
+        "name" : "Storm",
+        "time" : "3.45",
+        "composer" : "Andy Hill/Vanessa-Mae"
+      },
+      {
+        "number" : "3",
+        "name" : "Retro",
+        "time" : "3.57",
+        "composer" : "Andy Hill/Vanessa-Mae"
+      },
+      {
+        "number" : "4",
+        "name" : "Bach Street Prelude",
+        "time" : "4.25",
+        "composer" : "Andy Hill/Vanessa-Mae"
+      },
+      {
+        "number" : "5",
+        "name" : "Leyenda",
+        "time" : "6.32",
+        "composer" : "Andy Hill/Vanessa-Mae"
+      },
+      {
+        "number" : "6",
+        "name" : "(I) Can, Can (You?)",
+        "time" : "3.40",
+        "composer" : "Andy Hill/Vanessa-Mae"
+      },
+      {
+        "number" : "7",
+        "name" : "Happy Valley",
+        "time" : "6.32",
+        "composer" : "Andy Hill/Vanessa-Mae/Pamela Nicholson"
+      },
+      {
+        "number" : "8",
+        "name" : "A Poet's Quest (For a Distant Paradise)",
+        "time" : "4.31",
+        "composer" : "Andy Hill/Vanessa-Mae"
+      },
+      {
+        "number" : "9",
+        "name" : "Embrasse Moi (You Fly Me Up)",
+        "time" : "5.03",
+        "composer" : "Andy Hill/Wendy Page"
+      },
+      {
+        "number" : "10",
+        "name" : "Aurora",
+        "time" : "4.56",
+        "composer" : "Vanessa-Mae/Wherry"
+      },
+      {
+        "number" : "11",
+        "name" : "I'm A Doun",
+        "time" : "4.28",
+        "composer" : "Traditional/Vanessa-Mae"
+      },
+      {
+        "number" : "12",
+        "name" : "I Feel Love",
+        "time" : "6.57",
+        "composer" : "Bellotte/Moroder/Summer"
+      },
+      {
+        "number" : "13",
+        "name" : "Hocus Pocus",
+        "time" : "3.14",
+        "composer" : "Van Leer/Akkerman"
+      },
+      {
+        "number" : "14",
+        "name" : "The Blessed Spirits",
+        "time" : "8.16",
+        "composer" : "Andy Hill/Vanessa-Mae"
+      }
+    ]
+}

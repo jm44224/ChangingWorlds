@@ -2,12 +2,11 @@
     "title": "Choreography",
     "year": "2004",
     "release": "20041008",
-    time: "43:18",
+    "time": "43:18",
     "tracks": "1",
     "images": "1",
     "extra": "0",
-    label: "Sony Classical",
-    "footer": "Pages In Progress",
+    "label": "Sony Classical",
     "tracklist": [
       {
         "number" : "1",
@@ -24,7 +23,7 @@
       {
         "number" : "3",
         "name" : "Bolero for Violin and Orchestra",
-        "time" : "5:06,
+        "time" : "5:06",
         "composer" : "Walter Taieb"
       },
       {
@@ -47,7 +46,7 @@
       },
       {
         "number" : "7",
-        "name" : "Tribal Gathering,
+        "name" : "Tribal Gathering",
         "time" : "3:37",
         "composer" : "Walter Taieb and Vanessa-Mae"
       },

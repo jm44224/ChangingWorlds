@@ -88,6 +88,14 @@
     font-weight: normal;
 }
 
+.smallerFont {
+    font-size: smaller;
+}
+
+.smallFont {
+    font-size: small;
+}
+
 .pointer {
     cursor: pointer;
 }

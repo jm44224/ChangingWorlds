@@ -1,0 +1,120 @@
+{
+    "title": "Kids' Classics",
+    "year": "1991",
+    "release": "",
+    "time": "",
+    "tracks": "1",
+    "images": "1",
+    "extra": "0",
+    "label": "Trittico Classics Ltd.",
+    "tracklist": [
+      {
+        "number" : "1",
+        "name" : "Figaro",
+        "time" : "5:32",
+        "composer" : "Castelnuovo-Tedesco Heifetz)"
+      },
+      {
+        "number" : "2",
+        "name" : "Liebesleid",
+        "time" : "2:50",
+        "composer" : "Kreisler"
+      },
+      {
+        "number" : "3",
+        "name" : "Liebesfreud",
+        "time" : "3:01",
+        "composer" : "Kreisler"
+      },
+      {
+        "number" : "4",
+        "name" : "Schon Rosmarin",
+        "time" : "1:51",
+        "composer" : "Kreisler"
+      },
+      {
+        "number" : "5",
+        "name" : "La Campanella",
+        "time" : "5:18",
+        "composer" : "Paganini/Kreisler"
+      },
+      {
+        "number" : "6",
+        "name" : "Air On The G String",
+        "time" : "2:17",
+        "composer" : "Bach/Wilhemj"
+      },
+      {
+        "number" : "7",
+        "name" : "Frere Jacques",
+        "time" : "8:50",
+        "composer" : "James"
+      },
+      {
+        "number" : "8",
+        "name" : "Yellow Submarine",
+        "time" : "1:35",
+        "composer" : "McCartney/James"
+      },
+      {
+        "number" : "9",
+        "name" : "Salut D'Amour",
+        "time" : "2:20",
+        "composer" : "Elgar"
+      },
+      {
+        "number" : "10",
+        "name" : "Russian Dance",
+        "time" : "3:57",
+        "composer" : "Tchaikovsky"
+      },
+      {
+        "number" : "11",
+        "name" : "Lullaby",
+        "time" : "1:57",
+        "composer" : "Brahms/James"
+      },
+      {
+        "number" : "12",
+        "name" : "Les Parapluies De Cherbourg",
+        "time" : "1:46",
+        "composer" : "LeGrand/Vanessa-Mae"
+      },
+      {
+        "number" : "13",
+        "name" : "Summertime",
+        "time" : "1:49",
+        "composer" : "Gershwin/Heifetz"
+      },
+      {
+        "number" : "14",
+        "name" : "My Favourite Things",
+        "time" : "1:12",
+        "composer" : "Rogers/James"
+      },
+      {
+        "number" : "15",
+        "name" : "One Moment In Time",
+        "time" : "4:31",
+        "composer" : "Bettis/Vanessa-Mae"
+      },
+      {
+        "number" : "16",
+        "name" : "Tambourin Chinois",
+        "time" : "3:56",
+        "composer" : "Kreisler"
+      },
+      {
+        "number" : "17",
+        "name" : "Chinese Folk Tune",
+        "time" : "2:33",
+        "composer" : "Sze-Du/James"
+      },
+      {
+        "number" : "18",
+        "name" : "Pink Panther",
+        "time" : "2:25",
+        "composer" : "Mancini/James"
+      }
+    ]
+}

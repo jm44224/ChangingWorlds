@@ -1,0 +1,84 @@
+{
+    "title": "Subject To Change",
+    "year": "2001",
+    "release": "20010514",
+    "time": "62:02",
+    "tracks": "1",
+    "images": "1",
+    "extra": "0",
+    "label": "EMI Records Ltd.",
+    "tracklist": [
+      {
+        "number" : "1",
+        "name" : "Yantra",
+        "time" : "5:52",
+        "composer" : "Vanessa-Mae, Youth"
+      },
+      {
+        "number" : "2",
+        "name" : "White Bird",
+        "time" : "5:33",
+        "composer" : "David Laflamme"
+      },
+      {
+        "number" : "3",
+        "name" : "Picante",
+        "time" : "2:57",
+        "composer" : "Vanessa-Mae, Youth"
+      },
+      {
+        "number" : "4",
+        "name" : "Destiny",
+        "time" : "6:48",
+        "composer" : "Vanessa-Mae, Youth"
+      },
+      {
+        "number" : "5",
+        "name" : "Night Flight",
+        "time" : "4:41",
+        "composer" : "Vanessa-Mae, Youth"
+      },
+      {
+        "number" : "6",
+        "name" : "Clear Like Ice",
+        "time" : "5:09",
+        "composer" : "Vanessa-Mae, Youth"
+      },
+      {
+        "number" : "7",
+        "name" : "Laughing Buddha",
+        "time" : "6:08",
+        "composer" : "Vanessa-Mae, Youth"
+      },
+      {
+        "number" : "8",
+        "name" : "Pasha",
+        "time" : "4:27",
+        "composer" : "Vanessa-Mae, Youth"
+      },
+      {
+        "number" : "9",
+        "name" : "Solace",
+        "time" : "4:33",
+        "composer" : "Vanessa-Mae, Youth"
+      },
+      {
+        "number" : "10",
+        "name" : "Love is Only a Game",
+        "time" : "2:53",
+        "composer" : "Vanessa-Mae, Youth"
+      },
+      {
+        "number" : "11",
+        "name" : "Deep South",
+        "time" : "6:19",
+        "composer" : "Vanessa-Mae, Youth"
+      },
+      {
+        "number" : "12",
+        "name" : "Jamais / Tourmaline",
+        "time" : "9:06",
+        "composer" : "Vanessa-Mae, Youth"
+      }
+    ]
+}

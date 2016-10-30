@@ -14,10 +14,40 @@ $(document).ready(function(){
 
 function setTheme(theme)
 {
-     $("#stc").attr("disabled", "disabled");
-     $("#vp").attr("disabled", "disabled");
+    $("#stc").attr("disabled", "disabled");
+    $("#vp").attr("disabled", "disabled");
+    $("#stus").attr("disabled", "disabled");
+    $("#cl1").attr("disabled", "disabled");
+    $("#cc1").attr("disabled", "disabled");
+    $("#fs").attr("disabled", "disabled");
     
     switch (theme.toLowerCase()) {
+ 
+        case 'fs':
+        case '4':
+            $("#mainImg").attr("src","styles/fs/fs_img.jpg");
+            $("#fs").removeAttr("disabled");
+            break;
+            
+        case 'cc1':
+        case '3':
+            $("#mainImg").attr("src","styles/cc1/cc1_img.jpg");
+            $("#cc1").removeAttr("disabled");
+            break;
+            
+        case 'cl1':
+        case '2':
+            $("#mainImg").attr("src","styles/cl1/cl1_img.jpg");
+            $("#cl1").removeAttr("disabled");
+            break;
+            
+            
+        case 'stus':
+        case '5':
+            $("#mainImg").attr("src","styles/stus/stus_img.jpg");
+            $("#stus").removeAttr("disabled");
+            break;
+            
         case 'stc':
         case '1':
             $("#mainImg").attr("src","styles/stc/stc_img.jpg");
@@ -78,6 +108,70 @@ var siteInfoApp = angular.module('myApp', ['ngRoute'])
         .when('/disc', {
             templateUrl: 'disc/disc.html',
             controller: 'discController'
+        })
+        .when('/discAlternative', {
+            templateUrl: 'disc/discpage.html',
+            controller: 'discAlternativeController'
+        })
+        .when('/discBerlin', {
+            templateUrl: 'disc/discpage.html',
+            controller: 'discBerlinController'
+        })
+        .when('/discBestOf', {
+            templateUrl: 'disc/discpage.html',
+            controller: 'discBestOfController'
+        })
+        .when('/discChinaGirl', {
+            templateUrl: 'disc/discpage.html',
+            controller: 'discChinaGirlController'
+        })
+        .when('/discChoreography', {
+            templateUrl: 'disc/discpage.html',
+            controller: 'discChoreographyController'
+        })
+        .when('/discClassical1', {
+            templateUrl: 'disc/discpage.html',
+            controller: 'discClassical1Controller'
+        })
+        .when('/discEarlyYears', {
+            templateUrl: 'disc/discpage.html',
+            controller: 'discEarlyYearsController'
+        })       
+        .when('/discFourSeasons', {
+            templateUrl: 'disc/discpage.html',
+            controller: 'discFourSeasonsController'
+        })
+        .when('/discKids', {
+            templateUrl: 'disc/discpage.html',
+            controller: 'discKidsController'
+        })
+        .when('/discRoyal', {
+            templateUrl: 'disc/discpage.html',
+            controller: 'discRoyalController'
+        })
+        .when('/discStorm', {
+            templateUrl: 'disc/discpage.html',
+            controller: 'discStormController'
+        })
+        .when('/discSubject', {
+            templateUrl: 'disc/discpage.html',
+            controller: 'discSubjectController'
+        })
+        .when('/discTBConcertos', {
+            templateUrl: 'disc/discpage.html',
+            controller: 'discTBConcertosController'
+        })
+        .when('/discUltimate', {
+            templateUrl: 'disc/discpage.html',
+            controller: 'discUltimateController'
+        })
+        .when('/discViolin', {
+            templateUrl: 'disc/discpage.html',
+            controller: 'discViolinController'
+        })
+        .when('/discVPlayer', {
+            templateUrl: 'disc/discpage.html',
+            controller: 'discVPlayerController'
         })
         .when('/tour', {
             templateUrl: 'tour/tour.html',

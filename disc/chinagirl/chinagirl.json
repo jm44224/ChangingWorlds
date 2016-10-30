@@ -1,0 +1,30 @@
+{
+    "title": "China Girl - The Classical Album 2",
+    "year": "1997",
+    "release": "",
+    "time": "",
+    "tracks": "1",
+    "images": "1",
+    "extra": "0",
+    "label": "Angel Records/EMI Records Ltd.",
+    "tracklist": [
+      {
+        "number" : "1",
+        "name" : "Butterfly Lovers Concerto",
+        "time" : "26:46",
+        "composer" : "Ho Zhan Hao and Chen Kang"
+      },
+      {
+        "number" : "2",
+        "name" : "Violin Fantasy on Puccini's 'Turandot'",
+        "time" : "11:37",
+        "composer" : "Vanessa-Mae"
+      },
+      {
+        "number" : "3",
+        "name" : "Happy Valley: The 1997 Re-unification Overture",
+        "time" : "6:35",
+        "composer" : "Vanessa-Mae and Andy Hill"
+      }
+    ]
+}

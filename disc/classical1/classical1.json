@@ -1,0 +1,138 @@
+{
+    "title": "The Classical Album 1",
+    "year": "1996",
+    "release": "",
+    "time": "60:38",
+    "tracks": "1",
+    "images": "1",
+    "extra": "0",
+    "label": "EMI Records Ltd.",
+    "tracklist": [
+      {
+        "number" : "",
+        "name" : "Partita No. 3 in E for Solo Violin BMV 1006",
+        "time" : "",
+        "composer" : "J.S. Bach"
+      },
+      {
+        "number" : "1",
+        "name" : "I. Preludio",
+        "time" : "3.53",
+        "composer" : ""
+      },
+      {
+        "number" : "2",
+        "name" : "II. Loure",
+        "time" : "3.13",
+        "composer" : ""
+      },
+      {
+        "number" : "3",
+        "name" : "III. Gavotte En Rondeau",
+        "time" : "3.04",
+        "composer" : ""
+      },
+      {
+        "number" : "4",
+        "name" : "IV. Menuet I",
+        "time" : "1.15",
+        "composer" : ""
+      },
+      {
+        "number" : "5",
+        "name" : "VI. Bouree",
+        "time" : "1.24",
+        "composer" : ""
+      },
+      {
+        "number" : "6",
+        "name" : "VI. Bouree",
+        "time" : "1.15",
+        "composer" : ""
+      },
+      {
+        "number" : "7",
+        "name" : "VII. Gigue",
+        "time" : "1.26",
+        "composer" : ""
+      },
+      {
+        "number" : "",
+        "name" : "Johannes Brahms",
+        "time" : "",
+        "composer" : ""
+      },
+      {
+        "number" : "8",
+        "name" : "Scherzo in C Minor for Violin and Piano",
+        "time" : "5.18",
+        "composer" : ""
+      },
+      {
+        "number" : "",
+        "name" : "Ludwig van Beethoven",
+        "time" : "",
+        "composer" : ""
+      },
+      {
+        "number" : "9",
+        "name" : "Romance No. 2 in F for Violin and Orchestra Op. 50",
+        "time" : "",
+        "composer" : "8.22"
+      },
+      {
+        "number" : "",
+        "name" : "Scottish Fantasy for Violin and Orchestra Op. 46",
+        "time" : "",
+        "composer" : "Max Bruch"
+      },
+      {
+        "number" : "10",
+        "name" : "1st Movement Introduction - Grave",
+        "time" : "3.17",
+        "composer" : ""
+      },
+      {
+        "number" : "11",
+        "name" : "Adagio Cantabile (on 'Thro' the Wood Laddie' / `Auld Rob Morris')",
+        "time" : "4.04",
+        "composer" : ""
+      },
+      {
+        "number" : "12",
+        "name" : "2nd Movement - Allegro (on 'Hey the Dusty Miller')",
+        "time" : "5.26",
+        "composer" : ""
+      },
+      {
+        "number" : "13",
+        "name" : "3rd Movement - Adagio",
+        "time" : "0.59",
+        "composer" : ""
+      },
+      {
+        "number" : "14",
+        "name" : "Andante Sostenuto (on 'I'm a Doun for Lack O'Johnnie')",
+        "time" : "5.31",
+        "composer" : ""
+      },
+      {
+        "number" : "15",
+        "name" : "4th Movement, Finale - Allegro Guerriero (on 'Scots Wha Hae')",
+        "time" : "6.59",
+        "composer" : ""
+      },
+      {
+        "number" : "",
+        "name" : "Traditional / Vanessa-Mae",
+        "time" : "",
+        "composer" : ""
+      },
+      {
+        "number" : "16",
+        "name" : "'I'm a Doun for Lack O'Johnnie (A Little Scottish Fantasy)",
+        "time" : "4.29",
+        "composer" : ""
+      }
+    ]
+}
