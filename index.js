@@ -10,6 +10,7 @@ $(document).ready(function(){
     $( "#vmcc_theme" ).change(function(event) {
         setTheme( $( "select option:selected" ).val().toString() );
     });
+    $("#divBody").show();
 });
 
 function setTheme(theme)
@@ -72,9 +73,7 @@ function toggleNav() {
 }
 
 /* main controller */
-var siteInfoApp = angular.module('myApp', ['ngRoute'])
-
-.controller('mainCtrl', function ($scope, $http) {
+var siteInfoApp = angular.module('myApp', ['ngRoute']).controller('mainCtrl', function ($scope, $http) {
     /* load the main page, and the menu */
     /* TO DO - can this be multiple languages? */
     $http.get('index.json').success(function (data) {
