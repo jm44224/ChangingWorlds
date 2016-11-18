@@ -14,24 +14,27 @@
     <META content="joe_mate" name="maintainer">
     <META content="© 2001-2003, 2015-2016 joe_mate" name="copyright">
 	<!-- Latest compiled and minified CSS -->
-	<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap.min.css">
-	<script src="//code.jquery.com/jquery-1.11.2.min.js"></script>
-    <script src="//code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
-	<!-- Latest compiled and minified JavaScript -->
-	<script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.2/js/bootstrap.min.js"></script>
-    <script src="bower_components/angular/angular.js"></script>
-    <script src="bower_components/angular-route/angular-route.js"></script>
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
+	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.5.6/angular.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.5.6/angular-route.js"></script>
     <!-- include common CSS -->
     <link rel="stylesheet" href="styles/vmcw.css" id="vmcw">
     <link rel="stylesheet" href="styles/sidenav.css" id="sidenav">
     <link rel="stylesheet" href="styles/topnav.css" id="topnav">
     <link rel="stylesheet" href="styles/carousel.css" id="carousel">
     <!-- include and disable all theme CSS -->
-    <link rel="stylesheet" href="styles/vp/vp.css" id="vp" disabled>    
+    <link rel="stylesheet" href="styles/vp/vp.css" id="vp" >    
     <link rel="stylesheet" href="styles/stc/stc.css" id="stc" disabled>
+    <link rel="stylesheet" href="styles/stus/stus.css" id="stus" disabled>
+    <link rel="stylesheet" href="styles/cl1/cl1.css" id="cl1" disabled>
+    <link rel="stylesheet" href="styles/cc1/cc1.css" id="cc1" disabled>
+    <link rel="stylesheet" href="styles/fs/fs.css" id="fs" disabled>
 </head>
 <body class="primaryBackground primaryFont" ng-app="myApp" ng-controller="mainCtrl">
-    <header class="container-fluid">
+    <div id="divBody"  style="display:none">
+    <header id="header" class="container-fluid" style="display:Block">
         <div class="row content">
             <div class="col-sm-4">
                 <h3>
@@ -59,49 +62,62 @@
         </div>
     </header>
     <!-- click anywhere on sideNav to close itself -->
-    <div id="mySidenav" class="sidenav secondaryBackground" onclick="toggleNav()">
+    <div id="mySidenav" class="sidenav secondaryBackground" onclick="toggleNav()" style="display:Block">
         <li ng-repeat="menuItem in menuItems">
             <a class="sideNavColor" href="#/{{menuItem.link}}">
                 <span class="sideNavColor">{{menuItem.title}}</span>
             </a>
         </li>                    
     </div>    
-<div id="main">
-    <div class="container-fluid primaryColor">
-        <div class="row content">
-            <div class="col-sm-5">
-                <img id="mainImg" class="mainImg img-responsive img-rounded" alt="main image of theme" src="">
-                <span class="specializedColor specializedFont italicsFont">{{asterisk}}</span>
-            </div>
-            <div class="col-sm-7">
-                <div ng-view></div>
+    <div id="main" style="display:Block">
+        <div class="container-fluid primaryColor">
+            <div class="row content">
+                <div class="col-sm-5">
+                    <img id="mainImg" class="mainImg img-responsive img-rounded" alt="main image of theme" src="">
+                    <span class="specializedColor specializedFont italicsFont">{{asterisk}}</span>
+                </div>
+                <div class="col-sm-7">
+                    <div ng-view></div>
+                </div>
             </div>
         </div>
+        <footer class="container-fluid">
+            <div class="row content primaryColor">
+                <div class="col-sm-5 text-right">
+                    <span class="specializedColor specializedFont italicsFont">{{footer}}</span>
+                    <select id="vmcc_theme" class="secondaryBackground sideNavColor">
+                        <option  ng-repeat="theme in themes" value="{{theme.value}}">{{theme.title}}</option>
+                    </select>
+                </div>
+                <div class="col-sm-7 text-right">
+                    {{copyright}}
+                </div>
+            </div>
+        </footer>
+    </div>    
     </div>
-    <footer class="container-fluid">
-        <div class="row content primaryColor">
-            <div class="col-sm-5 text-right">
-                <span class="specializedColor specializedFont italicsFont">{{footer}}</span>
-                <select id="vmcc_theme" class="secondaryBackground sideNavColor">
-                    <option  ng-repeat="theme in themes" value="{{theme.value}}">{{theme.title}}</option>
-                </select>
-            </div>
-            <div class="col-sm-7 text-right">
-                {{copyright}}
-            </div>
-        </div>
-    </footer>
-</div>    
     <script src="index.js"></script>
-    <!--
-    <link rel="stylesheet" href="jk-carousel.min.css" />
-    <script src="jk-carousel.min.js"></script>
-    --
     <!-- include all menu JS files -->
     <script src="about/about.js"></script>
     <script src="gallery/gallery.js"></script>
     <script src="contact/contact.js"></script>
     <script src="disc/disc.js"></script>
+    <script src="disc/alternative/alternative.js"></script>
+    <script src="disc/berlin/berlin.js"></script>
+    <script src="disc/bestof/bestof.js"></script>
+    <script src="disc/chinagirl/chinagirl.js"></script>
+    <script src="disc/choreography/choreography.js"></script>
+    <script src="disc/classical1/classical1.js"></script>
+    <script src="disc/earlyyears/earlyyears.js"></script>
+    <script src="disc/fourseasons/fourseasons.js"></script>
+    <script src="disc/kids/kids.js"></script>
+    <script src="disc/royal/royal.js"></script>
+    <script src="disc/storm/storm.js"></script>
+    <script src="disc/subject/subject.js"></script>
+    <script src="disc/tbconcertos/tbconcertos.js"></script>
+    <script src="disc/ultimate/ultimate.js"></script>
+    <script src="disc/violin/violin.js"></script>
+    <script src="disc/vplayer/vplayer.js"></script>
     <script src="download/download.js"></script>
     <script src="links/links.js"></script>
     <script src="tour/tour.js"></script>

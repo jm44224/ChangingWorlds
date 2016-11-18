@@ -1,13 +1,33 @@
 {
 "themes": [
   {
-    "title" : "Violin Player (version 2)",
+    "title" : "Violin Player (v. 2)",
     "value" : "0",
     "icon": ""
   },
   {
-    "title" : "Subject To Change (version 1)",
+    "title" : "Subject To Change (v. 1)",
     "value" : "1",
+    "icon": ""
+  },
+  {
+    "title" : "Classical Album 1",
+    "value" : "2",
+    "icon": ""
+  },
+  {
+    "title" : "Early Years Collection",
+    "value" : "3",
+    "icon": ""
+  },
+  {
+    "title" : "Four Seasons",
+    "value" : "4",
+    "icon": ""
+  },
+  {
+    "title" : "Storm (USA Release)",
+    "value" : "5",
     "icon": ""
   }
   ]

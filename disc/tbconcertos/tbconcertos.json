@@ -1,0 +1,58 @@
+{
+    "title": "Tchaikovsky and Beethoven Concertos",
+    "year": "1992",
+    "release": "",
+    "time": "",
+    "tracks": "1",
+    "images": "1",
+    "extra": "0",
+    "label": "Trittico Distributor Ltd (TCMA 27103)",
+    "tracklist": [
+      {
+        "number" : "",
+        "name" : "Tchaikovsky Violin Concerto in D, OP. 35 ",
+        "time" : "",
+        "composer" : ""
+      },      {
+        "number" : "1",
+        "name" : "Allegro moderato - Allegro giusto",
+        "time" : "",
+        "composer" : ""
+      },
+      {
+        "number" : "2",
+        "name" : "Canzonetta: Andante",
+        "time" : "",
+        "composer" : ""
+      },
+      {
+        "number" : "3",
+        "name" : "Finale: Allegro vivacissimo",
+        "time" : "",
+        "composer" : ""
+      },
+      {
+        "number" : "",
+        "name" : "Beethoven Violin Concerto in D, Op. 61",
+        "time" : "",
+        "composer" : ""
+      },      {
+        "number" : "4",
+        "name" : "Allegro, ma non troppo",
+        "time" : "",
+        "composer" : ""
+      },
+      {
+        "number" : "5",
+        "name" : "Allegro, ma non troppo Larghetto",
+        "time" : "",
+        "composer" : ""
+      },
+      {
+        "number" : "6",
+        "name" : "Allegro, ma non troppo Rondo allegro",
+        "time" : "",
+        "composer" : ""
+      }
+    ]
+}

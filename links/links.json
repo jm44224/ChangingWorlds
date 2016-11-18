@@ -2,40 +2,19 @@
   "footnote" : "This site originally used babelfish.altavista.com; it now uses www.bing.com/translator/.",
   "data": [
     {
-      "name": "Vanessa-Mae (official site) ",
-      "value": "http://www.vanessamaeofficial.com/",
-      "active": 0
-    },
-    {
-      "name": "Four Seasons of Vanessa-Mae",
-      "value": "http://www.vanessamae.org/",
-      "active": "0"
-    },
-    {
       "name": "The Red Hot Vanessa-Mae Homepage",
       "value": "http://www.vanessamae.com/",
-      "active": "0"
+      "active": "1"
     },
     {
-      "name": "Vanessa-Mae",
-      "value": "http://www.vanessa-mae.art.pl/",
-      "language": "(Polish)",
-      "active": "0"
+      "name": "The Unofficial Vanessa-Mae News Blog",
+      "value": "http://www.vanessamae.net/",
+      "active": "1"
     },
     {
-      "name": "Vanessa-Mae Online",
-      "value": "http://www.vanessamaeonline.com/",
-      "active": "0"
-    },
-    {
-      "name": "Saying Power on Strings",
-      "value": "http://www.vanessa-mae.nu/",
-      "active": "0"
-    },
-    {
-      "name": "Reflection",
-      "value": "http://www.vanessa-mae.co.uk/",
-      "active": "0"
+      "name": "The Vanessa-Mae Forum (FSVM)",
+      "value": "http://vanessamae.net/forum/",
+      "active": "1"
     },
     {
       "name": "Vanessa-Mae en Español",
@@ -61,24 +40,9 @@
       "active": "1"
     },
     {
-      "name": "Vanessa-Mae in concert",
-      "value": "http://in-concert.de.vu/",
-      "active": "0"
-    },
-    {
       "name": "Ванесса Мэй (Vanessa-Mae)",
       "value": "http://www.vanessa-mae.narod.ru/",
       "language": "(Russian)",
-      "active": "1"
-    },
-    {
-      "name": "The Unofficial Vanessa-Mae News Blog",
-      "value": "http://www.vanessamae.net/",
-      "active": "1"
-    },
-    {
-      "name": "The Vanessa-Mae Forum (FSVM)",
-      "value": "http://vanessamae.net/forum/",
       "active": "1"
     },
     {

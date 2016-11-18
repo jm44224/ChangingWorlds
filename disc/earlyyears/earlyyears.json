@@ -1,0 +1,381 @@
+{
+    "title": "The Classical Collection Part 1",
+    "footnote": "(a.k.a. The Early Years)",
+    "year": "2000",
+    "release": "",
+    "time": "",
+    "tracks": "1",
+    "images": "1",
+    "extra": "0",
+    "label": "",
+    "menu": [
+      {
+        "order" : "1",
+        "title" : "Classical Collection - CD 1",
+        "key" : "CD1"
+      },
+      {
+        "order" : "2",
+        "title" : "Classical Collection - CD 2",
+        "key" : "CD2"
+      },
+      {
+        "order" : "3",
+        "title" : "Classical Collection - CD 3",
+        "key" : "CD3"
+      },
+      {
+        "order" : "4",
+        "title" : "Classical Collection - discs and booklet",
+        "key" : "BOOK1"
+      },
+      {
+        "order" : "5",
+        "title" : "Classical Collection Interview",
+        "key" : "BOOK2"
+      }
+    ],
+    "tracklist": [
+      { "key": "CD1",
+        "type":"tracklist",
+        "list" : [
+        {
+          "number" : "",
+          "name" : "RUSSIAN ALBUM",
+          "time" : "51.54",
+          "composer" : ""
+        },
+        {
+          "number" : "",
+          "name" : "Violin Concerto In C Op.48",
+          "time" : "",
+          "composer" : "Dmitry Borisovich Kabalevsky (1904 – 1987)"
+        },
+        {
+          "number" : "1",
+          "name" : "I. Allegro",
+          "time" : "4.30",
+          "composer" : ""
+        },
+        {
+          "number" : "2",
+          "name" : "II. Andante",
+          "time" : "5.02",
+          "composer" : ""
+        },
+        {
+          "number" : "3",
+          "name" : "III. Vivace giocoso",
+          "time" : "5.51",
+          "composer" : ""
+        },
+        {
+          "number" : "",
+          "name" : "Swan Lake",
+          "time" : "",
+          "composer" : "Pyotr Ilyich Tchaikovsky (1840 – 1893)"
+        },
+        {
+          "number" : "4",
+          "name" : "Russian Dance (Swan Lake, Act III)",
+          "time" : "4.00",
+          "composer" : "reduced orch. by Christopher James"
+        },
+        {
+          "number" : "",
+          "name" : "Violin Concerto in D Op. 35",
+          "time" : "",
+          "composer" : "Pyotr Ilyich Tchaikovsky (1840 – 1893)"
+        },
+        {
+          "number" : "5",
+          "name" : "I. Allegro moderato",
+          "time" : "17.22",
+          "composer" : ""
+        },
+        {
+          "number" : "6",
+          "name" : "II. Canzonetta (Andante)",
+          "time" : "5.46",
+          "composer" : ""
+        },
+        {
+          "number" : "7",
+          "name" : "III. Finale (Allegro vivacissimo)",
+          "time" : "9.06",
+          "composer" : ""
+        }]
+      },
+      { "key": "CD2",
+        "type":"tracklist",
+        "list" : [
+        {
+          "number" : "",
+          "name" : "VIENNESE ALBUM",
+          "time" : "67.47",
+          "composer" : ""
+        },
+        {
+          "number" : "",
+          "name" : "Fritz Kreisler (1875 – 1962)",
+          "time" : "",
+          "composer" : ""
+        },
+        {
+          "number" : "1",
+          "name" : "Schön Rosmarin",
+          "time" : "1.57",
+          "composer" : "orch. C. R. Roberts"
+        },
+        {
+          "number" : "2",
+          "name" : "Liebesleid",
+          "time" : "2.54",
+          "composer" : "orch. C. R. Roberts"
+        },
+        {
+          "number" : "3",
+          "name" : "Liebesfreud",
+          "time" : "3.04",
+          "composer" : "orch. C. R. Roberts"
+        },
+        {
+          "number" : "",
+          "name" : "Violin Concerto in D 'Adelaide' (in the style of Mozart) KAnh.294a",
+          "time" : "",
+          "composer" : "Marius Casadesus (1892 – 1981)"
+        },
+        {
+          "number" : "4",
+          "name" : "I. Allegro",
+          "time" : "7.22",
+          "composer" : ""
+        },
+        {
+          "number" : "5",
+          "name" : "II. Adagio",
+          "time" : "7.14",
+          "composer" : ""
+        },
+        {
+          "number" : "6",
+          "name" : "III. Allegro",
+          "time" : "4.21",
+          "composer" : ""
+        },
+        {
+          "number" : "",
+          "name" : "Cadenza by Vanessa-Mae",
+          "time" : "",
+          "composer" : ""
+        },
+        {
+          "number" : "",
+          "name" : "Violin Concerto In D Op.61",
+          "time" : "",
+          "composer" : "Ludwig Van Beethoven (1770 – 1827)"
+        },
+        {
+          "number" : "7",
+          "name" : "I. Allegro Ma Non Troppo",
+          "time" : "22.47",
+          "composer" : ""
+        },
+        {
+          "number" : "8",
+          "name" : "II. Larghetto",
+          "time" : "8.06",
+          "composer" : ""
+        },
+        {
+          "number" : "9",
+          "name" : "II. Rondo (Allegro)",
+          "time" : "9.46",
+          "composer" : ""
+        },
+        {
+          "number" : "",
+          "name" : "Cadenza by Kreisler",
+          "time" : "",
+          "composer" : ""
+        }]
+      },
+      { "key": "CD3",
+        "type":"tracklist",
+        "list" : [
+        {
+          "number" : "",
+          "name" : "VIRTUOSO ALBUM",
+          "time" : "77.03",
+          "composer" : ""
+        },
+        {
+          "number" : "",
+          "name" : "...inspired by the classics",
+          "time" : "",
+          "composer" : ""
+        },        
+        {
+          "number" : "1",
+          "name" : "Salut D'Amour",
+          "time" : "2.26",
+          "composer" : "Elgar orch. James*"
+        },        
+        {
+          "number" : "2",
+          "name" : "Lullaby",
+          "time" : "2.00",
+          "composer" : "Brahms arr. James"
+        },        
+        {
+          "number" : "3",
+          "name" : "Air On The G String",
+          "time" : "2.21",
+          "composer" : "J. S. Bach arr. Wilhelmj"
+        },        
+        {
+          "number" : "",
+          "name" : "...inspired by cinema",
+          "time" : "",
+          "composer" : ""
+        },        
+        {
+          "number" : "4",
+          "name" : "My Favourite Things",
+          "time" : "1.16",
+          "composer" : "Rodgers arr. James"
+        },        
+        {
+          "number" : "5",
+          "name" : "The Pink Panther",
+          "time" : "2.28",
+          "composer" : "Mancini arr. James"
+        },        
+        {
+          "number" : "6",
+          "name" : "Les Parapluies De Cherbourg",
+          "time" : "1.46",
+          "composer" : "Legrand arr. Vanessa-Mae orch. James"
+        },        
+        {
+          "number" : "",
+          "name" : "...inspired by pop culture",
+          "time" : "",
+          "composer" : ""
+        },        
+        {
+          "number" : "7",
+          "name" : "One Moment in Time",
+          "time" : "4.36",
+          "composer" : "Bettis arr. Vanessa-Mae orch. James"
+        },        
+        {
+          "number" : "8",
+          "name" : "Yellow Submarine",
+          "time" : "1.38",
+          "composer" : "Lennon & McCartney arr. James ed. Vanessa-Mae"
+        },        
+        {
+          "number" : "",
+          "name" : "...inspired by folk culture",
+          "time" : "",
+          "composer" : ""
+        },        
+        {
+          "number" : "9",
+          "name" : "Frère Jacques",
+          "time" : "8.54",
+          "composer" : "James"
+        },        
+        {
+          "number" : "10",
+          "name" : "La Campanella",
+          "time" : "5.22",
+          "composer" : "Paganini arr. Kreisler orch. James"
+        },        
+        {
+          "number" : "11",
+          "name" : "Chinese Folk Tune",
+          "time" : "2.36",
+          "composer" : "Sze-Du arr. James"
+        },        
+        {
+          "number" : "12",
+          "name" : "Tambourin Chinois",
+          "time" : "3.58",
+          "composer" : "Kreisler orch. Artok"
+        },        
+        {
+          "number" : "",
+          "name" : "...inspired by opera",
+          "time" : "",
+          "composer" : ""
+        },        
+        {
+          "number" : "13",
+          "name" : "Figaro",
+          "time" : "5.29",
+          "composer" : "Castelnuovo-Tedesco arr. Heifetz orch. James"
+        },        
+        {
+          "number" : "14",
+          "name" : "Summertime",
+          "time" : "1.52",
+          "composer" : "Gershwin arr. Heifetz orch. James"
+        },        
+        {
+          "number" : "15",
+          "name" : "Concert Fantasy On 'Carmen' Op.25",
+          "time" : "13.37",
+          "composer" : "Sarasate"
+        },        
+        {
+          "number" : "16",
+          "name" : "Fantasie Brillante On Themes From Gounod's 'Faust' Op.20",
+          "time" : "16.19",
+          "composer" : "Wieniawsky"
+        }
+        ]
+      },
+      { "key": "BOOK1",
+        "type":"booklet",
+        "images": "disc/earlyyears/images/booklet/",
+        "list" : [
+        {
+          "src": "cc_cd1s.jpg",
+          "alt": "Label of Disc One",
+          "cap": "Disc One",
+          "slide": "0",
+          "active":"active"
+        },
+        {
+          "src": "cc_cd2s.jpg",
+          "alt": "Label of Disc Two",
+          "cap": "Disc Two",
+          "slide": "1",
+          "active":""
+        }
+        ]
+      },
+      { "key": "BOOK2",
+        "type":"booklet",
+        "images": "disc/earlyyears/images/interview/",
+        "list" : [
+        {
+          "src": "cci_front.jpg",
+          "alt": "Cover of Interview Disc",
+          "cap": "Interview Cover",
+          "slide": "0",
+          "active":"active"
+        },
+        {
+          "src": "cci_label.jpg",
+          "alt": "Label of Interview Disc",
+          "cap": "Interview Label",
+          "slide": "1",
+          "active":""
+        }
+        ]
+      }
+    ]
+}

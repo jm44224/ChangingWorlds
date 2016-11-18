@@ -1,0 +1,38 @@
+<!-- each section should allow a title -->
+<h3 ng-show="title.length > 0">
+    <span class="specializedFont primaryColor" ng-show="title.length > 0">{{title}}</span>
+    <span class="specializedFont secondaryColor smallerFont" ng-show="year.length > 0">({{year}})</span>
+</h3>
+
+<ul class="primaryFont">
+    <li ng-show="label.length > 0">
+       <span class="primaryColor">{{labellabel}} </span>
+       <span class="secondaryColor">{{label}}</span>
+    </li>
+    <li ng-show="release.length > 0">
+       <span class="primaryColor">{{releaselabel}} </span>
+       <span class="secondaryColor">{{release}}</span>
+    </li>
+   <li ng-show="time.length > 0">
+       <span class="primaryColor">{{timelabel}} </span>
+       <span class="secondaryColor">[{{time}}]</span>
+    </li>
+    <li ng-show="tracklist.length > 0">
+        <ul>
+            <span class="primaryColor">{{tracklistlabel}} </span><br>
+            <span ng-repeat="x in tracklist">
+                <span ng-show="x.number.length == 0 && x.name.length > 0">
+                    <span class="specializedFont secondaryColor">{{x.name}} </span><br>
+                </span>
+                <li  ng-show="x.number.length > 0">
+                    <span ng-show="x.number.length > 0" class="smallerFont">({{x.number}}):</span>
+                    <span ng-show="x.name.length > 0">{{x.name}}</span>
+                    <span ng-show="x.composer.length > 0" class="secondaryColor smallerFont">({{x.composer}})</span>
+                    <span ng-show="x.time.length > 0">[{{x.time}}]</span>
+                </li>
+            </span>
+        </ul>
+    </li>
+</ul>
+<!-- each section should allow a footnote -->
+<span ng-show="footnote != null" class="specializedFont secondaryColor italicsFont">{{footnote}}</span>

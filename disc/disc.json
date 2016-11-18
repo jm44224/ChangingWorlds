@@ -1,64 +1,68 @@
 {
     "title": "Music",
-    "footer": "Pages In Progress",
+    "footnote": "Pages In Progress",
     "data": [
       {
-        "link" : "mediaChoreography",
+        "link" : "discChoreography",
         "title" : "2004: Choreography"
       },
       {
-        "link" : "mediaUltimate",
+        "link" : "discUltimate",
         "title" : "2003: The Ultimate Vanessa-Mae"
       },
       {
-        "link" : "mediaBestOf",
+        "link" : "discBestOf",
         "title" : "2002: The Best Of Vanessa-Mae"
       },
       {
-        "link" : "mediaSubject",
+        "link" : "discSubject",
         "title" : "2001: Subject To Change"
       },
       {
-        "link" : "mediaFourSeasons",
+        "link" : "discEarlyYears",
+        "title" : "2000: The Classical Collection Part 1"
+      },
+      {
+        "link" : "discFourSeasons",
         "title" : "1998: The Original Four Seasons and the Devil's Trill Sonata"
       },
       {
-        "link" : "mediaStorm",
+        "link" : "discStorm",
         "title" : "1997: Storm"
       },
       {
-        "link" : "mediaChinaGirl",
+        "link" : "discChinaGirl",
         "title" : "1997: China Girl - The Classical Album 2"
       },
       {
-        "link" : "mediaBerlin",
+        "link" : "discBerlin",
         "title" : "1996: Live at the Berlin Philharmonie"
       },
       {
-        "link" : "mediaClassical1",
+        "link" : "discClassical1",
         "title" : "1996: The Classical Album 1"
       },
       {
-        "link" : "mediaAlternative",
+        "link" : "discAlternative",
         "title" : "1996: The Alternative Record From Vanessa-Mae"
       },{
-        "link" : "mediaRoyal",
+        "link" : "discRoyal",
         "title" : "1995: Live at the Royal Albert Hall"
       },
       {
-        "link" : "mediaVPlayer",
+        "link" : "discVPlayer",
         "title" : "1995: The Violin Player"
       },
       {
-        "link" : "mediaTBConcertos",
+        "link" : "discTBConcertos",
         "title" : "1992: Tchaikovsky and Beethoven Concertos"
       },
       {
-        "link" : "mediaKids",
+        "link" : "discKids",
         "title" : "1991: Kids' Classics"
       },
       {
-        "link" : "mediaViolin",
+        "link" : "discViolin",
         "title" : "1990: Violin"
       }
     ]

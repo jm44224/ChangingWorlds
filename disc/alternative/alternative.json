@@ -1,0 +1,60 @@
+{
+    "title": "The Alternative Record From Vanessa-Mae",
+    "year": "1996",
+    "release": "",
+    "time": "",
+    "tracks": "1",
+    "images": "1",
+    "extra": "0",
+    "label": "EMI Records Ltd.",
+    "tracklist": [
+      {
+        "number" : "1",
+        "name" : "Classical Gas (Reggae Version)",
+        "time" : "3.46",
+        "composer" : "Mason Williams"
+      },
+      {
+        "number" : "2",
+        "name" : "I will always love you (live mix)",
+        "time" : "4.36",
+        "composer" : "Dolly Parton"
+      },
+      {
+        "number" : "3",
+        "name" : "Toccata & Fugue",
+        "time" : "",
+        "composer" : "J.S. Bach"
+      },
+      {
+        "number" : "",
+        "name" : "D's Journey Radio Edit (Asia release)",
+        "time" : "",
+        "composer" : ""
+      },
+      {
+        "number" : "",
+        "name" : "D's HipHouse Mix (Poland release)",
+        "time" : "7.23",
+        "composer" : ""
+      },
+      {
+        "number" : "4",
+        "name" : "Aurora",
+        "time" : "4.04",
+        "composer" : "Vanessa Mae/Wherry"
+      },
+      {
+        "number" : "5",
+        "name" : "Red Hot (live mix)",
+        "time" : "4.55",
+        "composer" : "Vanessa Mae/Wherry"
+      },
+      {
+        "number" : "6",
+        "name" : "Cotton Eye Joe (live mix)",
+        "time" : "3.15",
+        "composer" : "Ericsson/Oban/Reinz"
+      }
+    ]
+}
