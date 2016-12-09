@@ -7,19 +7,19 @@
 }
 
 .primaryColor {
-    color: #000000;
+    color: #8C3A51;
 }
 
 .secondaryColor {
-    color: #C95375;
+    color: #000000;
 }
 
 .secondaryBackground {
-    background-color: #000000;
+    background-color: #8C3A51;
 }
 
 .sideNavColor {
-    color: #9698C8;
+    color: #000000;
 }
 
 .specializedColor {
@@ -28,7 +28,7 @@
 
 
 a:link, a:visited {
-    color: #000000;
+    color: #8C3A51;
 }
 
 a:hover {
@@ -36,5 +36,5 @@ a:hover {
 }
 
 a:link:active, a:visited:active {
-    color: #000000;
+    color: #8C3A51;
 }
