@@ -1,0 +1,79 @@
+<!-- each section should allow a title -->
+<h3 ng-show="title.length > 0">
+    <span class="specializedFont primaryColor" ng-show="title.length > 0">{{title}}</span>
+    <span class="specializedFont secondaryColor smallerFont" ng-show="year.length > 0">({{year}})</span>
+</h3>
+<select ng-model="disc_menu" id="disc_menu" class="secondaryBackground sideNavColor">
+                        <option  ng-repeat="x in menu" value="{{x.key}}">{{x.title}}</option>
+                    </select>
+<ul class="primaryFont">
+    <li ng-show="label.length > 0">
+       <span class="primaryColor">{{labellabel}} </span>
+       <span class="secondaryColor">{{label}}</span>
+    </li>
+    <li ng-show="release.length > 0">
+       <span class="primaryColor">{{releaselabel}} </span>
+       <span class="secondaryColor">{{release}}</span>
+    </li>
+   <li ng-show="time.length > 0">
+       <span class="primaryColor">{{timelabel}} </span>
+       <span class="secondaryColor">[{{time}}]</span>
+    </li>
+    <li ng-show="tracklist.length > 0">
+        <span ng-repeat="y in tracklist">
+            <span class="primaryColor" ng-if="y.key == disc_menu && y.type == 'tracklist'">{{tracklistlabel}}</span>
+            <span ng-repeat="x in y.list" ng-if="y.key == disc_menu">
+                <ul ng-if="y.type == 'tracklist'">
+                    <span ng-show="x.number.length == 0 && x.name.length > 0">
+                        <span class="specializedFont secondaryColor">{{x.name}}</span>
+                        <br>
+                    </span>
+                    <li ng-show="x.number.length > 0">
+                        <span ng-show="x.number.length > 0" class="smallerFont">({{x.number}}):</span>
+                        <span ng-show="x.name.length > 0">{{x.name}}</span>
+                        <span ng-show="x.composer.length > 0" class="secondaryColor smallerFont">({{x.composer}})</span>
+                        <span ng-show="x.time.length > 0">[{{x.time}}]</span>
+                    </li>
+                </ul>
+            </span>
+            <span class="primaryColor" ng-if="y.key == disc_menu && y.type == 'booklet'">{{bookletlabel}}</span>
+            
+            
+            
+            
+            
+            <div id="carouselGallery" class="carousel slide" data-ride="carousel" ng-if="y.key == disc_menu && y.type == 'booklet'">
+              <!-- Indicators -->
+              <ol class="carousel-indicators" ng-if="y.key == disc_menu && y.type == 'booklet'">
+                <li ng-repeat="x in y.list" data-target="#carouselGallery" data-slide-to="{{x.slide}}" class="{{x.active}}"></li>
+              </ol>
+              <!-- Wrapper for slides -->
+                <div class='carousel-inner' role="listbox">
+                    <div  ng-repeat="x in y.list" class='item {{x.active}}' >
+                      <a href="{{y.images}}{{x.src}}" target="blank">
+                        <img src='{{y.images}}{{x.src}}' style="align-content:center" width="{{x.width}}" height="{{x.height}}" alt='{{x.alt}}' />
+                        <div class="carousel-caption">
+                            <h3>{{x.title}}</h3>
+                            <p>{{x.cap}}</p>
+                          </div>
+                          </a>
+                    </div>
+                </div>
+              </div>
+              <!-- Left and right controls -->
+              <a class="left carousel-control" data-target="#carouselGallery" role="button" data-slide="prev" ng-if="y.key == disc_menu && y.type == 'booklet'">
+                <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+                <span class="sr-only">Previous</span>
+              </a>
+              <a class="right carousel-control" data-target="#carouselGallery" role="button" data-slide="next" ng-if="y.key == disc_menu && y.type == 'booklet'">
+                <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+                <span class="sr-only">Next</span>
+              </a>
+            </div>
+            
+            </span>
+        </span>
+    </li>
+</ul>
+<!-- each section should allow a footnote -->
+<span ng-show="footnote != null" class="specializedFont secondaryColor italicsFont">{{footnote}}</span>

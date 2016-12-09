@@ -8,7 +8,7 @@ $(document).ready(function(){
     setTheme("0");
     
     $( "#vmcc_theme" ).change(function(event) {
-        setTheme( $( "select option:selected" ).val().toString() );
+        setTheme( $( "#vmcc_theme option:selected" ).val().toString() );
     });
     $("#divBody").show();
 });
@@ -133,7 +133,7 @@ var siteInfoApp = angular.module('myApp', ['ngRoute']).controller('mainCtrl', fu
             controller: 'discClassical1Controller'
         })
         .when('/discEarlyYears', {
-            templateUrl: 'disc/discpage.html',
+            templateUrl: 'disc/discpagewithmenu.html',
             controller: 'discEarlyYearsController'
         })       
         .when('/discFourSeasons', {

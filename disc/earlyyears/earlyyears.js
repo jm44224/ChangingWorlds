@@ -28,6 +28,14 @@ siteInfoApp.controller('discEarlyYearsController', function ($scope, $http) {
         $scope.images = data.images;
         $scope.extra = data.extra;
         $scope.label = data.label;
+        // for discpagewithmenu.html
+        // this is now more than a tracklist
+        // it is an array of anylists
+        // but I also need to handle images
         $scope.tracklist = data.tracklist;
+        // populate the select control
+        $scope.menu = data.menu;
+        // set the select control with first option
+        $scope.disc_menu = $scope.menu[0].key;
     });
 });
