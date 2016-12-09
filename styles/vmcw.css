@@ -2,9 +2,12 @@
     font-family: Lucida Sans Unicode;
 }
 
+#mainImg {
+    height:auto;
+}
+
 @media all and (min-width: 1060px) {
     #mainImg {
-        min-height: 85%;
         min-width:85%;
     }
     #sidemenu {
