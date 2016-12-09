@@ -1,6 +1,6 @@
 {
     "title": "The Original Four Seasons and the Devil's Trill Sonata",
-    "footnote": "The Classical Album 3 - The Italian Album"
+    "footnote": "The Classical Album 3 - The Italian Album",
     "year": "1998",
     "release": "",
     "time": "",
@@ -8,144 +8,217 @@
     "images": "1",
     "extra": "0",
     "label": "EMI Records Ltd.",
+    "menu": [
+      {
+        "order" : "1",
+        "title" : "Classical Album 3 - tracklist",
+        "key" : "CD1"
+      },
+      {
+        "order" : "2",
+        "title" : "Classical Album 3 - disc and booklet",
+        "key" : "BOOK1"
+      },
+      {
+        "order" : "3",
+        "title" : "Advance Listening - disc and booklet",
+        "key" : "BOOK2"
+      },
+      {
+        "order" : "4",
+        "title" : "Devil's Trill Reflection CD - tracklist",
+        "key" : "CD2"
+      },
+      {
+        "order" : "5",
+        "title" : "Devil's Trill Reflection CD - disc and booklet",
+        "key" : "BOOK3"
+      },
+      {
+        "order" : "6",
+        "title" : "Devil's Trill Single CD - tracklist",
+        "key" : "CD3"
+      },
+      {
+        "order" : "7",
+        "title" : "Devil's Trill Single CD - disc and booklet",
+        "key" : "BOOK4"
+      },
+      {
+        "order" : "8",
+        "title" : "The Original Four Seasons Video CD - tracklist",
+        "key" : "CD4"
+      },
+      {
+        "order" : "9",
+        "title" : "Original Four Seasons VCD - disc and booklet",
+        "key" : "BOOK5"
+      },
+      {
+        "order" : "10",
+        "title" : "Devil's Trill - Video",
+        "key" : "MMEDIA1"
+      },
+      {
+        "order" : "11",
+        "title" : "Reflection - Video",
+        "key" : "MMEDIA2"
+      },
+      {
+        "order" : "12",
+        "title" : "Violin Fantasy - Video",
+        "key" : "MMEDIA3"
+      },
+      {
+        "order" : "13",
+        "title" : "Siemen's TV Ad - Video",
+        "key" : "MMEDIA4"
+      }
+    ],
     "tracklist": [
-      {
-        "number" : "",
-        "name" : "The Original Four Seasons ",
-        "time" : "",
-        "composer" : "Vivaldi"
-      },      
-      {
-        "number" : "",
-        "name" : "Spring",
-        "time" : "",
-        "composer" : ""
-      },      
-      {
-        "number" : "1",
-        "name" : "i Allegro",
-        "time" : "3.09",
-        "composer" : ""
-      },
-      {
-        "number" : "2",
-        "name" : "ii Largo e pianissimo sempre",
-        "time" : "3.07",
-        "composer" : ""
-      },
-      {
-        "number" : "3",
-        "name" : "iii Allegro",
-        "time" : "3.57",
-        "composer" : ""
-      },
-      {
-        "number" : "",
-        "name" : "Summer",
-        "time" : "",
-        "composer" : ""
-      },
-      {
-        "number" : "4",
-        "name" : "i Allegro non molto",
-        "time" : "5.15",
-        "composer" : ""
-      },
-      {
-        "number" : "5",
-        "name" : "ii Adagio",
-        "time" : "2.21",
-        "composer" : ""
-      },
-      {
-        "number" : "6",
-        "name" : "iii Tempo impetuoso d´Estate",
-        "time" : "2.33",
-        "composer" : ""
-      },
-      {
-        "number" : "",
-        "name" : "Autumn",
-        "time" : "",
-        "composer" : ""
-      },
-      {
-        "number" : "7",
-        "name" : "i Allegro",
-        "time" : "5.21",
-        "composer" : ""
-      },
-      {
-        "number" : "8",
-        "name" : "ii Adagio",
-        "time" : "2.10",
-        "composer" : ""
-      },
-      {
-        "number" : "9",
-        "name" : "iii La caccia",
-        "time" : "3.12",
-        "composer" : ""
-      },
-      {
-        "number" : "",
-        "name" : "Winter",
-        "time" : "",
-        "composer" : ""
-      },
-      {
-        "number" : "10",
-        "name" : "i Allegro non molto",
-        "time" : "",
-        "composer" : "3.41"
-      },
-      {
-        "number" : "11",
-        "name" : "ii Largo",
-        "time" : "3.10",
-        "composer" : ""
-      },
-      {
-        "number" : "12",
-        "name" : "iii Allegro",
-        "time" : "3.17",
-        "composer" : ""
-      },
-      {
-        "number" : "",
-        "name" : "The Devil's Trill Sonata",
-        "time" : "",
-        "composer" : "Tartini"
-      },
-      {
-        "number" : "13",
-        "name" : "i Larghetto, ma non troppo",
-        "time" : "3.06",
-        "composer" : ""
-      },
-      {
-        "number" : "14",
-        "name" : "ii Allegro Moderato",
-        "time" : "2.30",
-        "composer" : ""
-      },
-      {
-        "number" : "15",
-        "name" : "iii Grave - Allegro Assai - Grave - Allegro Assai - Grave - Allegro Assai - Cadenza - Andante - Largo ",
-        "time" : "7.09",
-        "composer" : ""
-      },
-      {
-        "number" : "16",
-        "name" : "The Devil's Trill",
-        "time" : "3.38",
-        "composer" : "Vanessa-Mae"
-      },
-      {
-        "number" : "17",
-        "name" : "Reflection",
-        "time" : "4.31",
-        "composer" : "Matthew Wilder"
+      { 
+        "key": "CD1",
+        "type":"tracklist",
+        "list" : [
+          {
+            "number" : "",
+            "name" : "The Original Four Seasons ",
+            "time" : "",
+            "composer" : "Vivaldi"
+          },      
+          {
+            "number" : "",
+            "name" : "Spring",
+            "time" : "",
+            "composer" : ""
+          },      
+          {
+            "number" : "1",
+            "name" : "i Allegro",
+            "time" : "3.09",
+            "composer" : ""
+          },
+          {
+            "number" : "2",
+            "name" : "ii Largo e pianissimo sempre",
+            "time" : "3.07",
+            "composer" : ""
+          },
+          {
+            "number" : "3",
+            "name" : "iii Allegro",
+            "time" : "3.57",
+            "composer" : ""
+          },
+          {
+            "number" : "",
+            "name" : "Summer",
+            "time" : "",
+            "composer" : ""
+          },
+          {
+            "number" : "4",
+            "name" : "i Allegro non molto",
+            "time" : "5.15",
+            "composer" : ""
+          },
+          {
+            "number" : "5",
+            "name" : "ii Adagio",
+            "time" : "2.21",
+            "composer" : ""
+          },
+          {
+            "number" : "6",
+            "name" : "iii Tempo impetuoso d´Estate",
+            "time" : "2.33",
+            "composer" : ""
+          },
+          {
+            "number" : "",
+            "name" : "Autumn",
+            "time" : "",
+            "composer" : ""
+          },
+          {
+            "number" : "7",
+            "name" : "i Allegro",
+            "time" : "5.21",
+            "composer" : ""
+          },
+          {
+            "number" : "8",
+            "name" : "ii Adagio",
+            "time" : "2.10",
+            "composer" : ""
+          },
+          {
+            "number" : "9",
+            "name" : "iii La caccia",
+            "time" : "3.12",
+            "composer" : ""
+          },
+          {
+            "number" : "",
+            "name" : "Winter",
+            "time" : "",
+            "composer" : ""
+          },
+          {
+            "number" : "10",
+            "name" : "i Allegro non molto",
+            "time" : "",
+            "composer" : "3.41"
+          },
+          {
+            "number" : "11",
+            "name" : "ii Largo",
+            "time" : "3.10",
+            "composer" : ""
+          },
+          {
+            "number" : "12",
+            "name" : "iii Allegro",
+            "time" : "3.17",
+            "composer" : ""
+          },
+          {
+            "number" : "",
+            "name" : "The Devil's Trill Sonata",
+            "time" : "",
+            "composer" : "Tartini"
+          },
+          {
+            "number" : "13",
+            "name" : "i Larghetto, ma non troppo",
+            "time" : "3.06",
+            "composer" : ""
+          },
+          {
+            "number" : "14",
+            "name" : "ii Allegro Moderato",
+            "time" : "2.30",
+            "composer" : ""
+          },
+          {
+            "number" : "15",
+            "name" : "iii Grave - Allegro Assai - Grave - Allegro Assai - Grave - Allegro Assai - Cadenza - Andante - Largo ",
+            "time" : "7.09",
+            "composer" : ""
+          },
+          {
+            "number" : "16",
+            "name" : "The Devil's Trill",
+            "time" : "3.38",
+            "composer" : "Vanessa-Mae"
+          },
+          {
+            "number" : "17",
+            "name" : "Reflection",
+            "time" : "4.31",
+            "composer" : "Matthew Wilder"
+          }
+        ]
       }
     ]
 }

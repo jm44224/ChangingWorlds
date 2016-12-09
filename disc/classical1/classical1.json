@@ -7,132 +7,610 @@
     "images": "1",
     "extra": "0",
     "label": "EMI Records Ltd.",
+     "menu": [
+      {
+        "order" : "1",
+        "title" : "The Classical Album 1",
+        "key" : "CD1"
+      },
+      {
+        "order" : "2",
+        "title" : "The Classical Album 1 - booklet",
+        "key" : "BOOK1"
+      },
+      {
+        "order" : "3",
+        "title" : "The Classical Album 1 Enhanced CD - booklet",
+        "key" : "BOOK2"
+      },
+      {
+        "order" : "4",
+        "title" : "I'm a Doun for Lack O'Johnnie Single",
+        "key" : "CD2"
+      },
+      {
+        "order" : "5",
+        "title" : "I'm a Doun for Lack O'Johnnie Single - booklet",
+        "key" : "BOOK3"
+      },
+      {
+        "order" : "6",
+        "title" : "Bach Street Prelude Single",
+        "key" : "CD3"
+      },
+      {
+        "order" : "7",
+        "title" : "Classical Album 1 EPK",
+        "key" : "MMEDIA"
+      }
+    ],
     "tracklist": [
-      {
-        "number" : "",
-        "name" : "Partita No. 3 in E for Solo Violin BMV 1006",
-        "time" : "",
-        "composer" : "J.S. Bach"
+      { 
+        "key": "CD1",
+        "type":"tracklist",
+        "time": "60:38",
+        "list" : [
+          {
+            "number" : "",
+            "name" : "Partita No. 3 in E for Solo Violin BMV 1006",
+            "time" : "",
+            "composer" : "J.S. Bach (1685-1750)"
+          },
+          {
+            "number" : "1",
+            "name" : "I. Preludio",
+            "time" : "3.53",
+            "composer" : ""
+          },
+          {
+            "number" : "2",
+            "name" : "II. Loure",
+            "time" : "3.13",
+            "composer" : ""
+          },
+          {
+            "number" : "3",
+            "name" : "III. Gavotte En Rondeau",
+            "time" : "3.04",
+            "composer" : ""
+          },
+          {
+            "number" : "4",
+            "name" : "IV. Menuet I",
+            "time" : "1.15",
+            "composer" : ""
+          },
+          {
+            "number" : "5",
+            "name" : "VI. Bouree",
+            "time" : "1.24",
+            "composer" : ""
+          },
+          {
+            "number" : "6",
+            "name" : "VI. Bouree",
+            "time" : "1.15",
+            "composer" : ""
+          },
+          {
+            "number" : "7",
+            "name" : "VII. Gigue",
+            "time" : "1.26",
+            "composer" : ""
+          },
+          {
+            "number" : "",
+            "name" : "Johannes Brahms (1833-1897)",
+            "time" : "",
+            "composer" : ""
+          },
+          {
+            "number" : "8",
+            "name" : "Scherzo in C Minor for Violin and Piano",
+            "time" : "5.18",
+            "composer" : ""
+          },
+          {
+            "number" : "",
+            "name" : "Ludwig van Beethoven (1770-1827)",
+            "time" : "",
+            "composer" : ""
+          },
+          {
+            "number" : "9",
+            "name" : "Romance No. 2 in F for Violin and Orchestra Op. 50",
+            "time" : "",
+            "composer" : "8.22"
+          },
+          {
+            "number" : "",
+            "name" : "Scottish Fantasy for Violin and Orchestra Op. 46",
+            "time" : "",
+            "composer" : "Max Bruch (1838-1920)"
+          },
+          {
+            "number" : "10",
+            "name" : "1st Movement Introduction - Grave",
+            "time" : "3.17",
+            "composer" : ""
+          },
+          {
+            "number" : "11",
+            "name" : "Adagio Cantabile (on 'Thro' the Wood Laddie' / `Auld Rob Morris')",
+            "time" : "4.04",
+            "composer" : ""
+          },
+          {
+            "number" : "12",
+            "name" : "2nd Movement - Allegro (on 'Hey the Dusty Miller')",
+            "time" : "5.26",
+            "composer" : ""
+          },
+          {
+            "number" : "13",
+            "name" : "3rd Movement - Adagio",
+            "time" : "0.59",
+            "composer" : ""
+          },
+          {
+            "number" : "14",
+            "name" : "Andante Sostenuto (on 'I'm a Doun for Lack O'Johnnie')",
+            "time" : "5.31",
+            "composer" : ""
+          },
+          {
+            "number" : "15",
+            "name" : "4th Movement, Finale - Allegro Guerriero (on 'Scots Wha Hae')",
+            "time" : "6.59",
+            "composer" : ""
+          },
+          {
+            "number" : "",
+            "name" : "Traditional / Vanessa-Mae",
+            "time" : "",
+            "composer" : ""
+          },
+          {
+            "number" : "16",
+            "name" : "'I'm a Doun for Lack O'Johnnie (A Little Scottish Fantasy)",
+            "time" : "4.29",
+            "composer" : ""
+          }
+        ]
       },
-      {
-        "number" : "1",
-        "name" : "I. Preludio",
-        "time" : "3.53",
-        "composer" : ""
+      { 
+        "key": "BOOK1",
+        "type":"booklet",
+        "images": "disc/classical1/images/classical1/",
+        "list" : [
+          {
+            "src": "c1_label.jpg",
+            "alt": "CD Label of The Classical Album 1 Disc",
+            "cap": "Classical Album 1 CD Label",
+            "slide": "0",
+            "active":"active"
+          },
+          {
+            "src": "classical1cover.jpg",
+            "alt": "Cover of The Classical Album 1 Booklet",
+            "cap": "Classical Album 1 Cover",
+            "slide": "1",
+            "active":""
+          },
+          {
+            "src": "c1_ins_1.jpg",
+            "alt": "Page 1 of The Classical Album 1 Booklet",
+            "cap": "Classical Album 1 Page 1",
+            "slide": "2",
+            "active":""
+          },
+          {
+            "src": "c1_ins_2.jpg",
+            "alt": "Page 2 of The Classical Album 1 Booklet",
+            "cap": "Classical Album 1 Page 2",
+            "slide": "3",
+            "active":""
+          },
+          {
+            "src": "c1_ins_3.jpg",
+            "alt": "Page 3 of The Classical Album 1 Booklet",
+            "cap": "Classical Album 1 Page 3",
+            "slide": "4",
+            "active":""
+          },
+          {
+            "src": "c1_ins_4.jpg",
+            "alt": "Page 4 of The Classical Album 1 Booklet",
+            "cap": "Classical Album 1 Page 4",
+            "slide": "5",
+            "active":""
+          },
+          {
+            "src": "c1_ins_5.jpg",
+            "alt": "Page 5 of The Classical Album 1 Booklet",
+            "cap": "Classical Album 1 Page 5",
+            "slide": "6",
+            "active":""
+          },
+          {
+            "src": "c1_ins_6.jpg",
+            "alt": "Page 6 of The Classical Album 1 Booklet",
+            "cap": "Classical Album 1 Page 6",
+            "slide": "7",
+            "active":""
+          },
+          {
+            "src": "c1_ins_7.jpg",
+            "alt": "Page 7 of The Classical Album 1 Booklet",
+            "cap": "Classical Album 1 Page 7",
+            "slide": "8",
+            "active":""
+          },
+          {
+            "src": "c1_ins_8.jpg",
+            "alt": "Page 8 of The Classical Album 1 Booklet",
+            "cap": "Classical Album 1 Page 8",
+            "slide": "9",
+            "active":""
+          },
+          {
+            "src": "c1_ins_9.jpg",
+            "alt": "Page 9 of The Classical Album 1 Booklet",
+            "cap": "Classical Album 1 Page 9",
+            "slide": "10",
+            "active":""
+          },
+          {
+            "src": "c1_ins_10.jpg",
+            "alt": "Page 10 of The Classical Album 1 Booklet",
+            "cap": "Classical Album 1 Page 10",
+            "slide": "11",
+            "active":""
+          },
+          {
+            "src": "c1_ins_11.jpg",
+            "alt": "Page 11 of The Classical Album 1 Booklet",
+            "cap": "Classical Album 1 Page 11",
+            "slide": "12",
+            "active":""
+          },
+          {
+            "src": "c1_ins_12.jpg",
+            "alt": "Page 12 of The Classical Album 1 Booklet",
+            "cap": "Classical Album 1 Page 12",
+            "slide": "13",
+            "active":""
+          },
+          {
+            "src": "c1_ins_13.jpg",
+            "alt": "Page 13 of The Classical Album 1 Booklet",
+            "cap": "Classical Album 1 Page 13",
+            "slide": "14",
+            "active":""
+          },
+          {
+            "src": "c1_ins_14.jpg",
+            "alt": "Page 14 of The Classical Album 1 Booklet",
+            "cap": "Classical Album 1 Page 14",
+            "slide": "15",
+            "active":""
+          },
+          {
+            "src": "c1_ins_15.jpg",
+            "alt": "Page 15 of The Classical Album 1 Booklet",
+            "cap": "Classica5 Album 1 Page 15",
+            "slide": "16",
+            "active":""
+          },
+          {
+            "src": "c1_jewel_in.jpg",
+            "alt": "Inside of The Classical Album 1 Jewel Case",
+            "cap": "Classical Album 1 Jewel Case (in)",
+            "slide": "17",
+            "active":""
+          },
+          {
+            "src": "c1_jewel_out.jpg",
+            "alt": "Outside of The Classical Album 1 Jewel Case",
+            "cap": "Classical Album 1 Jewel Case (out)",
+            "slide": "18",
+            "active":""
+          }
+        ]
       },
-      {
-        "number" : "2",
-        "name" : "II. Loure",
-        "time" : "3.13",
-        "composer" : ""
+      { 
+        "key": "BOOK2",
+        "type":"booklet",
+        "images": "disc/classical1/images/classical1enh/",
+        "list" : [
+          {
+            "src": "c1e_label.jpg",
+            "alt": "CD Label of The Classical Album 1 Enhanced Disc",
+            "cap": "Classical Album 1 Enhanced CD Label",
+            "slide": "0",
+            "active":"active"
+          },
+          {
+            "src": "c1ebox1.jpg",
+            "alt": "Cover of The Classical Album 1 Enhanced Box",
+            "cap": "Classical Album 1 Enhanced Box Cover",
+            "slide": "1",
+            "active":""
+          },
+          {
+            "src": "c1e_cover.jpg",
+            "alt": "Cover of The Classical Album 1 Enhanced Booklet",
+            "cap": "Classical Album 1 Enhanced Cover",
+            "slide": "2",
+            "active":""
+          },
+          {
+            "src": "c1e_ins_2.jpg",
+            "alt": "Page 2 of The Classical Album 1 Enhanced Booklet",
+            "cap": "Classical Album 1 Enhanced Page 2",
+            "slide": "3",
+            "active":""
+          },
+          {
+            "src": "c1e_ins_3.jpg",
+            "alt": "Page 3 of The Classical Album 1 Enhanced Booklet",
+            "cap": "Classical Album 1 Enhanced Page 3",
+            "slide": "4",
+            "active":""
+          },
+          {
+            "src": "c1e_ins_4.jpg",
+            "alt": "Page 4 of The Classical Album 1 Enhanced Booklet",
+            "cap": "Classical Album 1 Enhanced Page 4",
+            "slide": "5",
+            "active":""
+          },
+          {
+            "src": "c1e_ins_5.jpg",
+            "alt": "Page 5 of The Classical Album 1 Enhanced Booklet",
+            "cap": "Classical Album 1 Enhanced Page 5",
+            "slide": "6",
+            "active":""
+          },
+          {
+            "src": "c1e_ins_6.jpg",
+            "alt": "Page 6 of The Classical Album 1 Enhanced Booklet",
+            "cap": "Classical Album 1 Enhanced Page 6",
+            "slide": "7",
+            "active":""
+          },
+          {
+            "src": "c1e_ins_7.jpg",
+            "alt": "Page 7 of The Classical Album 1 Enhanced Booklet",
+            "cap": "Classical Album 1 Enhanced Page 7",
+            "slide": "8",
+            "active":""
+          },
+          {
+            "src": "c1e_ins_8.jpg",
+            "alt": "Page 8 of The Classical Album 1 Enhanced Booklet",
+            "cap": "Classical Album 1 Enhanced Page 8",
+            "slide": "9",
+            "active":""
+          },
+          {
+            "src": "c1e_ins_9.jpg",
+            "alt": "Page 9 of The Classical Album 1 Enhanced Booklet",
+            "cap": "Classical Album 1 Enhanced Page 9",
+            "slide": "10",
+            "active":""
+          },
+          {
+            "src": "c1e_ins_10.jpg",
+            "alt": "Page 10 of The Classical Album 1 Enhanced Booklet",
+            "cap": "Classical Album 1 Enhanced Page 10",
+            "slide": "11",
+            "active":""
+          },
+          {
+            "src": "c1e_ins_11.jpg",
+            "alt": "Page 11 of The Classical Album 1 Enhanced Booklet",
+            "cap": "Classical Album 1 Enhanced Page 11",
+            "slide": "12",
+            "active":""
+          },
+          {
+            "src": "c1e_ins_12.jpg",
+            "alt": "Page 12 of The Classical Album 1 Enhanced Booklet",
+            "cap": "Classical Album 1 Enhanced Page 12",
+            "slide": "13",
+            "active":""
+          },
+          {
+            "src": "c1e_ins_13.jpg",
+            "alt": "Page 13 of The Classical Album 1 Enhanced Booklet",
+            "cap": "Classical Album 1 Enhanced Page 13",
+            "slide": "14",
+            "active":""
+          },
+          {
+            "src": "c1e_ins_14.jpg",
+            "alt": "Page 14 of The Classical Album 1 Enhanced Booklet",
+            "cap": "Classical Album 1 Enhanced Page 14",
+            "slide": "15",
+            "active":""
+          },
+          {
+            "src": "c1e_ins_15.jpg",
+            "alt": "Page 15 of The Classical Album 1 Enhanced Booklet",
+            "cap": "Classica5 Album 1 Enhanced Page 15",
+            "slide": "16",
+            "active":""
+          },
+          {
+            "src": "c1e_ins_16.jpg",
+            "alt": "Page 16 of The Classical Album 1 Enhanced Booklet",
+            "cap": "Classica5 Album 1 Enhanced Page 16",
+            "slide": "17",
+            "active":""
+          },
+          {
+            "src": "c1ebox2.jpg",
+            "alt": "Back of The Classical Album 1 Enhanced Box",
+            "cap": "Classical Album 1 Enhanced Box Back",
+            "slide": "18",
+            "active":""
+          }
+        ]
       },
-      {
-        "number" : "3",
-        "name" : "III. Gavotte En Rondeau",
-        "time" : "3.04",
-        "composer" : ""
+      { 
+        "key": "CD2",
+        "type":"tracklist",
+        "time": "15:42",
+        "list" : [
+          {
+            "number" : "1",
+            "name" : "I'm a Doun for Lack O'Johnnie (A Little Scottish Fantasy)",
+            "time" : "4.29",
+            "composer" : "Traditional arr. by Vanessa-Mae"
+          }, 
+          {
+            "number" : "2",
+            "name" : "3rd Movement from Bruch's Scottish Fantasy (also based on I'm a Doun for Lack O'Johnnie) 'Live at the Berlin Philharmonie'",
+            "time" : "6.44",
+            "composer" : "Max Bruch"
+          },
+          {
+            "number" : "3",
+            "name" : "I'm a Doun for Lack O'Johnnie (A Little Scottish Fantasy)",
+            "time" : "4.29",
+            "composer" : "Vanessa-Mae/Wherry"
+          },
+          {
+            "number" : "",
+            "name" : "Radio Edit Single",
+            "time" : "",
+            "composer" : ""
+          },
+          {
+            "number" : "1",
+            "name" : "I'm a Doun for Lack O'Johnnie (A Little Scottish Fantasy)",
+            "time" : "3.33",
+            "composer" : "Vanessa-Mae/Wherry"
+          }
+        ]
       },
-      {
-        "number" : "4",
-        "name" : "IV. Menuet I",
-        "time" : "1.15",
-        "composer" : ""
+      { 
+        "key": "BOOK3",
+        "type":"booklet",
+        "images": "disc/classical1/images/imadoun/",
+        "list" : [
+          {
+            "src": "id_label.jpg",
+            "alt": "CD Label of I'm A Doun Single Disc",
+            "cap": "I'm A Doun Single CD Label",
+            "slide": "0",
+            "active":"active"
+          },
+          {
+            "src": "id_cover.jpg",
+            "alt": "Jewel Case of I'm A Doun Single",
+            "cap": "I'm A Doun Single Jewel Case",
+            "slide": "1",
+            "active":""
+          },
+          {
+            "src": "id_ins_1.jpg",
+            "alt": "Inside Jewel Case of I'm A Doun Single",
+            "cap": "I'm A Doun Single Inside Jewel Case",
+            "slide": "2",
+            "active":""
+          },
+          {
+            "src": "idp_label.jpg",
+            "alt": "CD Label of I'm A Doun Radio Edit Single Disc",
+            "cap": "I'm A Doun Radio Edit Single CD Label",
+            "slide": "3",
+            "active":""
+          },
+          {
+            "src": "idp_cover.jpg",
+            "alt": "Jewel Case of I'm A Doun Radio Edit Single",
+            "cap": "I'm A Doun Radio Edit Single Jewel Case",
+            "slide": "4",
+            "active":""
+          },
+          {
+            "src": "idp_ins_1.jpg",
+            "alt": "Inside Jewel Case of I'm A Doun Radio Edit Single",
+            "cap": "I'm A Doun Radio Edit Single Inside Jewel Case",
+            "slide": "5",
+            "active":""
+          }
+        ]
       },
-      {
-        "number" : "5",
-        "name" : "VI. Bouree",
-        "time" : "1.24",
-        "composer" : ""
+      { 
+        "key": "CD3",
+        "type":"tracklist",
+        "time": "9.18",
+        "list" : [
+          {
+            "number" : "1",
+            "name" : "I'm a Doun for Lack O'Johnnie (A Little Scottish Fantasy)",
+            "time" : "4.29",
+            "composer" : "Traditional arr. by Vanessa-Mae"
+          }, 
+          {
+            "number" : "2",
+            "name" : "Habanera (from Carmen Fantasy)  'Live at the Berlin Philharmonie'",
+            "time" : "4.44",
+            "composer" : "Bizet, Sarasate, arr. by Vanessa-Mae"
+          }
+        ]
       },
-      {
-        "number" : "6",
-        "name" : "VI. Bouree",
-        "time" : "1.15",
-        "composer" : ""
-      },
-      {
-        "number" : "7",
-        "name" : "VII. Gigue",
-        "time" : "1.26",
-        "composer" : ""
-      },
-      {
-        "number" : "",
-        "name" : "Johannes Brahms",
-        "time" : "",
-        "composer" : ""
-      },
-      {
-        "number" : "8",
-        "name" : "Scherzo in C Minor for Violin and Piano",
-        "time" : "5.18",
-        "composer" : ""
-      },
-      {
-        "number" : "",
-        "name" : "Ludwig van Beethoven",
-        "time" : "",
-        "composer" : ""
-      },
-      {
-        "number" : "9",
-        "name" : "Romance No. 2 in F for Violin and Orchestra Op. 50",
-        "time" : "",
-        "composer" : "8.22"
-      },
-      {
-        "number" : "",
-        "name" : "Scottish Fantasy for Violin and Orchestra Op. 46",
-        "time" : "",
-        "composer" : "Max Bruch"
-      },
-      {
-        "number" : "10",
-        "name" : "1st Movement Introduction - Grave",
-        "time" : "3.17",
-        "composer" : ""
-      },
-      {
-        "number" : "11",
-        "name" : "Adagio Cantabile (on 'Thro' the Wood Laddie' / `Auld Rob Morris')",
-        "time" : "4.04",
-        "composer" : ""
-      },
-      {
-        "number" : "12",
-        "name" : "2nd Movement - Allegro (on 'Hey the Dusty Miller')",
-        "time" : "5.26",
-        "composer" : ""
-      },
-      {
-        "number" : "13",
-        "name" : "3rd Movement - Adagio",
-        "time" : "0.59",
-        "composer" : ""
-      },
-      {
-        "number" : "14",
-        "name" : "Andante Sostenuto (on 'I'm a Doun for Lack O'Johnnie')",
-        "time" : "5.31",
-        "composer" : ""
-      },
-      {
-        "number" : "15",
-        "name" : "4th Movement, Finale - Allegro Guerriero (on 'Scots Wha Hae')",
-        "time" : "6.59",
-        "composer" : ""
-      },
-      {
-        "number" : "",
-        "name" : "Traditional / Vanessa-Mae",
-        "time" : "",
-        "composer" : ""
-      },
-      {
-        "number" : "16",
-        "name" : "'I'm a Doun for Lack O'Johnnie (A Little Scottish Fantasy)",
-        "time" : "4.29",
-        "composer" : ""
+      { 
+        "key": "MMEDIA",
+        "type":"multimedia",
+        "images": "disc/classical1/images/classical1epk/",
+        "list" : [
+          {
+            "src": "c1epk001.jpg",
+            "alt": "Image 1 from The Classical Album 1 EPK",
+            "cap": "Classical Album 1 EPK Image 1",
+            "slide": "0",
+            "active":"active"
+          },
+          {
+            "src": "c1epk002.jpg",
+            "alt": "Image 2 from The Classical Album 1 EPK",
+            "cap": "Classical Album 1 EPK Image 2",
+            "slide": "1",
+            "active":""
+          },
+          {
+            "src": "c1epk003.jpg",
+            "alt": "Image 3 from The Classical Album 1 EPK",
+            "cap": "Classical Album 1 EPK Image 3",
+            "slide": "1",
+            "active":""
+          },
+          {
+            "src": "c1epk004.jpg",
+            "alt": "Image 4 from The Classical Album 1 EPK",
+            "cap": "Classical Album 1 EPK Image 4",
+            "slide": "1",
+            "active":""
+          },
+          {
+            "src": "c1epk005.jpg",
+            "alt": "Image 5 from The Classical Album 1 EPK",
+            "cap": "Classical Album 1 EPK Image 5",
+            "slide": "1",
+            "active":""
+          },
+          {
+            "src": "c1epk006.jpg",
+            "alt": "Image 6 from The Classical Album 1 EPK",
+            "cap": "Classical Album 1 EPK Image 6",
+            "slide": "1",
+            "active":""
+          }
+        ]
       }
     ]
 }

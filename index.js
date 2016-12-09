@@ -109,7 +109,7 @@ var siteInfoApp = angular.module('myApp', ['ngRoute']).controller('mainCtrl', fu
             controller: 'discController'
         })
         .when('/discAlternative', {
-            templateUrl: 'disc/discpage.html',
+            templateUrl: 'disc/discpagewithmenu.html',
             controller: 'discAlternativeController'
         })
         .when('/discBerlin', {
@@ -129,7 +129,7 @@ var siteInfoApp = angular.module('myApp', ['ngRoute']).controller('mainCtrl', fu
             controller: 'discChoreographyController'
         })
         .when('/discClassical1', {
-            templateUrl: 'disc/discpage.html',
+            templateUrl: 'disc/discpagewithmenu.html',
             controller: 'discClassical1Controller'
         })
         .when('/discEarlyYears', {
@@ -137,7 +137,7 @@ var siteInfoApp = angular.module('myApp', ['ngRoute']).controller('mainCtrl', fu
             controller: 'discEarlyYearsController'
         })       
         .when('/discFourSeasons', {
-            templateUrl: 'disc/discpage.html',
+            templateUrl: 'disc/discpagewithmenu.html',
             controller: 'discFourSeasonsController'
         })
         .when('/discKids', {

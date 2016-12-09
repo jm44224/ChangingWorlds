@@ -2,56 +2,56 @@
     "title": "Tchaikovsky and Beethoven Concertos",
     "year": "1992",
     "release": "",
-    "time": "",
+    "time": "73.04",
     "tracks": "1",
     "images": "1",
     "extra": "0",
-    "label": "Trittico Distributor Ltd (TCMA 27103)",
+    "label": "Music & Arts Productions Ltd, dist by Trittico Distributor Ltd (TCMA 27103)",
     "tracklist": [
       {
         "number" : "",
-        "name" : "Tchaikovsky Violin Concerto in D, OP. 35 ",
-        "time" : "",
-        "composer" : ""
+        "name" : "Violin Concerto in D, OP. 35 ",
+        "time" : "32.14",
+        "composer" : "Tchaikovsky"
       },      {
         "number" : "1",
-        "name" : "Allegro moderato - Allegro giusto",
-        "time" : "",
+        "name" : "1st Movt. Allegro moderato - Allegro giusto",
+        "time" : "17.19",
         "composer" : ""
       },
       {
         "number" : "2",
-        "name" : "Canzonetta: Andante",
-        "time" : "",
+        "name" : "2nd Movt. Canzonetta: Andante",
+        "time" : "5.45",
         "composer" : ""
       },
       {
         "number" : "3",
-        "name" : "Finale: Allegro vivacissimo",
-        "time" : "",
+        "name" : "3rd Movt. Finale: Allegro vivacissimo",
+        "time" : "9.06",
         "composer" : ""
       },
       {
         "number" : "",
-        "name" : "Beethoven Violin Concerto in D, Op. 61",
+        "name" : "Violin Concerto in D, Op. 61",
         "time" : "",
-        "composer" : ""
+        "composer" : "Beethoven"
       },      {
         "number" : "4",
-        "name" : "Allegro, ma non troppo",
-        "time" : "",
+        "name" : "1st Movt. Allegro, ma non troppo",
+        "time" : "22.42",
         "composer" : ""
       },
       {
         "number" : "5",
-        "name" : "Allegro, ma non troppo Larghetto",
-        "time" : "",
+        "name" : "2nd Movt. Larghetto",
+        "time" : "8.05",
         "composer" : ""
       },
       {
         "number" : "6",
-        "name" : "Allegro, ma non troppo Rondo allegro",
-        "time" : "",
+        "name" : "3rd Movt. Rondo allegro",
+        "time" : "9.50",
         "composer" : ""
       }
     ]

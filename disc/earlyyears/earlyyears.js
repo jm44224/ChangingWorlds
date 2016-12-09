@@ -10,6 +10,8 @@ siteInfoApp.controller('discEarlyYearsController', function ($scope, $http) {
         $scope.timelabel = data.timelabel;
         $scope.labellabel = data.labellabel;
         $scope.tracklistlabel = data.tracklistlabel;
+        $scope.bookletlabel = data.bookletlabel;
+        $scope.multimedialabel = data.multimedialabel;
      });
 
     // create a message to display in our view

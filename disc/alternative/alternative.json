@@ -7,54 +7,231 @@
     "images": "1",
     "extra": "0",
     "label": "EMI Records Ltd.",
+    "menu": [
+      {
+        "order" : "1",
+        "title" : "The Alternate Record - CD",
+        "key" : "CD1"
+      },
+      {
+        "order" : "2",
+        "title" : "The Alternate Record - Asia - discs and booklet",
+        "key" : "BOOK1"
+      },
+      {
+        "order" : "3",
+        "title" : "The Alternate Record - Poland - discs and booklet",
+        "key" : "BOOK2"
+      }
+    ],
     "tracklist": [
-      {
-        "number" : "1",
-        "name" : "Classical Gas (Reggae Version)",
-        "time" : "3.46",
-        "composer" : "Mason Williams"
+      { 
+        "key": "CD1",
+        "type":"tracklist",
+        "list" : [
+          {
+            "number" : "1",
+            "name" : "Classical Gas (Reggae Version)",
+            "time" : "3.46",
+            "composer" : "Mason Williams feat. Soloman arr. by Vanessa-Mae, Aswad"
+          },
+          {
+            "number" : "2",
+            "name" : "I will always love you (live mix)",
+            "time" : "4.36",
+            "composer" : "Dolly Parton"
+          },
+          {
+            "number" : "3",
+            "name" : "Toccata & Fugue",
+            "time" : "",
+            "composer" : "J.S. Bach"
+          },
+          {
+            "number" : "",
+            "name" : "D's Journey Radio Edit",
+            "time" : "3.30",
+            "composer" : "Asia release"
+          },
+          {
+            "number" : "",
+            "name" : "D's HipHouse Mix",
+            "time" : "7.23",
+            "composer" : "Poland release"
+          },
+          {
+            "number" : "4",
+            "name" : "Aurora",
+            "time" : "4.04",
+            "composer" : "Vanessa Mae/Wherry"
+          },
+          {
+            "number" : "5",
+            "name" : "Red Hot (live mix)",
+            "time" : "4.55",
+            "composer" : "Vanessa Mae/Wherry"
+          },
+          {
+            "number" : "6",
+            "name" : "Cotton Eye Joe (live mix)",
+            "time" : "3.15",
+            "composer" : "Ericsson/Oban/Reinz"
+          }
+        ]
       },
-      {
-        "number" : "2",
-        "name" : "I will always love you (live mix)",
-        "time" : "4.36",
-        "composer" : "Dolly Parton"
+      { 
+        "key": "BOOK1",
+        "type":"booklet",
+        "images": "disc/alternative/images/asia/",
+        "list" : [
+          {
+            "src": "aa_cover.jpg",
+            "alt": "Cover of The Alternative Record From Vanessa-Mae",
+            "cap": "Alternative Record Cover",
+            "slide": "0",
+            "active":"active"
+          },
+          {
+            "src": "aa_ins_1.jpg",
+            "alt": "Insert Page 1 of The Alternative Record From Vanessa-Mae",
+            "cap": "Alternative Record Insert Page 1",
+            "slide": "1",
+            "active":""
+          },
+          {
+            "src": "aa_ins_2.jpg",
+            "alt": "Insert Page 2 of The Alternative Record From Vanessa-Mae",
+            "cap": "Alternative Record Insert Page 2",
+            "slide": "2",
+            "active":""
+          },
+          {
+            "src": "aa_ins_3.jpg",
+            "alt": "Insert Page 3 of The Alternative Record From Vanessa-Mae",
+            "cap": "Alternative Record Insert Page 3",
+            "slide": "3",
+            "active":""
+          },
+          {
+            "src": "aa_ins_4.jpg",
+            "alt": "Insert Page 4 of The Alternative Record From Vanessa-Mae",
+            "cap": "Alternative Record Insert Page 4",
+            "slide": "4",
+            "active":""
+          },
+          {
+            "src": "aa_ins_5.jpg",
+            "alt": "Insert Page 5 of The Alternative Record From Vanessa-Mae",
+            "cap": "Alternative Record Insert Page 5",
+            "slide": "5",
+            "active":""
+          },
+          {
+            "src": "aa_ins_6.jpg",
+            "alt": "Insert Page 6 of The Alternative Record From Vanessa-Mae",
+            "cap": "Alternative Record Insert Page 6",
+            "slide": "6",
+            "active":""
+          },
+          {
+            "src": "aa_ins_7.jpg",
+            "alt": "Insert Page 7 of The Alternative Record From Vanessa-Mae",
+            "cap": "Alternative Record Insert Page 7",
+            "slide": "7",
+            "active":""
+          },
+          {
+            "src": "aa_jewel.jpg",
+            "alt": "Jewel Cover of The Alternative Record From Vanessa-Mae",
+            "cap": "Alternative Record Jewel Cover",
+            "slide": "8",
+            "active":""
+          },
+          {
+            "src": "aa_label.jpg",
+            "alt": "Label of The Alternative Record From Vanessa-Mae",
+            "cap": "Alternative Record Label",
+            "slide": "9",
+            "active":""
+          }
+        ]
       },
-      {
-        "number" : "3",
-        "name" : "Toccata & Fugue",
-        "time" : "",
-        "composer" : "J.S. Bach"
-      },
-      {
-        "number" : "",
-        "name" : "D's Journey Radio Edit (Asia release)",
-        "time" : "",
-        "composer" : ""
-      },
-      {
-        "number" : "",
-        "name" : "D's HipHouse Mix (Poland release)",
-        "time" : "7.23",
-        "composer" : ""
-      },
-      {
-        "number" : "4",
-        "name" : "Aurora",
-        "time" : "4.04",
-        "composer" : "Vanessa Mae/Wherry"
-      },
-      {
-        "number" : "5",
-        "name" : "Red Hot (live mix)",
-        "time" : "4.55",
-        "composer" : "Vanessa Mae/Wherry"
-      },
-      {
-        "number" : "6",
-        "name" : "Cotton Eye Joe (live mix)",
-        "time" : "3.15",
-        "composer" : "Ericsson/Oban/Reinz"
+      { 
+        "key": "BOOK2",
+        "type":"booklet",
+        "images": "disc/alternative/images/poland/",
+        "list" : [
+          {
+            "src": "ap_cover.jpg",
+            "alt": "Cover of The Alternative Record From Vanessa-Mae",
+            "cap": "Alternative Record Cover",
+            "slide": "0",
+            "active":"active"
+          },
+          {
+            "src": "aa_ins_1.jpg",
+            "alt": "Insert Page 1 of The Alternative Record From Vanessa-Mae",
+            "cap": "Alternative Record Insert Page 1",
+            "slide": "1",
+            "active":""
+          },
+          {
+            "src": "aa_ins_2.jpg",
+            "alt": "Insert Page 2 of The Alternative Record From Vanessa-Mae",
+            "cap": "Alternative Record Insert Page 2",
+            "slide": "2",
+            "active":""
+          },
+          {
+            "src": "aa_ins_3.jpg",
+            "alt": "Insert Page 3 of The Alternative Record From Vanessa-Mae",
+            "cap": "Alternative Record Insert Page 3",
+            "slide": "3",
+            "active":""
+          },
+          {
+            "src": "aa_ins_4.jpg",
+            "alt": "Insert Page 4 of The Alternative Record From Vanessa-Mae",
+            "cap": "Alternative Record Insert Page 4",
+            "slide": "4",
+            "active":""
+          },
+          {
+            "src": "aa_ins_5.jpg",
+            "alt": "Insert Page 5 of The Alternative Record From Vanessa-Mae",
+            "cap": "Alternative Record Insert Page 5",
+            "slide": "5",
+            "active":""
+          },
+          {
+            "src": "aa_ins_6.jpg",
+            "alt": "Insert Page 6 of The Alternative Record From Vanessa-Mae",
+            "cap": "Alternative Record Insert Page 6",
+            "slide": "6",
+            "active":""
+          },
+          {
+            "src": "ap_ins_7.jpg",
+            "alt": "Insert Page 7 of The Alternative Record From Vanessa-Mae",
+            "cap": "Alternative Record Insert Page 7",
+            "slide": "7",
+            "active":""
+          },
+          {
+            "src": "ap_jewel.jpg",
+            "alt": "Jewel Cover of The Alternative Record From Vanessa-Mae",
+            "cap": "Alternative Record Jewel Cover",
+            "slide": "8",
+            "active":""
+          },
+          {
+            "src": "ap_label.jpg",
+            "alt": "Label of The Alternative Record From Vanessa-Mae",
+            "cap": "Alternative Record Label",
+            "slide": "9",
+            "active":""
+          }
+        ]
       }
     ]
 }
