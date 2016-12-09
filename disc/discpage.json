@@ -2,5 +2,7 @@
     "releaselabel": "Release Date: ",
     "timelabel": "Total Time: ",
     "labellabel": "Recording Label: ",
-    "tracklistlabel": "Tracklist: "
+    "tracklistlabel": "Tracklist: ",
+    "bookletlabel": "CD Labels and Booklet Pages",
+    "multimedialabel": "Clips From Multimedia"
 }

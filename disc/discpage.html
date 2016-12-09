@@ -22,7 +22,10 @@
             <span class="primaryColor">{{tracklistlabel}} </span><br>
             <span ng-repeat="x in tracklist">
                 <span ng-show="x.number.length == 0 && x.name.length > 0">
-                    <span class="specializedFont secondaryColor">{{x.name}} </span><br>
+                    <span class="specializedFont secondaryColor">{{x.name}} </span>
+                    <span ng-show="x.composer.length > 0" class="secondaryColor smallerFont">({{x.composer}})</span>
+                    <span ng-show="x.time.length > 0">[{{x.time}}]</span>
+                    <br>
                 </span>
                 <li  ng-show="x.number.length > 0">
                     <span ng-show="x.number.length > 0" class="smallerFont">({{x.number}}):</span>
