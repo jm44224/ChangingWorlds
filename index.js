@@ -113,19 +113,19 @@ var siteInfoApp = angular.module('myApp', ['ngRoute']).controller('mainCtrl', fu
             controller: 'discAlternativeController'
         })
         .when('/discBerlin', {
-            templateUrl: 'disc/discpage.html',
+            templateUrl: 'disc/discpagewithmenu.html',
             controller: 'discBerlinController'
         })
         .when('/discBestOf', {
-            templateUrl: 'disc/discpage.html',
+            templateUrl: 'disc/discpagewithmenu.html',
             controller: 'discBestOfController'
         })
         .when('/discChinaGirl', {
-            templateUrl: 'disc/discpage.html',
+            templateUrl: 'disc/discpagewithmenu.html',
             controller: 'discChinaGirlController'
         })
         .when('/discChoreography', {
-            templateUrl: 'disc/discpage.html',
+            templateUrl: 'disc/discpagewithmenu.html',
             controller: 'discChoreographyController'
         })
         .when('/discClassical1', {
@@ -141,35 +141,35 @@ var siteInfoApp = angular.module('myApp', ['ngRoute']).controller('mainCtrl', fu
             controller: 'discFourSeasonsController'
         })
         .when('/discKids', {
-            templateUrl: 'disc/discpage.html',
+            templateUrl: 'disc/discpagewithmenu.html',
             controller: 'discKidsController'
         })
         .when('/discRoyal', {
-            templateUrl: 'disc/discpage.html',
+            templateUrl: 'disc/discpagewithmenu.html',
             controller: 'discRoyalController'
         })
         .when('/discStorm', {
-            templateUrl: 'disc/discpage.html',
+            templateUrl: 'disc/discpagewithmenu.html',
             controller: 'discStormController'
         })
         .when('/discSubject', {
-            templateUrl: 'disc/discpage.html',
+            templateUrl: 'disc/discpagewithmenu.html',
             controller: 'discSubjectController'
         })
         .when('/discTBConcertos', {
-            templateUrl: 'disc/discpage.html',
+            templateUrl: 'disc/discpagewithmenu.html',
             controller: 'discTBConcertosController'
         })
         .when('/discUltimate', {
-            templateUrl: 'disc/discpage.html',
+            templateUrl: 'disc/discpagewithmenu.html',
             controller: 'discUltimateController'
         })
         .when('/discViolin', {
-            templateUrl: 'disc/discpage.html',
+            templateUrl: 'disc/discpagewithmenu.html',
             controller: 'discViolinController'
         })
         .when('/discVPlayer', {
-            templateUrl: 'disc/discpage.html',
+            templateUrl: 'disc/discpagewithmenu.html',
             controller: 'discVPlayerController'
         })
         .when('/tour', {
