@@ -7,66 +7,80 @@
     "images": "1",
     "extra": "0",
     "label": "EMI",
+    "menu": [
+      {
+        "order": "1",
+        "title": "Violin Player",
+        "key": "CD1"
+      }
+    ],
     "tracklist": [
       {
-        "number" : "1",
-        "name" : "Toccata and Fugue in D Minor",
-        "time" : "7:47",
-        "composer" : "Johann Sebastian Bach"
-      },
-      {
-        "number" : "2",
-        "name" : "Contradanza",
-        "time" : "3:49",
-        "composer" : "Mike Batt"
-      },
-      {
-        "number" : "3",
-        "name" : "Classical Gas",
-        "time" : "3:21",
-        "composer" : "Mason Williams"
-      },
-      {
-        "number" : "4",
-        "name" : 	"Theme from 'Caravans'",
-        "time" : "5:06",
-        "composer" : "Mike Batt"
-      },
-      {
-        "number" : "5",
-        "name" : "Warm Air",
-        "time" : "3:38",
-        "composer" : "Mike Batt"
-      },
-      {
-        "number" : "6",
-        "name" : "Jazz Will Eat Itself",
-        "time" : "3:30",
-        "composer" : "Mike Batt"
-      },
-      {
-        "number" : "7",
-        "name" : "Widescreen",
-        "time" : "3:58",
-        "composer" : "Mike Batt"
-      },
-      {
-        "number" : "8",
-        "name" : "Tequila Mockingbird",
-        "time" : "3:26",
-        "composer" : "Mike Batt"
-      },
-      {
-        "number" : "9",
-        "name" : "City Theme",
-        "time" : "4:32",
-        "composer" : "Mike Batt"
-      },
-      {
-        "number" : "10",
-        "name" : "Red Hot",
-        "time" : "3:16",
-        "composer" : "Ian Wherry and Vanessa-Mae"
+        "key": "CD1",
+        "type": "tracklist",
+        "time": "64:51",
+        "list": [
+          {
+            "number": "1",
+            "name": "Toccata and Fugue in D Minor",
+            "time": "7:47",
+            "composer": "Johann Sebastian Bach"
+          },
+          {
+            "number": "2",
+            "name": "Contradanza",
+            "time": "3:49",
+            "composer": "Mike Batt"
+          },
+          {
+            "number": "3",
+            "name": "Classical Gas",
+            "time": "3:21",
+            "composer": "Mason Williams"
+          },
+          {
+            "number": "4",
+            "name": "Theme from 'Caravans'",
+            "time": "5:06",
+            "composer": "Mike Batt"
+          },
+          {
+            "number": "5",
+            "name": "Warm Air",
+            "time": "3:38",
+            "composer": "Mike Batt"
+          },
+          {
+            "number": "6",
+            "name": "Jazz Will Eat Itself",
+            "time": "3:30",
+            "composer": "Mike Batt"
+          },
+          {
+            "number": "7",
+            "name": "Widescreen",
+            "time": "3:58",
+            "composer": "Mike Batt"
+          },
+          {
+            "number": "8",
+            "name": "Tequila Mockingbird",
+            "time": "3:26",
+            "composer": "Mike Batt"
+          },
+          {
+            "number": "9",
+            "name": "City Theme",
+            "time": "4:32",
+            "composer": "Mike Batt"
+          },
+          {
+            "number": "10",
+            "name": "Red Hot",
+            "time": "3:16",
+            "composer": "Ian Wherry and Vanessa-Mae"
+          }
+        ]
       }
     ]
 }

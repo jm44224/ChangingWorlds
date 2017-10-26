@@ -13,66 +13,6 @@
         "order" : "1",
         "title" : "Classical Album 3 - tracklist",
         "key" : "CD1"
-      },
-      {
-        "order" : "2",
-        "title" : "Classical Album 3 - disc and booklet",
-        "key" : "BOOK1"
-      },
-      {
-        "order" : "3",
-        "title" : "Advance Listening - disc and booklet",
-        "key" : "BOOK2"
-      },
-      {
-        "order" : "4",
-        "title" : "Devil's Trill Reflection CD - tracklist",
-        "key" : "CD2"
-      },
-      {
-        "order" : "5",
-        "title" : "Devil's Trill Reflection CD - disc and booklet",
-        "key" : "BOOK3"
-      },
-      {
-        "order" : "6",
-        "title" : "Devil's Trill Single CD - tracklist",
-        "key" : "CD3"
-      },
-      {
-        "order" : "7",
-        "title" : "Devil's Trill Single CD - disc and booklet",
-        "key" : "BOOK4"
-      },
-      {
-        "order" : "8",
-        "title" : "The Original Four Seasons Video CD - tracklist",
-        "key" : "CD4"
-      },
-      {
-        "order" : "9",
-        "title" : "Original Four Seasons VCD - disc and booklet",
-        "key" : "BOOK5"
-      },
-      {
-        "order" : "10",
-        "title" : "Devil's Trill - Video",
-        "key" : "MMEDIA1"
-      },
-      {
-        "order" : "11",
-        "title" : "Reflection - Video",
-        "key" : "MMEDIA2"
-      },
-      {
-        "order" : "12",
-        "title" : "Violin Fantasy - Video",
-        "key" : "MMEDIA3"
-      },
-      {
-        "order" : "13",
-        "title" : "Siemen's TV Ad - Video",
-        "key" : "MMEDIA4"
       }
     ],
     "tracklist": [

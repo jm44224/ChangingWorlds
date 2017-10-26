@@ -7,8 +7,35 @@
     "images": "1",
     "extra": "0",
     "label": "",
-    "tracklist": [
+    "menu": [
       {
+        "order" : "1",
+        "title" : "The Best Of Vanessa-Mae",
+        "key" : "CD1"
+      },
+      {
+        "order" : "2",
+        "title" : "The Best Of Vanessa-Mae - booklet",
+        "key" : "BOOK1"
+      },
+      {
+        "order" : "3",
+        "title" : "The Best Of Vanessa-Mae Enhanced - booklet",
+        "key" : "BOOK2"
+      },
+      {
+        "order" : "4",
+        "title" : "The Best Of Vanessa-Mae Enhanced - EPK",
+        "key" : "MMEDIA"
+      }
+    ],
+    "tracklist": [
+      { 
+        "key": "CD1",
+        "type":"tracklist",
+        "time": "",
+        "list" : [
+           {
         "number" : "1",
         "name" : "Art of War",
         "time" : "4:02",
@@ -109,6 +136,337 @@
         "name" : "Art of War (with enhanced video element)",
         "time" : "",
         "composer" : ""
-      }
-    ]
+          }
+        ]
+      },
+      { 
+        "key": "BOOK1",
+        "type":"booklet",
+        "images": "disc/bestof/images/",
+        "list" : [
+        {
+          "src": "bo_cover.jpg",
+          "alt": "Front Cover of the Best of Vanessa-Mae Booklet",
+          "cap": "Front Cover",
+          "slide": "0",
+          "active":"active"
+        },
+        {
+          "src": "bo_ins_1.jpg",
+          "alt": "Insert Page 1 of the Best of Vanessa-Mae Booklet",
+          "cap": "Insert Page 1",
+          "slide": "1",
+          "active":"inactive"
+        },
+        {
+          "src": "bo_ins_2.jpg",
+          "alt": "Insert Page 2 of the Best of Vanessa-Mae Booklet",
+          "cap": "Insert Page 2",
+          "slide": "2",
+          "active":"inactive"
+        },
+        {
+          "src": "bo_ins_3.jpg",
+          "alt": "Insert Page 3 of the Best of Vanessa-Mae Booklet",
+          "cap": "Insert Page 3",
+          "slide": "3",
+          "active":"inactive"
+        },
+        {
+          "src": "bo_ins_4.jpg",
+          "alt": "Insert Page 4 of the Best of Vanessa-Mae Booklet",
+          "cap": "Insert Page 4",
+          "slide": "4",
+          "active":"inactive"
+        },
+        {
+          "src": "bo_ins_5.jpg",
+          "alt": "Insert Page 5 of the Best of Vanessa-Mae Booklet",
+          "cap": "Insert Page 5",
+          "slide": "5",
+          "active":"inactive"
+        },
+        {
+          "src": "bo_ins_6.jpg",
+          "alt": "Insert Page 6 of the Best of Vanessa-Mae Booklet",
+          "cap": "Insert Page 6",
+          "slide": "6",
+          "active":"inactive"
+        },
+        {
+          "src": "bo_ins_7.jpg",
+          "alt": "Insert Page 7 of the Best of Vanessa-Mae Booklet",
+          "cap": "Insert Page 7",
+          "slide": "7",
+          "active":"inactive"
+        },
+        {
+          "src": "bo_ins_8.jpg",
+          "alt": "Insert Page 8 of the Best of Vanessa-Mae Booklet",
+          "cap": "Insert Page 8",
+          "slide": "8",
+          "active":"inactive"
+        },
+        {
+          "src": "bo_ins_9.jpg",
+          "alt": "Insert Page 9 of the Best of Vanessa-Mae Booklet",
+          "cap": "Insert Page 9",
+          "slide": "9",
+          "active":"inactive"
+        },
+        {
+          "src": "bo_ins_10.jpg",
+          "alt": "Insert Page 10 of the Best of Vanessa-Mae Booklet",
+          "cap": "Insert Page 10",
+          "slide": "10",
+          "active":"inactive"
+        },
+        {
+          "src": "bo_ins_11.jpg",
+          "alt": "Insert Page 11 of the Best of Vanessa-Mae Booklet",
+          "cap": "Insert Page 11",
+          "slide": "11",
+          "active":"inactive"
+        },
+        {
+          "src": "bo_ins_12.jpg",
+          "alt": "Insert Page 12 of the Best of Vanessa-Mae Booklet",
+          "cap": "Insert Page 12",
+          "slide": "12",
+          "active":"inactive"
+        },
+        {
+          "src": "bo_ins_13.jpg",
+          "alt": "Insert Page 13 of the Best of Vanessa-Mae Booklet",
+          "cap": "Insert Page 13",
+          "slide": "13",
+          "active":"inactive"
+        },
+        {
+          "src": "bo_ins_14.jpg",
+          "alt": "Insert Page 14 of the Best of Vanessa-Mae Booklet",
+          "cap": "Insert Page 14",
+          "slide": "14",
+          "active":"inactive"
+        },
+        {
+          "src": "bo_ins_15.jpg",
+          "alt": "Insert Page 15 of the Best of Vanessa-Mae Booklet",
+          "cap": "Insert Page 15",
+          "slide": "15",
+          "active":"inactive"
+        },
+        {
+          "src": "bo_under_cd.jpg",
+          "alt": "Inside Jewel Case of the Best of Vanessa-Mae Booklet",
+          "cap": "Inside Jewel Case",
+          "slide": "16",
+          "active":"inactive"
+        },
+        {
+          "src": "bo_jewel.jpg",
+          "alt": "Jewel Case of the Best of Vanessa-Mae Booklet",
+          "cap": "Jewel Case",
+          "slide": "17",
+          "active":"inactive"
+        },
+        {
+          "src": "bo_label.jpg",
+          "alt": "Label of the Best of Vanessa-Mae Booklet",
+          "cap": "Label",
+          "slide": "18",
+          "active":"inactive"
+        }
+        ]
+      },
+      { 
+        "key": "BOOK2",
+        "type":"booklet",
+        "images": "disc/bestof/images/",
+        "list" : [
+        {
+          "src": "boe_cover.jpg",
+          "alt": "Front Cover of the Best of Vanessa-Mae Enhanced Booklet ",
+          "cap": "Front Cover",
+          "slide": "0",
+          "active":"active"
+        },
+        {
+          "src": "boe_ins_1.jpg",
+          "alt": "Insert Page 1 of the Best of Vanessa-Mae Enhanced Booklet ",
+          "cap": "Insert Page 1",
+          "slide": "1",
+          "active":"inactive"
+        },
+        {
+          "src": "boe_ins_2.jpg",
+          "alt": "Insert Page 2 of the Best of Vanessa-Mae Enhanced Booklet ",
+          "cap": "Insert Page 2",
+          "slide": "2",
+          "active":"inactive"
+        },
+        {
+          "src": "boe_ins_3.jpg",
+          "alt": "Insert Page 3 of the Best of Vanessa-Mae Enhanced Booklet ",
+          "cap": "Insert Page 3",
+          "slide": "3",
+          "active":"inactive"
+        },
+        {
+          "src": "boe_ins_4.jpg",
+          "alt": "Insert Page 4 of the Best of Vanessa-Mae Enhanced Booklet ",
+          "cap": "Insert Page 4",
+          "slide": "4",
+          "active":"inactive"
+        },
+        {
+          "src": "boe_ins_5.jpg",
+          "alt": "Insert Page 5 of the Best of Vanessa-Mae Enhanced Booklet ",
+          "cap": "Insert Page 5",
+          "slide": "5",
+          "active":"inactive"
+        },
+        {
+          "src": "boe_ins_6.jpg",
+          "alt": "Insert Page 6 of the Best of Vanessa-Mae Enhanced Booklet ",
+          "cap": "Insert Page 6",
+          "slide": "6",
+          "active":"inactive"
+        },
+        {
+          "src": "boe_ins_7.jpg",
+          "alt": "Insert Page 7 of the Best of Vanessa-Mae Enhanced Booklet ",
+          "cap": "Insert Page 7",
+          "slide": "7",
+          "active":"inactive"
+        },
+        {
+          "src": "boe_ins_8.jpg",
+          "alt": "Insert Page 8 of the Best of Vanessa-Mae Enhanced Booklet ",
+          "cap": "Insert Page 8",
+          "slide": "8",
+          "active":"inactive"
+        },
+        {
+          "src": "boe_ins_9.jpg",
+          "alt": "Insert Page 9 of the Best of Vanessa-Mae Enhanced Booklet ",
+          "cap": "Insert Page 9",
+          "slide": "9",
+          "active":"inactive"
+        },
+        {
+          "src": "boe_ins_10.jpg",
+          "alt": "Insert Page 10 of the Best of Vanessa-Mae Enhanced Booklet ",
+          "cap": "Insert Page 10",
+          "slide": "10",
+          "active":"inactive"
+        },
+        {
+          "src": "boe_ins_11.jpg",
+          "alt": "Insert Page 11 of the Best of Vanessa-Mae Enhanced Booklet ",
+          "cap": "Insert Page 11",
+          "slide": "11",
+          "active":"inactive"
+        },
+        {
+          "src": "boe_ins_12.jpg",
+          "alt": "Insert Page 12 of the Best of Vanessa-Mae Enhanced Booklet ",
+          "cap": "Insert Page 12",
+          "slide": "12",
+          "active":"inactive"
+        },
+        {
+          "src": "boe_ins_13.jpg",
+          "alt": "Insert Page 13 of the Best of Vanessa-Mae Enhanced Booklet ",
+          "cap": "Insert Page 13",
+          "slide": "13",
+          "active":"inactive"
+        },
+        {
+          "src": "boe_ins_14.jpg",
+          "alt": "Insert Page 14 of the Best of Vanessa-Mae Enhanced Booklet ",
+          "cap": "Insert Page 14",
+          "slide": "14",
+          "active":"inactive"
+        },
+        {
+          "src": "boe_ins_15.jpg",
+          "alt": "Insert Page 15 of the Best of Vanessa-Mae Enhanced Booklet ",
+          "cap": "Insert Page 15",
+          "slide": "15",
+          "active":"inactive"
+        },
+        {
+          "src": "boe_under_cd.jpg",
+          "alt": "Inside Jewel Case of the Best of Vanessa-Mae Enhanced Booklet ",
+          "cap": "Inside Jewel Case",
+          "slide": "24",
+          "active":"inactive"
+        },
+        {
+          "src": "boe_jewel.jpg",
+          "alt": "Jewel Case of the Best of Vanessa-Mae Enhanced Booklet ",
+          "cap": "Jewel Case",
+          "slide": "25",
+          "active":"inactive"
+        },
+        {
+          "src": "boe_label.jpg",
+          "alt": "Label of the Violin Disc",
+          "cap": "Label",
+          "slide": "26",
+          "active":"inactive"
+        }
+      ]
+    },
+    { 
+      "key": "MMEDIA",
+      "type":"multimedia",
+      "images": "disc/bestof/images/boepk/",
+      "list" : [
+        {
+          "src": "boepk1.jpg",
+          "alt": "Image 1 from The Best Of EPK",
+          "cap": "The Best Of EPK Image 1",
+          "slide": "0",
+          "active":"active"
+        },
+        {
+          "src": "boepk2.jpg",
+          "alt": "Image 2 from The Best Of EPK",
+          "cap": "The Best Of EPK Image 2",
+          "slide": "1",
+          "active":""
+        },
+        {
+          "src": "boepk3.jpg",
+          "alt": "Image 3 from The Best Of EPK",
+          "cap": "The Best Of EPK Image 3",
+          "slide": "2",
+          "active":""
+        },
+        {
+          "src": "boepk4.jpg",
+          "alt": "Image 4 from The Best Of EPK",
+          "cap": "The Best Of EPK Image 4",
+          "slide": "3",
+          "active":""
+        },
+        {
+          "src": "boepk5.jpg",
+          "alt": "Image 5 from The Best Of EPK",
+          "cap": "The Best Of EPK Image 5",
+          "slide": "4",
+          "active":""
+        },
+        {
+          "src": "boepk6.jpg",
+          "alt": "Image 6 from The Best Of EPK",
+          "cap": "The Best Of EPK Image 6",
+          "slide": "5",
+          "active":""
+        }
+      ]
+    }
+  ]
 }

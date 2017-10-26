@@ -7,24 +7,181 @@
     "images": "1",
     "extra": "0",
     "label": "Angel Records/EMI Records Ltd.",
-    "tracklist": [
+    "menu": [
       {
-        "number" : "1",
-        "name" : "Butterfly Lovers Concerto",
-        "time" : "26:46",
-        "composer" : "Ho Zhan Hao and Chen Kang"
+        "order" : "1",
+        "title" : "China Girl - The Classical Album 2",
+        "key" : "CD1"
       },
       {
-        "number" : "2",
-        "name" : "Violin Fantasy on Puccini's 'Turandot'",
-        "time" : "11:37",
-        "composer" : "Vanessa-Mae"
+        "order" : "2",
+        "title" : "China Girl - The Classical Album 2 - booklet",
+        "key" : "BOOK1"
       },
       {
-        "number" : "3",
-        "name" : "Happy Valley: The 1997 Re-unification Overture",
-        "time" : "6:35",
-        "composer" : "Vanessa-Mae and Andy Hill"
+        "order" : "3",
+        "title" : "China Girl - The Classical Album 2 - Red booklet",
+        "key" : "BOOK2"
+      },
+      {
+        "order" : "4",
+        "title" : "China Girl - The Classical Album 2 Promo - booklet",
+        "key" : "BOOK3"
+      },
+      {
+        "order" : "5",
+        "title" : "Happy Valley - The 1997 Re-Unification Overture - Single",
+        "key" : "CD2"
+      },
+      {
+        "order" : "6",
+        "title" : "Happy Valley - The 1997 Re-Unification Overture - Booklet",
+        "key" : "BOOK4"
+      },
+      {
+        "order" : "7",
+        "title" : "China Girl Video CD",
+        "key" : "CD3"
+      },
+      {
+        "order" : "8",
+        "title" : "China Girl Video CD - Booklet",
+        "key" : "BOOK5"
       }
+    ],
+    "tracklist": [
+      { 
+        "key": "CD1",
+        "type":"tracklist",
+        "time": "",
+        "list" : [
+           {
+              "number" : "1",
+              "name" : "Butterfly Lovers Concerto",
+              "time" : "26:46",
+              "composer" : "Ho Zhan Hao and Chen Kang"
+            },
+            {
+              "number" : "2",
+              "name" : "Violin Fantasy on Puccini's 'Turandot'",
+              "time" : "11:37",
+              "composer" : "Vanessa-Mae"
+            },
+            {
+              "number" : "3",
+              "name" : "Happy Valley: The 1997 Re-unification Overture",
+              "time" : "6:35",
+              "composer" : "Vanessa-Mae and Andy Hill"
+            }
+          ]
+        },
+        { 
+          "key": "BOOK1",
+          "type":"booklet",
+          "images": "disc/chinagirl/images/",
+          "list" : [
+            {
+              "src": "cg_cover.jpg",
+              "alt": "Cover of China Girl",
+              "cap": "Cover",
+              "slide": "1",
+              "active":"active"
+            }
+          ]
+        },
+        { 
+          "key": "BOOK2",
+          "type":"booklet",
+          "images": "disc/chinagirl/images/",
+          "list" : [
+            {
+              "src": "cg2_cover.jpg",
+              "alt": "Cover of China Girl (Red)",
+              "cap": "Red Cover",
+              "slide": "1",
+              "active":"active"
+            }
+          ]
+        },
+        { 
+          "key": "BOOK3",
+          "type":"booklet",
+          "images": "disc/chinagirl/images/",
+          "list" : [
+            {
+              "src": "cg_promo_cover.jpg",
+              "alt": "Cover of China Girl (Promo)",
+              "cap": "Promo Cover",
+              "slide": "1",
+              "active":"active"
+            }
+          ]
+        },
+        { 
+          "key": "CD2",
+          "type":"tracklist",
+          "time": "",
+          "list" : [
+           {
+              "number" : "1",
+              "name" : "Happy Valley (The Single Version)",
+              "time" : "",
+              "composer" : "Vanessa-Mae and Andy Hill"
+            },
+            {
+              "number" : "2",
+              "name" : "Happy Valley (The Parade Version)",
+              "time" : "",
+              "composer" : "Vanessa-Mae and Andy Hill"
+            }
+          ]
+        },
+        { 
+          "key": "BOOK4",
+          "type":"booklet",
+          "images": "disc/chinagirl/images/happyvalley",
+          "list" : [
+            {
+              "src": "hv_cover.jpg",
+              "alt": "Cover of Happy Valley Single",
+              "cap": "Happy Valley Cover",
+              "slide": "1",
+              "active":"active"
+            }
+          ]
+        },
+        { 
+          "key": "CD3",
+          "type":"tracklist",
+          "time": "",
+          "list" : [
+           {
+              "number" : "1",
+              "name" : "Happy Valley",
+              "time" : "",
+              "composer" : "Vanessa-Mae and Andy Hill"
+            },
+            {
+              "number" : "2",
+              "name" : "Scottish Fantasy",
+              "time" : "",
+              "composer" : ""
+            }
+          ]
+        },
+        { 
+          "key": "BOOK5",
+          "type":"booklet",
+          "images": "disc/chinagirl/images/vcd",
+          "list" : [
+            {
+              "src": "cvcd_label.jpg",
+              "alt": "Label of China Girl Video CD",
+              "cap": "China Girl Video CD Label",
+              "slide": "1",
+              "active":"active"
+            }
+          ]
+        }
     ]
 }
