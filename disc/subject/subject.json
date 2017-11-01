@@ -59,17 +59,22 @@
         "key" : "BOOK5"
       },
       {
-        "order" : "11",
+        "order": "11",
+        "title": "Interview",
+        "key": "BOOK6"
+      },      
+      {
+        "order" : "12",
         "title" : "Subject To Change VCD - Destiny",
         "key" : "MMEDIA1"
       },
       {
-        "order" : "12",
+        "order" : "13",
         "title" : "Subject To Change VCD - White Bird",
         "key" : "MMEDIA2"
       },
       {
-        "order" : "13",
+        "order" : "14",
         "title" : "Subject To Change VCD - Interview",
         "key" : "MMEDIA3"
       }
@@ -478,6 +483,48 @@
           "alt": "Label of Art of War Promo Single",
           "cap": "Art of War Promo Single CD Label",
           "slide": "3",
+          "active":""
+        }
+      ]
+    },
+    { 
+      "key": "BOOK6",
+      "type":"booklet",
+      "images": "disc/subject/images/interview/",
+      "list" : [
+        {
+          "src": "Front.jpg",
+          "alt": "Cover of Subject To Change Interview",
+          "cap": "Subject To Change Interview Cover",
+          "slide": "1",
+          "active": "active"
+        },
+        {
+          "src": "Inside1.jpg",
+          "alt": "Inside Page 1 of Subject To Change Interview",
+          "cap": "Subject To Change Interview Insert 1",
+          "slide": "2",
+          "active": ""
+        },
+        {
+          "src": "Inside2.jpg",
+          "alt": "Inside Page 2 of Subject To Change Interview",
+          "cap": "Subject To Change Interview Insert 2",
+          "slide": "3",
+          "active": ""
+        },
+        {
+          "src": "Back.jpg",
+          "alt": "Back of Subject To Change Interview",
+          "cap": "Subject To Change Interview Back",
+          "slide": "4",
+          "active": ""
+        },
+       {
+          "src": "Disc.jpg",
+          "alt": "Label of Subject To Change Interview",
+          "cap": "Subject To Change Interview CD Label",
+          "slide": "5",
           "active":""
         }
       ]
