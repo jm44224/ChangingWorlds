@@ -149,7 +149,7 @@
         { 
           "key": "BOOK4",
           "type":"booklet",
-          "images": "disc/chinagirl/images/happyvalley",
+          "images": "disc/chinagirl/images/happyvalley/",
           "list" : [
             {
               "src": "hv_cover.jpg",
@@ -182,7 +182,7 @@
       {
         "key": "BOOK5",
         "type": "booklet",
-        "images": "disc/chinagirl/images/vcd",
+        "images": "disc/chinagirl/images/vcd/",
         "list": [
           {
             "src": "cvcd_label.jpg",
