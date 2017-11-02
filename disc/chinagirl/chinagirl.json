@@ -47,6 +47,16 @@
         "order" : "8",
         "title" : "China Girl Video CD - Booklet",
         "key" : "BOOK5"
+      },
+      {
+        "order" : "9",
+        "title" : "China Girl Video CD - Happy Valley",
+        "key" : "MMEDIA1"
+      },
+      {
+        "order" : "10",
+        "title" : "China Girl Video CD - Scottish Fantasy",
+        "key" : "MMEDIA2"
       }
     ],
     "tracklist": [
@@ -169,19 +179,117 @@
             }
           ]
         },
-        { 
-          "key": "BOOK5",
-          "type":"booklet",
-          "images": "disc/chinagirl/images/vcd",
-          "list" : [
-            {
-              "src": "cvcd_label.jpg",
-              "alt": "Label of China Girl Video CD",
-              "cap": "China Girl Video CD Label",
-              "slide": "1",
-              "active":"active"
-            }
-          ]
+      {
+        "key": "BOOK5",
+        "type": "booklet",
+        "images": "disc/chinagirl/images/vcd",
+        "list": [
+          {
+            "src": "cvcd_label.jpg",
+            "alt": "Label of China Girl Video CD",
+            "cap": "China Girl Video CD Label",
+            "slide": "1",
+            "active": "active"
+          }
+        ]
+      },
+          { 
+      "key": "MMEDIA1",
+      "type":"multimedia",
+      "images": "disc/chinagirl/images/hvvcd/",
+      "list" : [
+        {
+          "src": "hv001.jpg",
+          "alt": "Image 1 from Happy Valley VCD",
+          "cap": "Happy Valley VCD Image 1",
+          "slide": "0",
+          "active":"active"
+        },
+        {
+          "src": "hv002.jpg",
+          "alt": "Image 2 from Happy Valley VCD",
+          "cap": "Happy Valley VCD Image 2",
+          "slide": "1",
+          "active":""
+        },
+        {
+          "src": "hv003.jpg",
+          "alt": "Image 3 from Happy Valley VCD",
+          "cap": "Happy Valley VCD Image 3",
+          "slide": "2",
+          "active":""
+        },
+        {
+          "src": "hv004.jpg",
+          "alt": "Image 4 from Happy Valley VCD",
+          "cap": "Happy Valley VCD Image 4",
+          "slide": "3",
+          "active":""
+        },
+        {
+          "src": "hv005.jpg",
+          "alt": "Image 5 from Happy Valley VCD",
+          "cap": "Happy Valley VCD Image 5",
+          "slide": "4",
+          "active":""
+        },
+        {
+          "src": "hv006.jpg",
+          "alt": "Image 6 from Happy Valley VCD",
+          "cap": "Happy Valley VCD Image 6",
+          "slide": "5",
+          "active":""
         }
-    ]
+      ]
+    },
+    { 
+      "key": "MMEDIA2",
+      "type":"multimedia",
+      "images": "disc/chinagirl/images/iadvcd/",
+      "list" : [
+        {
+          "src": "iad001.jpg",
+          "alt": "Image 1 from Scottish Fantasy VCD",
+          "cap": "Scottish Fantasy VCD Image 1",
+          "slide": "0",
+          "active":"active"
+        },
+        {
+          "src": "iad002.jpg",
+          "alt": "Image 2 from Scottish Fantasy VCD",
+          "cap": "Scottish Fantasy VCD Image 2",
+          "slide": "1",
+          "active":""
+        },
+        {
+          "src": "iad003.jpg",
+          "alt": "Image 3 from Scottish Fantasy VCD",
+          "cap": "Scottish Fantasy VCD Image 3",
+          "slide": "2",
+          "active":""
+        },
+        {
+          "src": "iad004.jpg",
+          "alt": "Image 4 from Scottish Fantasy VCD",
+          "cap": "Scottish Fantasy VCD Image 4",
+          "slide": "3",
+          "active":""
+        },
+        {
+          "src": "iad005.jpg",
+          "alt": "Image 5 from Scottish Fantasy VCD",
+          "cap": "Scottish Fantasy VCD Image 5",
+          "slide": "4",
+          "active":""
+        },
+        {
+          "src": "iad006.jpg",
+          "alt": "Image 6 from Scottish Fantasy VCD",
+          "cap": "Scottish Fantasy VCD Image 6",
+          "slide": "5",
+          "active":""
+        }
+      ]
+    }
+  ]
 }
