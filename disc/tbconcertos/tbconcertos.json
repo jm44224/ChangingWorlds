@@ -7,52 +7,139 @@
     "images": "1",
     "extra": "0",
     "label": "Music & Arts Productions Ltd, dist by Trittico Distributor Ltd (TCMA 27103)",
+    "menu": [
+      {
+        "order" : "1",
+        "title" : "Tchaikovsky and Beethoven Concertos",
+        "key" : "CD1"
+      },
+      {
+        "order" : "2",
+        "title" : "Tchaikovsky and Beethoven Concertos - booklet",
+        "key" : "BOOK1"
+      }
+    ],
     "tracklist": [
-      {
-        "number" : "",
-        "name" : "Violin Concerto in D, OP. 35 ",
-        "time" : "32.14",
-        "composer" : "Tchaikovsky"
-      },      {
-        "number" : "1",
-        "name" : "1st Movt. Allegro moderato - Allegro giusto",
-        "time" : "17.19",
-        "composer" : ""
+      { 
+        "key": "CD1",
+        "type":"tracklist",
+        "time": "64:51",
+        "list" : [
+        {
+          "number" : "",
+          "name" : "Violin Concerto in D, OP. 35 ",
+          "time" : "32.14",
+          "composer" : "Tchaikovsky"
+        },      {
+          "number" : "1",
+          "name" : "1st Movt. Allegro moderato - Allegro giusto",
+          "time" : "17.19",
+          "composer" : ""
+        },
+        {
+          "number" : "2",
+          "name" : "2nd Movt. Canzonetta: Andante",
+          "time" : "5.45",
+          "composer" : ""
+        },
+        {
+          "number" : "3",
+          "name" : "3rd Movt. Finale: Allegro vivacissimo",
+          "time" : "9.06",
+          "composer" : ""
+        },
+        {
+          "number" : "",
+          "name" : "Violin Concerto in D, Op. 61",
+          "time" : "",
+          "composer" : "Beethoven"
+        },      {
+          "number" : "4",
+          "name" : "1st Movt. Allegro, ma non troppo",
+          "time" : "22.42",
+          "composer" : ""
+        },
+        {
+          "number" : "5",
+          "name" : "2nd Movt. Larghetto",
+          "time" : "8.05",
+          "composer" : ""
+        },
+        {
+          "number" : "6",
+          "name" : "3rd Movt. Rondo allegro",
+          "time" : "9.50",
+          "composer" : ""
+        }
+        ]
       },
-      {
-        "number" : "2",
-        "name" : "2nd Movt. Canzonetta: Andante",
-        "time" : "5.45",
-        "composer" : ""
-      },
-      {
-        "number" : "3",
-        "name" : "3rd Movt. Finale: Allegro vivacissimo",
-        "time" : "9.06",
-        "composer" : ""
-      },
-      {
-        "number" : "",
-        "name" : "Violin Concerto in D, Op. 61",
-        "time" : "",
-        "composer" : "Beethoven"
-      },      {
-        "number" : "4",
-        "name" : "1st Movt. Allegro, ma non troppo",
-        "time" : "22.42",
-        "composer" : ""
-      },
-      {
-        "number" : "5",
-        "name" : "2nd Movt. Larghetto",
-        "time" : "8.05",
-        "composer" : ""
-      },
-      {
-        "number" : "6",
-        "name" : "3rd Movt. Rondo allegro",
-        "time" : "9.50",
-        "composer" : ""
+      { 
+        "key": "BOOK1",
+        "type":"booklet",
+        "images": "disc/tbconcertos/images/",
+        "list" : [
+        {
+          "src": "tchbee_cover.jpg",
+          "alt": "Front Cover of the Tchaikovsky and Beethoven Concertos Booklet",
+          "cap": "Front Cover",
+          "slide": "0",
+          "active":"active"
+        },
+        {
+          "src": "tchbee_ins_1.jpg",
+          "alt": "Insert Page 1 of the Tchaikovsky and Beethoven Concertos Booklet",
+          "cap": "Insert Page 1",
+          "slide": "1",
+          "active":"inactive"
+        },
+        {
+          "src": "tchbee_ins_2.jpg",
+          "alt": "Insert Page 2 of the Tchaikovsky and Beethoven Concertos Booklet",
+          "cap": "Insert Page 2",
+          "slide": "2",
+          "active":"inactive"
+        },
+        {
+          "src": "tchbee_ins_3.jpg",
+          "alt": "Insert Page 3 of the Tchaikovsky and Beethoven Concertos Booklet",
+          "cap": "Insert Page 3",
+          "slide": "3",
+          "active":"inactive"
+        },
+        {
+          "src": "tchbee_ins_4.jpg",
+          "alt": "Insert Page 4 of the Tchaikovsky and Beethoven Concertos Booklet",
+          "cap": "Insert Page 4",
+          "slide": "4",
+          "active":"inactive"
+        },
+        {
+          "src": "tchbee_ins_5.jpg",
+          "alt": "Insert Page 5 of the Tchaikovsky and Beethoven Concertos Booklet",
+          "cap": "Insert Page 5",
+          "slide": "5",
+          "active":"inactive"
+        },        {
+          "src": "tchbee_ins_6.jpg",
+          "alt": "Insert Page 6 of the Tchaikovsky and Beethoven Concertos Booklet",
+          "cap": "Insert Page 6",
+          "slide": "6",
+          "active":"inactive"
+        },       {
+          "src": "tchbee_back.jpg",
+          "alt": "Back Cover of the Tchaikovsky and Beethoven Concertos Booklet",
+          "cap": "Back Cover",
+          "slide": "7",
+          "active":"inactive"
+        },
+        {
+          "src": "tchbee_label.jpg",
+          "alt": "Label of the Tchaikovsky and Beethoven Concertos Disc",
+          "cap": "Label",
+          "slide": "8",
+          "active":"inactive"
+        }
+        ]
       }
     ]
 }

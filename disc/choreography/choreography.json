@@ -7,8 +7,35 @@
     "images": "1",
     "extra": "0",
     "label": "Sony Classical",
-    "tracklist": [
+    "menu": [
       {
+        "order" : "1",
+        "title" : "Choreography",
+        "key" : "CD1"
+      },
+      {
+        "order" : "2",
+        "title" : "Choreography - booklet",
+        "key" : "BOOK1"
+      },
+      {
+        "order" : "3",
+        "title" : "Choreography sampler - sleeve",
+        "key" : "BOOK2"
+      },
+      {
+        "order" : "2",
+        "title" : "Choreography Advance Listening - booklet",
+        "key" : "BOOK3"
+      }
+    ],
+    "tracklist": [
+      { 
+        "key": "CD1",
+        "type":"tracklist",
+        "time": "43:18",
+        "list" : [
+           {
         "number" : "1",
         "name" : "Sabre Dance",
         "time" : "6:01",
@@ -67,6 +94,114 @@
         "name" : "Handel's Minuet",
         "time" : "3:50",
         "composer" : "arr. Vanessa-Mae"
+          }
+        ]
+      },
+      { 
+        "key": "BOOK1",
+        "type":"booklet",
+        "images": "disc/choreography/images/",
+        "list" : [
+        {
+          "src": "choreo_cover.jpg",
+          "alt": "Front Cover of the Choreography Booklet",
+          "cap": "Front Cover",
+          "slide": "0",
+          "active":"active"
+        },
+        {
+          "src": "choreo_insert1.jpg",
+          "alt": "Insert Page 1 of the Choreography Booklet",
+          "cap": "Insert Page 1",
+          "slide": "1",
+          "active":"inactive"
+        },
+        {
+          "src": "choreo_insert2.jpg",
+          "alt": "Insert Page 2 of the Choreography Booklet",
+          "cap": "Insert Page 2",
+          "slide": "2",
+          "active":"inactive"
+        },
+        {
+          "src": "choreo_insert3.jpg",
+          "alt": "Insert Page 3 of the Choreography Booklet",
+          "cap": "Insert Page 3",
+          "slide": "3",
+          "active":"inactive"
+        },
+        {
+          "src": "choreo_insert.jpg",
+          "alt": "Insert Page 4 of the Choreography Booklet",
+          "cap": "Insert Page 4",
+          "slide": "4",
+          "active":"inactive"
+        },
+        {
+          "src": "choreo_back.jpg",
+          "alt": "Back Cover of the Choreography Booklet",
+          "cap": "Back Cover",
+          "slide": "5",
+          "active":"inactive"
+        },
+        {
+          "src": "choreo_jewel.jpg",
+          "alt": "Jewel Case of the Choreography Disc",
+          "cap": "Jewel Case",
+          "slide": "6",
+          "active":"inactive"
+        },
+        {
+          "src": "choreo_label.jpg",
+          "alt": "Label of the Choreography Disc",
+          "cap": "Label",
+          "slide": "7",
+          "active":"inactive"
+        }
+        ]
+      },
+      { 
+        "key": "BOOK2",
+        "type":"booklet",
+        "images": "disc/choreography/images/",
+        "list" : [
+        {
+          "src": "chor_promo.jpg",
+          "alt": "Sleeve of Choreography Sampler Booklet",
+          "cap": "Sampler Sleeve",
+          "slide": "0",
+          "active":"active"
+        }
+        ]
+      },
+      { 
+        "key": "BOOK3",
+        "type":"booklet",
+        "images": "disc/choreography/images/",
+        "list" : [
+        {
+          "src": "chor_advlist_cover.jpg",
+          "alt": "Front Cover of the Advance Listening Booklet",
+          "cap": "Advance Listening Cover",
+          "slide": "0",
+          "active":"active"
+        },
+        {
+          "src": "chor_advlist_back.jpg",
+          "alt": "Back Cover of the Advance Listening Booklet",
+          "cap": "Advance Listening Back",
+          "slide": "1",
+          "active":"inactive"
+        },
+        {
+          "src": "chor_advlist_label.jpg",
+          "alt": "Label of the Advance Listening Booklet",
+          "cap": "Advance Listening Label",
+          "slide": "2",
+          "active":"inactive"
+        }
+        ]
       }
     ]
 }
+

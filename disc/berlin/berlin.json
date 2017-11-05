@@ -7,8 +7,25 @@
     "images": "1",
     "extra": "0",
     "label": "",
-    "tracklist": [
+    "menu": [
       {
+        "order" : "1",
+        "title" : "Live at the Berlin Philharmonie",
+        "key" : "CD1"
+      },
+      {
+        "order" : "2",
+        "title" : "Live at the Berlin Philharmonie - booklet",
+        "key" : "BOOK1"
+      }
+    ],
+    "tracklist": [
+      { 
+        "key": "CD1",
+        "type":"tracklist",
+        "time": "64:51",
+        "list" : [
+        {
         "number" : "1",
         "name" : "Toccata & Fugue in D minor",
         "time" : "",
@@ -37,6 +54,22 @@
         "name" : "Red Hot",
         "time" : "",
         "composer" : ""
+        }
+        ]
+      },
+      { 
+        "key": "BOOK1",
+        "type":"booklet",
+        "images": "disc/berlin/images/",
+        "list" : [
+        {
+          "src": "berlin.jpg",
+          "alt": "Front Cover of the Live at the Berlin Philharmonie",
+          "cap": "Front Cover",
+          "slide": "0",
+          "active":"active"
+        }
+        ]
       }
     ]
 }

@@ -2,140 +2,158 @@
     "title": "Violin",
     "year": "1990",
     "release": "",
-    "time": "",
+    "time": "64.51",
     "tracks": "1",
     "images": "1",
     "extra": "0",
     "label": "Music and Arts Records (MA 91001)",
-    "selection": [
+    "menu": [
       {
-      "tracklist":"tracklist",
-      "images":"images" }
-      ],
-    "tracklist": [
-       {
-        "number" : "",
-        "name" : "Sarasate",
-        "time" : "",
-        "composer" : ""
+        "order" : "1",
+        "title" : "Violin",
+        "key" : "CD1"
       },
       {
-        "number" : "1",
-        "name" : "Carmen Fantasy",
-        "time" : "",
-        "composer" : ""
-      },
-      {
-        "number" : "",
-        "name" : "Kabalevksy - Violin Concerto ",
-        "time" : "",
-        "composer" : ""
-      },      
-      {
-        "number" : "2",
-        "name" : "Allegro",
-        "time" : "",
-        "composer" : ""
-      },
-      {
-        "number" : "3",
-        "name" : "Andante",
-        "time" : "",
-        "composer" : ""
-      },
-      {
-        "number" : "4",
-        "name" : "Vivace Giocoso",
-        "time" : "",
-        "composer" : ""
-      },
-      {
-        "number" : "",
-        "name" : "Mozart - 'Adelaide' Concerto",
-        "time" : "",
-        "composer" : ""
-      },     
-      {
-        "number" : "5",
-        "name" : "Allegro",
-        "time" : "",
-        "composer" : ""
-      },
-      {
-        "number" : "6",
-        "name" : "Adagio",
-        "time" : "",
-        "composer" : ""
-      },
-      {
-        "number" : "7",
-        "name" : "Allegro",
-        "time" : "",
-        "composer" : ""
-      },
-      {
-        "number" : "",
-        "name" : "Wieniawski",
-        "time" : "",
-        "composer" : ""
-      },
-      {
-        "number" : "8",
-        "name" : "Faust Fantasy",
-        "time" : "",
-        "composer" : ""
+        "order" : "2",
+        "title" : "Violin - booklet",
+        "key" : "BOOK1"
       }
     ],
-    "images": 
-    [
-      {
-        "src": "violin_cover.jpg",
-        "alt": "Front Cover of the Violin Booklet",
-        "cap": "Front Cover",
-        "slide": "0",
-        "active":"active"
+    "tracklist": [
+      { 
+        "key": "CD1",
+        "type":"tracklist",
+        "time": "64:51",
+        "list" : [
+           {
+            "number" : "",
+            "name" : "Sarasate",
+            "time" : "",
+            "composer" : ""
+          },
+          {
+            "number" : "1",
+            "name" : "Carmen Fantasy",
+            "time" : "13:35",
+            "composer" : ""
+          },
+          {
+            "number" : "",
+            "name" : "Kabalevksy - Violin Concerto ",
+            "time" : "",
+            "composer" : ""
+          },      
+          {
+            "number" : "2",
+            "name" : "Allegro",
+            "time" : "4:24",
+            "composer" : ""
+          },
+          {
+            "number" : "3",
+            "name" : "Andante",
+            "time" : "5:01",
+            "composer" : ""
+          },
+          {
+            "number" : "4",
+            "name" : "Vivace Giocoso",
+            "time" : "5:51",
+            "composer" : ""
+          },
+          {
+            "number" : "",
+            "name" : "Mozart - 'Adelaide' Concerto",
+            "time" : "",
+            "composer" : ""
+          },     
+          {
+            "number" : "5",
+            "name" : "Allegro",
+            "time" : "7:21",
+            "composer" : ""
+          },
+          {
+            "number" : "6",
+            "name" : "Adagio",
+            "time" : "7:11",
+            "composer" : ""
+          },
+          {
+            "number" : "7",
+            "name" : "Allegro",
+            "time" : "4:22",
+            "composer" : ""
+          },
+          {
+            "number" : "",
+            "name" : "Wieniawski",
+            "time" : "",
+            "composer" : ""
+          },
+          {
+            "number" : "8",
+            "name" : "Faust Fantasy",
+            "time" : "16:20",
+            "composer" : ""
+          }
+        ]
       },
-      {
-        "src": "violin_ins_1.jpg",
-        "alt": "Insert Page 1 of the Violin Booklet",
-        "cap": "Insert Page 1",
-        "slide": "1",
-        "active":"inactive"
-      },
-      {
-        "src": "violin_ins_2.jpg",
-        "alt": "Insert Page 2 of the Violin Booklet",
-        "cap": "Insert Page 2",
-        "slide": "2",
-        "active":"inactive"
-      },
-      {
-        "src": "violin_ins_3.jpg",
-        "alt": "Insert Page 3 of the Violin Booklet",
-        "cap": "Insert Page 3",
-        "slide": "3",
-        "active":"inactive"
-      },
-      {
-        "src": "violin_ins_4.jpg",
-        "alt": "Insert Page 4 of the Violin Booklet",
-        "cap": "Insert Page 4",
-        "slide": "4",
-        "active":"inactive"
-      },
-      {
-        "src": "violin_back.jpg",
-        "alt": "Back Cover of the Violin Booklet",
-        "cap": "Back Cover",
-        "slide": "5",
-        "active":"inactive"
-      },
-      {
-        "src": "violin_label.jpg",
-        "alt": "Label of the Violin Booklet",
-        "cap": "Label",
-        "slide": "6",
-        "active":"inactive"
+      { 
+        "key": "BOOK1",
+        "type":"booklet",
+        "images": "disc/violin/images/",
+        "list" : [
+        {
+          "src": "violin_cover.jpg",
+          "alt": "Front Cover of the Violin Booklet",
+          "cap": "Front Cover",
+          "slide": "0",
+          "active":"active"
+        },
+        {
+          "src": "violin_ins_1.jpg",
+          "alt": "Insert Page 1 of the Violin Booklet",
+          "cap": "Insert Page 1",
+          "slide": "1",
+          "active":"inactive"
+        },
+        {
+          "src": "violin_ins_2.jpg",
+          "alt": "Insert Page 2 of the Violin Booklet",
+          "cap": "Insert Page 2",
+          "slide": "2",
+          "active":"inactive"
+        },
+        {
+          "src": "violin_ins_3.jpg",
+          "alt": "Insert Page 3 of the Violin Booklet",
+          "cap": "Insert Page 3",
+          "slide": "3",
+          "active":"inactive"
+        },
+        {
+          "src": "violin_ins_4.jpg",
+          "alt": "Insert Page 4 of the Violin Booklet",
+          "cap": "Insert Page 4",
+          "slide": "4",
+          "active":"inactive"
+        },
+        {
+          "src": "violin_back.jpg",
+          "alt": "Back Cover of the Violin Booklet",
+          "cap": "Back Cover",
+          "slide": "5",
+          "active":"inactive"
+        },
+        {
+          "src": "violin_label.jpg",
+          "alt": "Label of the Violin Disc",
+          "cap": "Label",
+          "slide": "6",
+          "active":"inactive"
+        }
+        ]
       }
     ]
 }

@@ -7,114 +7,259 @@
     "images": "1",
     "extra": "0",
     "label": "Trittico Classics Ltd.",
+    "menu": [
+      {
+        "order" : "1",
+        "title" : "Kid's Classics",
+        "key" : "CD1"
+      },
+      {
+        "order" : "2",
+        "title" : "Kid's Classics - booklet",
+        "key" : "BOOK1"
+      }
+    ],
     "tracklist": [
-      {
-        "number" : "1",
-        "name" : "Figaro",
-        "time" : "5:32",
-        "composer" : "Castelnuovo-Tedesco Heifetz)"
+      { 
+        "key": "CD1",
+        "type":"tracklist",
+        "time": "",
+        "list" : [
+            {
+              "number" : "1",
+              "name" : "Figaro",
+              "time" : "5:32",
+              "composer" : "Castelnuovo-Tedesco Heifetz)"
+            },
+            {
+              "number" : "2",
+              "name" : "Liebesleid",
+              "time" : "2:50",
+              "composer" : "Kreisler"
+            },
+            {
+              "number" : "3",
+              "name" : "Liebesfreud",
+              "time" : "3:01",
+              "composer" : "Kreisler"
+            },
+            {
+              "number" : "4",
+              "name" : "Schon Rosmarin",
+              "time" : "1:51",
+              "composer" : "Kreisler"
+            },
+            {
+              "number" : "5",
+              "name" : "La Campanella",
+              "time" : "5:18",
+              "composer" : "Paganini/Kreisler"
+            },
+            {
+              "number" : "6",
+              "name" : "Air On The G String",
+              "time" : "2:17",
+              "composer" : "Bach/Wilhemj"
+            },
+            {
+              "number" : "7",
+              "name" : "Frere Jacques",
+              "time" : "8:50",
+              "composer" : "James"
+            },
+            {
+              "number" : "8",
+              "name" : "Yellow Submarine",
+              "time" : "1:35",
+              "composer" : "McCartney/James"
+            },
+            {
+              "number" : "9",
+              "name" : "Salut D'Amour",
+              "time" : "2:20",
+              "composer" : "Elgar"
+            },
+            {
+              "number" : "10",
+              "name" : "Russian Dance",
+              "time" : "3:57",
+              "composer" : "Tchaikovsky"
+            },
+            {
+              "number" : "11",
+              "name" : "Lullaby",
+              "time" : "1:57",
+              "composer" : "Brahms/James"
+            },
+            {
+              "number" : "12",
+              "name" : "Les Parapluies De Cherbourg",
+              "time" : "1:46",
+              "composer" : "LeGrand/Vanessa-Mae"
+            },
+            {
+              "number" : "13",
+              "name" : "Summertime",
+              "time" : "1:49",
+              "composer" : "Gershwin/Heifetz"
+            },
+            {
+              "number" : "14",
+              "name" : "My Favourite Things",
+              "time" : "1:12",
+              "composer" : "Rogers/James"
+            },
+            {
+              "number" : "15",
+              "name" : "One Moment In Time",
+              "time" : "4:31",
+              "composer" : "Bettis/Vanessa-Mae"
+            },
+            {
+              "number" : "16",
+              "name" : "Tambourin Chinois",
+              "time" : "3:56",
+              "composer" : "Kreisler"
+            },
+            {
+              "number" : "17",
+              "name" : "Chinese Folk Tune",
+              "time" : "2:33",
+              "composer" : "Sze-Du/James"
+            },
+            {
+              "number" : "18",
+              "name" : "Pink Panther",
+              "time" : "2:25",
+              "composer" : "Mancini/James"
+            }
+        ]
       },
-      {
-        "number" : "2",
-        "name" : "Liebesleid",
-        "time" : "2:50",
-        "composer" : "Kreisler"
-      },
-      {
-        "number" : "3",
-        "name" : "Liebesfreud",
-        "time" : "3:01",
-        "composer" : "Kreisler"
-      },
-      {
-        "number" : "4",
-        "name" : "Schon Rosmarin",
-        "time" : "1:51",
-        "composer" : "Kreisler"
-      },
-      {
-        "number" : "5",
-        "name" : "La Campanella",
-        "time" : "5:18",
-        "composer" : "Paganini/Kreisler"
-      },
-      {
-        "number" : "6",
-        "name" : "Air On The G String",
-        "time" : "2:17",
-        "composer" : "Bach/Wilhemj"
-      },
-      {
-        "number" : "7",
-        "name" : "Frere Jacques",
-        "time" : "8:50",
-        "composer" : "James"
-      },
-      {
-        "number" : "8",
-        "name" : "Yellow Submarine",
-        "time" : "1:35",
-        "composer" : "McCartney/James"
-      },
-      {
-        "number" : "9",
-        "name" : "Salut D'Amour",
-        "time" : "2:20",
-        "composer" : "Elgar"
-      },
-      {
-        "number" : "10",
-        "name" : "Russian Dance",
-        "time" : "3:57",
-        "composer" : "Tchaikovsky"
-      },
-      {
-        "number" : "11",
-        "name" : "Lullaby",
-        "time" : "1:57",
-        "composer" : "Brahms/James"
-      },
-      {
-        "number" : "12",
-        "name" : "Les Parapluies De Cherbourg",
-        "time" : "1:46",
-        "composer" : "LeGrand/Vanessa-Mae"
-      },
-      {
-        "number" : "13",
-        "name" : "Summertime",
-        "time" : "1:49",
-        "composer" : "Gershwin/Heifetz"
-      },
-      {
-        "number" : "14",
-        "name" : "My Favourite Things",
-        "time" : "1:12",
-        "composer" : "Rogers/James"
-      },
-      {
-        "number" : "15",
-        "name" : "One Moment In Time",
-        "time" : "4:31",
-        "composer" : "Bettis/Vanessa-Mae"
-      },
-      {
-        "number" : "16",
-        "name" : "Tambourin Chinois",
-        "time" : "3:56",
-        "composer" : "Kreisler"
-      },
-      {
-        "number" : "17",
-        "name" : "Chinese Folk Tune",
-        "time" : "2:33",
-        "composer" : "Sze-Du/James"
-      },
-      {
-        "number" : "18",
-        "name" : "Pink Panther",
-        "time" : "2:25",
-        "composer" : "Mancini/James"
+      { 
+        "key": "BOOK1",
+        "type":"booklet",
+        "images": "disc/kids/images/",
+        "list" : [
+        {
+          "src": "kc_cover.jpg",
+          "alt": "Front Cover of the Kid's Classic Booklet",
+          "cap": "Front Cover",
+          "slide": "0",
+          "active":"active"
+        },
+        {
+          "src": "kc_ins_1.jpg",
+          "alt": "Insert Page 1 of the Kid's Classic Booklet",
+          "cap": "Insert Page 1",
+          "slide": "1",
+          "active":"inactive"
+        },
+        {
+          "src": "kc_ins_2.jpg",
+          "alt": "Insert Page 2 of the Kid's Classic Booklet",
+          "cap": "Insert Page 2",
+          "slide": "2",
+          "active":"inactive"
+        },
+        {
+          "src": "kc_ins_3.jpg",
+          "alt": "Insert Page 3 of the Kid's Classic Booklet",
+          "cap": "Insert Page 3",
+          "slide": "3",
+          "active":"inactive"
+        },
+        {
+          "src": "kc_ins_4.jpg",
+          "alt": "Insert Page 4 of the Kid's Classic Booklet",
+          "cap": "Insert Page 4",
+          "slide": "4",
+          "active":"inactive"
+        },
+        {
+          "src": "kc_ins_5.jpg",
+          "alt": "Insert Page 5 of the Kid's Classic Booklet",
+          "cap": "Insert Page 5",
+          "slide": "5",
+          "active":"inactive"
+        },
+        {
+          "src": "kc_ins_6.jpg",
+          "alt": "Insert Page 6 of the Kid's Classic Booklet",
+          "cap": "Insert Page 6",
+          "slide": "6",
+          "active":"inactive"
+        },
+        {
+          "src": "kc_ins_7.jpg",
+          "alt": "Insert Page 7 of the Kid's Classic Booklet",
+          "cap": "Insert Page 7",
+          "slide": "7",
+          "active":"inactive"
+        },
+        {
+          "src": "kc_ins_8.jpg",
+          "alt": "Insert Page 8 of the Kid's Classic Booklet",
+          "cap": "Insert Page 8",
+          "slide": "8",
+          "active":"inactive"
+        },
+        {
+          "src": "kc_ins_9.jpg",
+          "alt": "Insert Page 9 of the Kid's Classic Booklet",
+          "cap": "Insert Page 9",
+          "slide": "9",
+          "active":"inactive"
+        },
+        {
+          "src": "kc_ins_10.jpg",
+          "alt": "Insert Page 10 of the Kid's Classic Booklet",
+          "cap": "Insert Page 10",
+          "slide": "10",
+          "active":"inactive"
+        },
+        {
+          "src": "kc_ins_11.jpg",
+          "alt": "Insert Page 11 of the Kid's Classic Booklet",
+          "cap": "Insert Page 11",
+          "slide": "11",
+          "active":"inactive"
+        },
+        {
+          "src": "kc_ins_12.jpg",
+          "alt": "Insert Page 12 of the Kid's Classic Booklet",
+          "cap": "Insert Page 12",
+          "slide": "12",
+          "active":"inactive"
+        },
+        {
+          "src": "kc_ins_14.jpg",
+          "alt": "Insert Page 14 of the Kid's Classic Booklet",
+          "cap": "Insert Page 14",
+          "slide": "14",
+          "active":"inactive"
+        },
+        {
+          "src": "kc_ins_15.jpg",
+          "alt": "Insert Page 15 of the Kid's Classic Booklet",
+          "cap": "Insert Page 15",
+          "slide": "15",
+          "active":"inactive"
+        },
+        {
+          "src": "kc_jewel.jpg",
+          "alt": "Jewel Case of the Kid's Classic Booklet",
+          "cap": "Jewel Case",
+          "slide": "16",
+          "active":"inactive"
+        },
+        {
+          "src": "kc_label.jpg",
+          "alt": "Label of the Kid's Classic Disc",
+          "cap": "Label",
+          "slide": "17",
+          "active":"inactive"
+        }
+        ]
       }
     ]
 }
