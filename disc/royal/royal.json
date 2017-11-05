@@ -7,8 +7,25 @@
     "images": "1",
     "extra": "0",
     "label": "",
-    "tracklist": [
+    "menu": [
       {
+        "order" : "1",
+        "title" : "Live at the Royal Albert Hall",
+        "key" : "CD1"
+      },
+      {
+        "order" : "2",
+        "title" : "Live at the Royal Albert Hall - booklet",
+        "key" : "BOOK1"
+      }
+    ],
+    "tracklist": [
+      { 
+        "key": "CD1",
+        "type":"tracklist",
+        "time": "64:51",
+        "list" : [
+        {
         "number" : "1",
         "name" : "Introduction",
         "time" : "",
@@ -109,6 +126,43 @@
         "name" : "plus Red Hot and Happy Valley",
         "time" : "",
         "composer" : ""
+        }
+        ]
+      },
+      { 
+        "key": "BOOK1",
+        "type":"booklet",
+        "images": "disc/royal/images/",
+        "list" : [
+        {
+          "src": "rah_dvd_cover.jpg",
+          "alt": "Front Cover of the Live at the Royal Albert Hall Booklet",
+          "cap": "Front Cover",
+          "slide": "0",
+          "active":"active"
+        },
+        {
+          "src": "rah_dvd_insert.jpg",
+          "alt": "Insert of the Live at the Royal Albert Hall Booklet",
+          "cap": "Insert Page 1",
+          "slide": "1",
+          "active":"inactive"
+        },
+        {
+          "src": "rah_dvd_backcover.jpg",
+          "alt": "Back Cover of the Live at the Royal Albert Hall Booklet",
+          "cap": "Back Cover",
+          "slide": "2",
+          "active":"inactive"
+        },
+        {
+          "src": "rah_dvd_label.jpg",
+          "alt": "Label of the Live at the Royal Albert Hall Disc",
+          "cap": "Label",
+          "slide": "3",
+          "active":"inactive"
+        }
+        ]
       }
     ]
 }
