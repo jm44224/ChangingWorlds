@@ -12,6 +12,76 @@
         "order": "1",
         "title": "Violin Player",
         "key": "CD1"
+      },
+      {
+        "order": "2",
+        "title": "Violin Player - booklet",
+        "key": "BOOK1"
+      },
+      {
+        "order": "3",
+        "title": "Toccata and Fugue Single",
+        "key": "CD2"
+      },
+      {
+        "order" : "2",
+        "title" : "Toccata and Fugue Single - booklet",
+        "key" : "BOOK2"
+      },
+      {
+        "order": "5",
+        "title": "Toccata and Fugue, The Mixes Single",
+        "key": "CD3"
+      },
+      {
+        "order": "6",
+        "title": "Red Hot Single",
+        "key": "CD4"
+      },
+      {
+        "order" : "7",
+        "title" : "Red Hot Single - booklet",
+        "key" : "BOOK4"
+      },
+      {
+        "order": "8",
+        "title": "The Violin Player Video CD",
+        "key": "CD5"
+      },
+      {
+        "order": "9",
+        "title": "Toccata y Fuga en re menor Spanish Single",
+        "key": "CD6"
+      },
+      {
+        "order" : "10",
+        "title" : "Toccata y Fuga en re menor Spanish Single - booklet",
+        "key" : "BOOK6"
+      },
+      {
+        "order": "11",
+        "title": "Contradanza Spanish Single",
+        "key": "CD7"
+      },
+      {
+        "order" : "12",
+        "title" : "Contradanza Spanish Single - booklet",
+        "key" : "BOOK7"
+      },
+      {
+        "order" : "13",
+        "title" : "The Violin Player Video CD - Red Hot",
+        "key" : "MMEDIA1"
+      },
+      {
+        "order" : "13",
+        "title" : "The Violin Player Video CD - Classical Gas",
+        "key" : "MMEDIA2"
+      },
+      {
+        "order" : "13",
+        "title" : "The Violin Player Video CD - Toccata and Fugue",
+        "key" : "MMEDIA3"
       }
     ],
     "tracklist": [
@@ -79,8 +149,540 @@
             "name": "Red Hot",
             "time": "3:16",
             "composer": "Ian Wherry and Vanessa-Mae"
+          },
+          {
+            "number": "",
+            "name": "Additions on Red Hot - The Violin Player",
+            "time": "",
+            "composer": ""
+          },
+          {
+            "number": "11",
+            "name": "I Will Always Love You",
+            "time": "",
+            "composer": ""
+          },
+          {
+            "number": "12",
+            "name": "Toccata and Fugue in D minor - D's Radio Mix",
+            "time": "",
+            "composer": ""
+          },
+          {
+            "number": "",
+            "name": "Additions on The Violin Player Plus",
+            "time": "",
+            "composer": ""
+          },
+          {
+            "number": "11",
+            "name": "Toccata & Fugue D's hiphouse Mix",
+            "time": "",
+            "composer": ""
+          },
+          {
+            "number": "12",
+            "name": "I'm A-Doun For Lack O' Johnnie",
+            "time": "",
+            "composer": ""
           }
         ]
       }
+    ,
+      { 
+        "key": "BOOK1",
+        "type":"booklet",
+        "images": "disc/vplayer/images/",
+        "list" : [
+        {
+          "src": "vp_cover.jpg",
+          "alt": "Front Cover of The Violin Player Booklet",
+          "cap": "Front Cover",
+          "slide": "0",
+          "active":"active"
+        },
+        {
+          "src": "vp_ins_5.jpg",
+          "alt": "Insert Page 1 of The Violin Player Booklet",
+          "cap": "Insert Page 1",
+          "slide": "1",
+          "active":"inactive"
+        },
+        {
+          "src": "vp_ins_6.jpg",
+          "alt": "Insert Page 2 of The Violin Player Booklet",
+          "cap": "Insert Page 2",
+          "slide": "2",
+          "active":"inactive"
+        },
+        {
+          "src": "vp_ins_7.jpg",
+          "alt": "Insert Page 3 of The Violin Player Booklet",
+          "cap": "Insert Page 3",
+          "slide": "3",
+          "active":"inactive"
+        },
+        {
+          "src": "vp_ins_1.jpg",
+          "alt": "Insert Page 4 of The Violin Player Booklet",
+          "cap": "Insert Page 4",
+          "slide": "4",
+          "active":"inactive"
+        },
+        {
+          "src": "vp_ins_2.jpg",
+          "alt": "Insert Page 5 of The Violin Player Booklet",
+          "cap": "Insert Page 5",
+          "slide": "5",
+          "active":"inactive"
+        },
+        {
+          "src": "vp_ins_3.jpg",
+          "alt": "Insert Page 6 of The Violin Player Booklet",
+          "cap": "Insert Page 6",
+          "slide": "6",
+          "active":"inactive"
+        },
+        {
+          "src": "vp_ins_4.jpg",
+          "alt": "Insert Page 7 of The Violin Player Booklet",
+          "cap": "Insert Page 7",
+          "slide": "7",
+          "active":"inactive"
+        },
+        {
+          "src": "vp_jewel.jpg",
+          "alt": "Jewel Case of The Violin Player Booklet",
+          "cap": "Jewel Case",
+          "slide": "8",
+          "active":"inactive"
+        },
+        {
+          "src": "vp_label.jpg",
+          "alt": "Label of The Violin Player Disc",
+          "cap": "Label",
+          "slide": "9",
+          "active":"inactive"
+          }
+        ]
+      },
+    {
+      "key": "CD2",
+      "type": "tracklist",
+      "time": "",
+      "list": [
+        {
+          "number": "1",
+          "name": "Toccata & Fugue in D minor (Single Edit)",
+          "time": "",
+          "composer": ""
+        },
+        {
+          "number": "2",  
+          "name": "Warm Air",
+          "time": "",
+          "composer": ""
+        },
+        {
+          "number": "3",
+          "name": "Toccata & Fugue in D minor (Album Edit)  ",
+          "time": "",
+          "composer": ""
+        }
+      ]
+    },
+    { 
+      "key": "BOOK2",
+      "type":"booklet",
+      "images": "disc/vplayer/images/tfsg/",
+      "list" : [
+        {
+          "src": "tf_cover.jpg",
+          "alt": "Cover of Toccata and Fugue Single",
+          "cap": "Toccata and Fugue Single CD Cover",
+          "slide": "1",
+          "active": "active"
+        },
+        {
+          "src": "tf_ins_2.jpg",
+          "alt": "Insert Page 1 of Toccata and Fugue Single",
+          "cap": "Toccata and Fugue Single Insert Page 1",
+          "slide": "2",
+          "active": ""
+        },
+        {
+          "src": "tf_ins_3.jpg",
+          "alt": "Insert Page 2 of Toccata and Fugue Single",
+          "cap": "Toccata and Fugue Single Insert Page 2",
+          "slide": "3",
+          "active": ""
+        },
+        {
+          "src": "tf_ins_4.jpg",
+          "alt": "Insert Page 3 of Toccata and Fugue Single",
+          "cap": "Toccata and Fugue Single Insert Page 3",
+          "slide": "4",
+          "active": ""
+        },
+       {
+          "src": "tf_label.jpg",
+          "alt": "Label of Toccata and Fugue Single",
+          "cap": "Toccata and Fugue Single CD Label",
+          "slide": "3",
+          "active":""
+        }
+      ]
+    },
+    {
+      "key": "CD3",
+      "type": "tracklist",
+      "time": "",
+      "list": [
+        {
+          "number": "1",
+          "name": "Toccata & Fugue (D's Journey Mix)",
+          "time": "",
+          "composer": ""
+        },
+        {
+          "number": "2",  
+          "name": "Toccata & Fugue (D's Hiphouse Mix)",
+          "time": "",
+          "composer": ""
+        },
+        {
+          "number": "3",
+          "name": "Toccata & Fugue (Lectroluv Mix)",
+          "time": "",
+          "composer": ""
+        },
+        {
+          "number": "4",
+          "name": "Toccata & Fugue (Original Album Version)",
+          "time": "",
+          "composer": ""
+        }
+      ]
+    },
+    {
+      "key": "CD4",
+      "type": "tracklist",
+      "time": "",
+      "list": [
+        {
+          "number": "1",
+          "name": "Red Hot (Single Version)",
+          "time": "",
+          "composer": ""
+        },
+        {
+          "number": "2",  
+          "name": "Aurora",
+          "time": "",
+          "composer": ""
+        },
+        {
+          "number": "3",
+          "name": "Toccata & Fugue in D Minor (Single Edit)",
+          "time": "",
+          "composer": ""
+        }
+      ]
+    },
+    { 
+      "key": "BOOK4",
+      "type":"booklet",
+      "images": "disc/vplayer/images/redhot/",
+      "list" : [
+        {
+          "src": "rh_cover.jpg",
+          "alt": "Cover of Red Hot Single",
+          "cap": "Red Hot Single CD Cover",
+          "slide": "1",
+          "active": "active"
+        },
+        {
+          "src": "rh_ins_2.jpg",
+          "alt": "Back of Red Hot Single",
+          "cap": "Red Hot Single Back",
+          "slide": "2",
+          "active": ""
+        },
+       {
+          "src": "tf_label.jpg",
+          "alt": "Label of Red Hot Single",
+          "cap": "Red Hot Single CD Label",
+          "slide": "3",
+          "active":""
+        }
+      ]
+    },
+    {
+      "key": "CD5",
+      "type": "tracklist",
+      "time": "",
+      "list": [
+        {
+          "number": "1",
+          "name": "Classical Gas",
+          "time": "",
+          "composer": ""
+        },
+        {
+          "number": "2",  
+          "name": "Toccata And Fugue",
+          "time": "",
+          "composer": ""
+        }
+      ]
+    },
+    {
+      "key": "CD6",
+      "type": "tracklist",
+      "time": "",
+      "list": [
+        {
+          "number": "1",
+          "name": "Toccata y Fuga en re menor",
+          "time": "",
+          "composer": ""
+        },
+        {
+          "number": "2",  
+          "name": "Red Hot",
+          "time": "",
+          "composer": ""
+        },
+        {
+          "number": "3",  
+          "name": "Classical Gas",
+          "time": "",
+          "composer": ""
+        }
+      ]
+    },
+    { 
+      "key": "BOOK6",
+      "type":"booklet",
+      "images": "disc/vplayer/images/tyf/",
+      "list" : [
+        {
+          "src": "tyf_front.jpg",
+          "alt": "Cover of Toccata y Fuga en re menor",
+          "cap": "Toccata y Fuga en re menor CD Cover",
+          "slide": "1",
+          "active": "active"
+        },
+        {
+          "src": "tyf_ins_1.jpg",
+          "alt": "Back of Toccata y Fuga en re menor",
+          "cap": "Toccata y Fuga en re menor Back",
+          "slide": "2",
+          "active": ""
+        },
+       {
+          "src": "tyf_label.jpg",
+          "alt": "Label of Toccata y Fuga en re menor",
+          "cap": "Toccata y Fuga en re menor CD Label",
+          "slide": "3",
+          "active":""
+        }
+      ]
+    },
+    {
+      "key": "CD7",
+      "type": "tracklist",
+      "time": "",
+      "list": [
+        {
+          "number": "1",
+          "name": "Contradanza",
+          "time": "",
+          "composer": ""
+        }
+      ]
+    },
+    { 
+      "key": "BOOK7",
+      "type":"booklet",
+      "images": "disc/vplayer/images/contradanza/",
+      "list" : [
+        {
+          "src": "scs_cover.jpg",
+          "alt": "Cover of Contradanza Spanish Single",
+          "cap": "Contradanza Spanish Single CD Cover",
+          "slide": "1",
+          "active": "active"
+        },
+        {
+          "src": "scs_back.jpg",
+          "alt": "Back of Contradanza Spanish Single",
+          "cap": "Contradanza Spanish Single Back",
+          "slide": "2",
+          "active": ""
+        },
+       {
+          "src": "scs_label.jpg",
+          "alt": "Label of Contradanza Spanish Single",
+          "cap": "Contradanza Spanish Single CD Label",
+          "slide": "3",
+          "active":""
+        }
+      ]
+    },
+    { 
+      "key": "MMEDIA1",
+      "type":"multimedia",
+      "images": "disc/vplayer/images/redhotvcd/",
+      "list" : [
+        {
+          "src": "rh001.jpg",
+          "alt": "Image 1 from Red Hot VCD",
+          "cap": "Red Hot VCD Image 1",
+          "slide": "0",
+          "active":"active"
+        },
+        {
+          "src": "rh002.jpg",
+          "alt": "Image 2 from Red Hot VCD",
+          "cap": "Red Hot VCD Image 2",
+          "slide": "1",
+          "active":""
+        },
+        {
+          "src": "rh003.jpg",
+          "alt": "Image 3 from Red Hot VCD",
+          "cap": "Red Hot VCD Image 3",
+          "slide": "2",
+          "active":""
+        },
+        {
+          "src": "rh004.jpg",
+          "alt": "Image 4 from Red Hot VCD",
+          "cap": "Red Hot VCD Image 4",
+          "slide": "3",
+          "active":""
+        },
+        {
+          "src": "rh005.jpg",
+          "alt": "Image 5 from Red Hot VCD",
+          "cap": "Red Hot VCD Image 5",
+          "slide": "4",
+          "active":""
+        },
+        {
+          "src": "rh006.jpg",
+          "alt": "Image 6 from Red Hot VCD",
+          "cap": "Red Hot VCD Image 6",
+          "slide": "5",
+          "active":""
+        }
+      ]
+    },
+    { 
+      "key": "MMEDIA2",
+      "type":"multimedia",
+      "images": "disc/vplayer/images/classgasvcd/",
+      "list" : [
+        {
+          "src": "classgas1.jpg",
+          "alt": "Image 1 from Classical Gas VCD",
+          "cap": "Classical Gas VCD Image 1",
+          "slide": "0",
+          "active":"active"
+        },
+        {
+          "src": "classgas2.jpg",
+          "alt": "Image 2 from Classical Gas VCD",
+          "cap": "Classical Gas VCD Image 2",
+          "slide": "1",
+          "active":""
+        },
+        {
+          "src": "classgas3.jpg",
+          "alt": "Image 3 from Classical Gas VCD",
+          "cap": "Classical Gas VCD Image 3",
+          "slide": "2",
+          "active":""
+        },
+        {
+          "src": "classgas4.jpg",
+          "alt": "Image 4 from Classical Gas VCD",
+          "cap": "Classical Gas VCD Image 4",
+          "slide": "3",
+          "active":""
+        },
+        {
+          "src": "classgas5.jpg",
+          "alt": "Image 5 from Classical Gas VCD",
+          "cap": "Classical Gas VCD Image 5",
+          "slide": "4",
+          "active":""
+        },
+        {
+          "src": "classgas6.jpg",
+          "alt": "Image 6 from Classical Gas VCD",
+          "cap": "Classical Gas VCD Image 6",
+          "slide": "5",
+          "active":""
+        }
+      ]
+    },
+    { 
+      "key": "MMEDIA3",
+      "type":"multimedia",
+      "images": "disc/vplayer/images/tfvcd/",
+      "list" : [
+        {
+          "src": "tf001.jpg",
+          "alt": "Image 1 from Toccata and Fugue VCD",
+          "cap": "Toccata and Fugue VCD Image 1",
+          "slide": "0",
+          "active":"active"
+        },
+        {
+          "src": "tf002.jpg",
+          "alt": "Image 2 from Toccata and Fugue VCD",
+          "cap": "Toccata and Fugue VCD Image 2",
+          "slide": "1",
+          "active":""
+        },
+        {
+          "src": "tf003.jpg",
+          "alt": "Image 3 from Toccata and Fugue VCD",
+          "cap": "Toccata and Fugue VCD Image 3",
+          "slide": "2",
+          "active":""
+        },
+        {
+          "src": "tf004.jpg",
+          "alt": "Image 4 from Toccata and Fugue VCD",
+          "cap": "Toccata and Fugue VCD Image 4",
+          "slide": "3",
+          "active":""
+        },
+        {
+          "src": "tf005.jpg",
+          "alt": "Image 5 from Toccata and Fugue VCD",
+          "cap": "Toccata and Fugue VCD Image 5",
+          "slide": "4",
+          "active":""
+        },
+        {
+          "src": "tf006.jpg",
+          "alt": "Image 6 from Toccata and Fugue VCD",
+          "cap": "Toccata and Fugue VCD Image 6",
+          "slide": "5",
+          "active":""
+        },
+        {
+          "src": "tf007.jpg",
+          "alt": "Image 7 from Toccata and Fugue VCD",
+          "cap": "Toccata and Fugue VCD Image 7",
+          "slide": "6",
+          "active":""
+        }
+      ]
+    }
     ]
 }
