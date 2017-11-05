@@ -120,6 +120,18 @@
       "thumbwidth" : "60px",
       "active":"",
       "id": 10
+    },
+    {
+      "src": "sochi2014.jpg",
+      "alt": "2014 Olympics",
+      "cap": "at the 2014 Olympics in Sochi",
+      "slide": "10",
+      "height": "741px",
+      "width": "1280px",
+      "thumbheight": "76px",
+      "thumbwidth" : "131px",
+      "active":"",
+      "id": 11
     }
   ]
 }
