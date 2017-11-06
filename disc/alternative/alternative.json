@@ -19,11 +19,26 @@
         "key" : "BOOK1"
       },
       {
-        "order" : "3",
-        "title" : "The Alternate Record - Poland - discs and booklet",
-        "key" : "BOOK2"
+        "order": "3",
+        "title": "The Alternate Record - Poland - discs and booklet",
+        "key": "BOOK2"
+      },
+      {
+        "order" : "4",
+        "title" : "Classical Gas Single CD",
+        "key" : "CD3"
+      },
+      {
+        "order": "5",
+        "title": "Classical Gas Single CD - discs and booklet",
+        "key": "BOOK3"
+      },
+      {
+        "order" : "6",
+        "title" : "Classical Gas 'Remix Dance' - Mini Album",
+        "key" : "CD4"
       }
-    ],
+  ],
     "tracklist": [
       { 
         "key": "CD1",
@@ -232,6 +247,78 @@
             "active":""
           }
         ]
-      }
-    ]
+      },
+    {
+      "key": "CD3",
+      "type": "tracklist",
+      "time": "",
+      "list": [
+        {
+          "number": "1",
+          "name": "Classical Gas (Single version)",
+          "time": "3:46",
+          "composer": ""
+        },
+        {
+          "number": "2",  
+          "name": "Red Hot (Live)",
+          "time": "4:55",
+          "composer": ""
+        },
+        {
+          "number": "3",
+          "name": "Cotton Eye Joe (Live)",
+          "time": "3:15",
+          "composer": ""
+        }
+      ]
+    },
+    { 
+      "key": "BOOK3",
+      "type":"booklet",
+      "images": "disc/alternative/images/classicalgas/",
+      "list" : [
+        {
+          "src": "Front.jpg",
+          "alt": "Cover of Classical Gas Single",
+          "cap": "Classical Gas Single CD Cover",
+          "slide": "1",
+          "active": "active"
+        },
+        {
+          "src": "Back.jpg",
+          "alt": "Back of Classical Gas Single",
+          "cap": "Classical Gas Single Back",
+          "slide": "2",
+          "active": ""
+        },
+       {
+          "src": "Disc.jpg",
+          "alt": "Label of Classical Gas Single",
+          "cap": "Classical Gas Single CD Label",
+          "slide": "3",
+          "active":""
+        }
+      ]
+    },
+    {
+      "key": "CD4",
+      "type": "tracklist",
+      "time": "",
+      "list": [
+        {
+          "number": "1",
+          "name": "Classical Gas (Reggae Version, Stradosphere Radio Edit, Stradosphere Mix, Reconsidered Dub)",
+          "time": "",
+          "composer": ""
+        },
+        {
+          "number": "2",  
+          "name": "Toccata & Fugue (D's Hiphouse Mix & D's Journey Mix) ",
+          "time": "",
+          "composer": ""
+        }
+      ]
+    }
+  ]
 }
