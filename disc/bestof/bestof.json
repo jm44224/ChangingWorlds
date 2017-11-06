@@ -194,87 +194,80 @@
           "active":"inactive"
         },
         {
-          "src": "bo_ins_7.jpg",
-          "alt": "Insert Page 7 of the Best of Vanessa-Mae Booklet",
-          "cap": "Insert Page 7",
+          "src": "bo_mid_78.jpg",
+          "alt": "Insert Page 7 and 8 of the Best of Vanessa-Mae Booklet",
+          "cap": "Insert Page 7 and 8",
           "slide": "7",
-          "active":"inactive"
-        },
-        {
-          "src": "bo_ins_8.jpg",
-          "alt": "Insert Page 8 of the Best of Vanessa-Mae Booklet",
-          "cap": "Insert Page 8",
-          "slide": "8",
           "active":"inactive"
         },
         {
           "src": "bo_ins_9.jpg",
           "alt": "Insert Page 9 of the Best of Vanessa-Mae Booklet",
           "cap": "Insert Page 9",
-          "slide": "9",
+          "slide": "8",
           "active":"inactive"
         },
         {
           "src": "bo_ins_10.jpg",
           "alt": "Insert Page 10 of the Best of Vanessa-Mae Booklet",
           "cap": "Insert Page 10",
-          "slide": "10",
+          "slide": "9",
           "active":"inactive"
         },
         {
           "src": "bo_ins_11.jpg",
           "alt": "Insert Page 11 of the Best of Vanessa-Mae Booklet",
           "cap": "Insert Page 11",
-          "slide": "11",
+          "slide": "10",
           "active":"inactive"
         },
         {
           "src": "bo_ins_12.jpg",
           "alt": "Insert Page 12 of the Best of Vanessa-Mae Booklet",
           "cap": "Insert Page 12",
-          "slide": "12",
+          "slide": "11",
           "active":"inactive"
         },
         {
           "src": "bo_ins_13.jpg",
           "alt": "Insert Page 13 of the Best of Vanessa-Mae Booklet",
           "cap": "Insert Page 13",
-          "slide": "13",
+          "slide": "12",
           "active":"inactive"
         },
         {
           "src": "bo_ins_14.jpg",
           "alt": "Insert Page 14 of the Best of Vanessa-Mae Booklet",
           "cap": "Insert Page 14",
-          "slide": "14",
+          "slide": "13",
           "active":"inactive"
         },
         {
           "src": "bo_ins_15.jpg",
           "alt": "Insert Page 15 of the Best of Vanessa-Mae Booklet",
           "cap": "Insert Page 15",
-          "slide": "15",
+          "slide": "14",
           "active":"inactive"
         },
         {
           "src": "bo_under_cd.jpg",
           "alt": "Inside Jewel Case of the Best of Vanessa-Mae Booklet",
           "cap": "Inside Jewel Case",
-          "slide": "16",
+          "slide": "15",
           "active":"inactive"
         },
         {
           "src": "bo_jewel.jpg",
           "alt": "Jewel Case of the Best of Vanessa-Mae Booklet",
           "cap": "Jewel Case",
-          "slide": "17",
+          "slide": "16",
           "active":"inactive"
         },
         {
           "src": "bo_label.jpg",
           "alt": "Label of the Best of Vanessa-Mae Booklet",
           "cap": "Label",
-          "slide": "18",
+          "slide": "17",
           "active":"inactive"
         }
         ]
@@ -376,17 +369,10 @@
           "active":"inactive"
         },
         {
-          "src": "boe_ins_13.jpg",
-          "alt": "Insert Page 13 of the Best of Vanessa-Mae Enhanced Booklet ",
-          "cap": "Insert Page 13",
+          "src": "boe_mid_13_14.jpg",
+          "alt": "Insert Page 13 and 14 of the Best of Vanessa-Mae Enhanced Booklet ",
+          "cap": "Insert Page 13 and 14",
           "slide": "13",
-          "active":"inactive"
-        },
-        {
-          "src": "boe_ins_14.jpg",
-          "alt": "Insert Page 14 of the Best of Vanessa-Mae Enhanced Booklet ",
-          "cap": "Insert Page 14",
-          "slide": "14",
           "active":"inactive"
         },
         {
@@ -397,23 +383,79 @@
           "active":"inactive"
         },
         {
-          "src": "boe_under_cd.jpg",
-          "alt": "Inside Jewel Case of the Best of Vanessa-Mae Enhanced Booklet ",
-          "cap": "Inside Jewel Case",
+          "src": "boe_ins_16.jpg",
+          "alt": "Insert Page 16 of the Best of Vanessa-Mae Enhanced Booklet ",
+          "cap": "Insert Page 16",
+          "slide": "16",
+          "active":"inactive"
+        },
+        {
+          "src": "boe_ins_17.jpg",
+          "alt": "Insert Page 17 of the Best of Vanessa-Mae Enhanced Booklet ",
+          "cap": "Insert Page 17",
+          "slide": "17",
+          "active":"inactive"
+        },
+        {
+          "src": "boe_ins_18.jpg",
+          "alt": "Insert Page 18 of the Best of Vanessa-Mae Enhanced Booklet ",
+          "cap": "Insert Page 18",
+          "slide": "18",
+          "active":"inactive"
+        },
+        {
+          "src": "boe_ins_19.jpg",
+          "alt": "Insert Page 19 of the Best of Vanessa-Mae Enhanced Booklet ",
+          "cap": "Insert Page 19",
+          "slide": "19",
+          "active":"inactive"
+        },
+        {
+          "src": "boe_ins_20.jpg",
+          "alt": "Insert Page 20 of the Best of Vanessa-Mae Enhanced Booklet ",
+          "cap": "Insert Page 20",
+          "slide": "20",
+          "active":"inactive"
+        },
+        {
+          "src": "boe_ins_21.jpg",
+          "alt": "Insert Page 21 of the Best of Vanessa-Mae Enhanced Booklet ",
+          "cap": "Insert Page 21",
+          "slide": "21",
+          "active":"inactive"
+        },
+        {
+          "src": "boe_ins_22.jpg",
+          "alt": "Insert Page 22 of the Best of Vanessa-Mae Enhanced Booklet ",
+          "cap": "Insert Page 22",
+          "slide": "22",
+          "active":"inactive"
+        },
+        {
+          "src": "boe_ins_23.jpg",
+          "alt": "Insert Page 23 of the Best of Vanessa-Mae Enhanced Booklet ",
+          "cap": "Insert Page 23",
+          "slide": "23",
+          "active":"inactive"
+        },
+        {
+          "src": "boe_ins_24.jpg",
+          "alt": "Insert Page 24 of the Best of Vanessa-Mae Enhanced Booklet ",
+          "cap": "Insert Page 24",
           "slide": "24",
           "active":"inactive"
         },
         {
-          "src": "boe_jewel.jpg",
-          "alt": "Jewel Case of the Best of Vanessa-Mae Enhanced Booklet ",
-          "cap": "Jewel Case",
+          "src": "boe_ins_25.jpg",
+          "alt": "Insert Page 25 of the Best of Vanessa-Mae Enhanced Booklet ",
+          "cap": "Insert Page 25",
           "slide": "25",
           "active":"inactive"
         },
         {
-          "src": "boe_label.jpg",
-          "alt": "Label of the Violin Disc",
-          "cap": "Label",
+          "src": "boe_ins_26.jpg",
+          "alt": "Insert Page 26 of the Best of Vanessa-Mae Enhanced Booklet ",
+          "cap": "Insert Page 26",
           "slide": "26",
           "active":"inactive"
         }
