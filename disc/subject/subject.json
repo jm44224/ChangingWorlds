@@ -49,34 +49,29 @@
         "key" : "BOOK4"
       },
       {
-        "order" : "9",
-        "title" : "Art of War Promo Single",
-        "key" : "CD5"
-      },
-      {
-        "order" : "10",
-        "title" : "Art of War Promo Single - disc and booklet",
-        "key" : "BOOK5"
-      },
-      {
-        "order": "11",
+        "order": "9",
         "title": "Interview",
         "key": "BOOK6"
       },      
       {
-        "order" : "12",
+        "order" : "10",
         "title" : "Subject To Change VCD - Destiny",
         "key" : "MMEDIA1"
       },
       {
-        "order" : "13",
+        "order" : "11",
         "title" : "Subject To Change VCD - White Bird",
         "key" : "MMEDIA2"
       },
       {
-        "order" : "14",
+        "order" : "12",
         "title" : "Subject To Change VCD - Interview",
         "key" : "MMEDIA3"
+      },
+      {
+        "order" : "13",
+        "title" : "Unreleased Video - The Power of C",
+        "key" : "MMEDIA4"
       }
     ],
   "tracklist": [
@@ -446,47 +441,6 @@
         }
       ]
     },
-    {
-      "key": "CD5",
-      "type": "tracklist",
-      "time": "",
-      "list": [
-        {
-          "number": "1",
-          "name": "Art of War",
-          "time": "",
-          "composer": ""
-        }
-      ]
-    },
-    { 
-      "key": "BOOK5",
-      "type":"booklet",
-      "images": "disc/subject/images/artofwar/",
-      "list" : [
-        {
-          "src": "art_of_war_promo.jpg",
-          "alt": "Cover of Art of War Promo Single",
-          "cap": "Art of War Promo Single Set CD Cover",
-          "slide": "1",
-          "active": "active"
-        },
-        {
-          "src": "art_of_war_promo_back.jpg",
-          "alt": "Back of Art of War Promo Single",
-          "cap": "Art of War Promo Single Back",
-          "slide": "2",
-          "active": ""
-        },
-       {
-          "src": "art_of_war_promo_label.jpg",
-          "alt": "Label of Art of War Promo Single",
-          "cap": "Art of War Promo Single CD Label",
-          "slide": "3",
-          "active":""
-        }
-      ]
-    },
     { 
       "key": "BOOK6",
       "type":"booklet",
@@ -671,6 +625,55 @@
           "src": "stcivu006.jpg",
           "alt": "Image 6 from STC Interview VCD",
           "cap": "STC Interview VCD Image 6",
+          "slide": "5",
+          "active":""
+        }
+      ]
+    },
+    { 
+      "key": "MMEDIA4",
+      "type":"multimedia",
+      "images": "disc/subject/images/powerofc/",
+      "list" : [
+        {
+          "src": "powerc001.jpg",
+          "alt": "Image 1 from The Power of C Video",
+          "cap": "The Power of C Video Image 1",
+          "slide": "0",
+          "active":"active"
+        },
+        {
+          "src": "powerc002.jpg",
+          "alt": "Image 2 from The Power of C Video",
+          "cap": "The Power of C Video Image 2",
+          "slide": "1",
+          "active":""
+        },
+        {
+          "src": "powerc003.jpg",
+          "alt": "Image 3 from The Power of C Video",
+          "cap": "The Power of C Video Image 3",
+          "slide": "2",
+          "active":""
+        },
+        {
+          "src": "powerc004.jpg",
+          "alt": "Image 4 from The Power of C Video",
+          "cap": "The Power of C Video Image 4",
+          "slide": "3",
+          "active":""
+        },
+        {
+          "src": "powerc005.jpg",
+          "alt": "Image 5 from The Power of C Video",
+          "cap": "The Power of C Video Image 5",
+          "slide": "4",
+          "active":""
+        },
+        {
+          "src": "powerc006.jpg",
+          "alt": "Image 6 from The Power of C Video",
+          "cap": "The Power of C Video Image 6",
           "slide": "5",
           "active":""
         }
