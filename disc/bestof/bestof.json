@@ -25,6 +25,16 @@
       },
       {
         "order" : "4",
+        "title" : "Art of War Promo Single",
+        "key" : "CD5"
+      },
+      {
+        "order" : "5",
+        "title" : "Art of War Promo Single - disc and booklet",
+        "key" : "BOOK5"
+      },
+      {
+        "order" : "6",
         "title" : "The Best Of Vanessa-Mae Enhanced - EPK",
         "key" : "MMEDIA"
       }
@@ -134,6 +144,12 @@
       {
         "number" : "17",
         "name" : "Art of War (with enhanced video element)",
+        "time" : "",
+        "composer" : ""
+          },
+      {
+        "number" : "",
+        "name" : "On the enhanced booklet, the Chinese letters translate as Chen Mei (two gold letters) ... Nice Moment, Beautiful Sights (all four letters)",
         "time" : "",
         "composer" : ""
           }
@@ -458,6 +474,47 @@
           "cap": "Insert Page 26",
           "slide": "26",
           "active":"inactive"
+        }
+      ]
+    },
+    {
+      "key": "CD5",
+      "type": "tracklist",
+      "time": "",
+      "list": [
+        {
+          "number": "1",
+          "name": "Art of War",
+          "time": "",
+          "composer": ""
+        }
+      ]
+    },
+    { 
+      "key": "BOOK5",
+      "type":"booklet",
+      "images": "disc/bestof/images/artofwar/",
+      "list" : [
+        {
+          "src": "art_of_war_promo.jpg",
+          "alt": "Cover of Art of War Promo Single",
+          "cap": "Art of War Promo Single Set CD Cover",
+          "slide": "1",
+          "active": "active"
+        },
+        {
+          "src": "art_of_war_promo_back.jpg",
+          "alt": "Back of Art of War Promo Single",
+          "cap": "Art of War Promo Single Back",
+          "slide": "2",
+          "active": ""
+        },
+       {
+          "src": "art_of_war_promo_label.jpg",
+          "alt": "Label of Art of War Promo Single",
+          "cap": "Art of War Promo Single CD Label",
+          "slide": "3",
+          "active":""
         }
       ]
     },
