@@ -10,8 +10,98 @@
     "menu": [
       {
         "order": "1",
-        "title": "Storm",
+        "title": "Storm - tracklist",
         "key": "CD1"
+      },
+      {
+        "order": "2",
+        "title": "Storm - booklet",
+        "key": "BOOK1"
+      },
+      {
+        "order": "3",
+        "title": "Storm USA Release - disc and booklet",
+        "key": "BOOK2"
+      },
+      {
+        "order": "4",
+        "title": "Storm USA Promo - disc and sleeve",
+        "key": "BOOK3"
+      },
+      {
+        "order": "5",
+        "title": "Storm Advancec Listening Promo - disc and cover",
+        "key": "BOOK4"
+      },
+      {
+        "order": "6",
+        "title": "Storm Single Promo - tracklist",
+        "key": "CD5"
+      },
+      {
+        "order": "7",
+        "title": "Storm Single Promo - disc and booklet",
+        "key": "BOOK5"
+      },
+      {
+        "order": "8",
+        "title": "Storm Maxi Single - tracklist",
+        "key": "CD6"
+      },
+      {
+        "order": "9",
+        "title": "Storm Maxi Single - disc and booklet",
+        "key": "BOOK6"
+      },
+      {
+        "order": "10",
+        "title": "I Feel Love Single - First CD of Two CD Set - tracklist",
+        "key": "CD7"
+      },
+      {
+        "order": "11",
+        "title": "I Feel Love Single - First CD of Two CD Set - disc and booklet",
+        "key": "BOOK7"
+      },
+      {
+        "order": "12",
+        "title": "I Feel Love Single - Second CD of Two CD Set - tracklist",
+        "key": "CD8"
+      },
+      {
+        "order": "13",
+        "title": "I Feel Love Single - Second CD of Two CD Set - disc and booklet",
+        "key": "BOOK8"
+      },
+      {
+        "order": "14",
+        "title": "Second Asia-Europe Meeting (ASEM2) - tracklist",
+        "key": "CD9"
+      },
+      {
+        "order": "15",
+        "title": "Second Asia-Europe Meeting (ASEM2) - booklet",
+        "key": "BOOK9"
+      },
+      {
+        "order" : "16",
+        "title" : "Storm Video CD - tracklist",
+        "key" : "CD10"
+      },
+      {
+        "order": "17",
+        "title": "Storm VCD - disc",
+        "key": "BOOK10"
+      },
+      {
+        "order" : "18",
+        "title" : "Storm - Video",
+        "key" : "MMEDIA1"
+      },
+      {
+        "order" : "19",
+        "title" : "I Feel Love - Video",
+        "key" : "MMEDIA2"
       }
     ],
     "tracklist": [
@@ -103,6 +193,699 @@
           "name": "The Blessed Spirits",
           "time": "8.16",
           "composer": "Andy Hill/Vanessa-Mae"
+        }
+      ]
+    },
+      { 
+        "key": "BOOK1",
+        "type":"booklet",
+        "images": "disc/storm/images/storm/",
+        "list" : [
+        {
+          "src": "sh_cover.jpg",
+          "alt": "Front Cover of Storm Booklet",
+          "cap": "Front Cover",
+          "slide": "0",
+          "active":"active"
+        },
+        {
+          "src": "sh_ins_1.jpg",
+          "alt": "Insert Page 1 of Storm Booklet",
+          "cap": "Insert Page 1",
+          "slide": "1",
+          "active":"inactive"
+        },
+        {
+          "src": "sh_ins_2.jpg",
+          "alt": "Insert Page 2 of Storm Booklet",
+          "cap": "Insert Page 2",
+          "slide": "2",
+          "active":"inactive"
+        },
+        {
+          "src": "sh_ins_3.jpg",
+          "alt": "Insert Page 3 of Storm Booklet",
+          "cap": "Insert Page 3",
+          "slide": "3",
+          "active":"inactive"
+        },
+        {
+          "src": "sh_ins_4.jpg",
+          "alt": "Insert Page 4 of Storm Booklet",
+          "cap": "Insert Page 4",
+          "slide": "4",
+          "active":"inactive"
+        },
+        {
+          "src": "sh_ins_5.jpg",
+          "alt": "Insert Page 5 of Storm Booklet",
+          "cap": "Insert Page 5",
+          "slide": "5",
+          "active":"inactive"
+        },
+        {
+          "src": "sh_ins_6.jpg",
+          "alt": "Insert Page 6 of Storm Booklet",
+          "cap": "Insert Page 6",
+          "slide": "6",
+          "active":"inactive"
+        },
+        {
+          "src": "sh_ins_7.jpg",
+          "alt": "Insert Page 7 of Storm Booklet",
+          "cap": "Insert Page 7",
+          "slide": "7",
+          "active":"inactive"
+        },
+        {
+          "src": "sh_ins_8.jpg",
+          "alt": "Insert Page 8 of Storm Booklet",
+          "cap": "Insert Page 8",
+          "slide": "8",
+          "active":"inactive"
+        },
+        {
+          "src": "sh_ins_9.jpg",
+          "alt": "Insert Page 9 of Storm Booklet",
+          "cap": "Insert Page 9",
+          "slide": "9",
+          "active":"inactive"
+        },
+        {
+          "src": "sh_ins_10.jpg",
+          "alt": "Insert Page 10 of Storm Booklet",
+          "cap": "Insert Page 10",
+          "slide": "10",
+          "active":"inactive"
+        },
+        {
+          "src": "sh_ins_11.jpg",
+          "alt": "Insert Page 11 of Storm Booklet",
+          "cap": "Insert Page 11",
+          "slide": "11",
+          "active":"inactive"
+        },
+        {
+          "src": "sh_ins_12.jpg",
+          "alt": "Insert Page 12 of Storm Booklet",
+          "cap": "Insert Page 12",
+          "slide": "12",
+          "active":"inactive"
+        },
+        {
+          "src": "sh_ins_13.jpg",
+          "alt": "Insert Page 13 of Storm Booklet",
+          "cap": "Insert Page 13",
+          "slide": "13",
+          "active":"inactive"
+        },
+        {
+          "src": "sh_ins_14.jpg",
+          "alt": "Insert Page 14 of Storm Booklet",
+          "cap": "Insert Page 14",
+          "slide": "14",
+          "active":"inactive"
+        },
+        {
+          "src": "sh_jewel.jpg",
+          "alt": "Label of Storm Disc",
+          "cap": "Label",
+          "slide": "15",
+          "active":"inactive"
+        }
+        ]
+      },
+      { 
+        "key": "BOOK2",
+        "type":"booklet",
+        "images": "disc/storm/images/stormus/",
+        "list" : [
+        {
+          "src": "su_cover.jpg",
+          "alt": "Front Cover of Storm (USA Release) Booklet",
+          "cap": "Front Cover",
+          "slide": "0",
+          "active":"active"
+        },
+        {
+          "src": "su_ins_1.jpg",
+          "alt": "Insert Page 1 of Storm (USA Release) Booklet",
+          "cap": "Insert Page 1",
+          "slide": "1",
+          "active":"inactive"
+        },
+        {
+          "src": "su_ins_2.jpg",
+          "alt": "Insert Page 2 of Storm (USA Release) Booklet",
+          "cap": "Insert Page 2",
+          "slide": "2",
+          "active":"inactive"
+        },
+        {
+          "src": "su_ins_3.jpg",
+          "alt": "Insert Page 3 of Storm (USA Release) Booklet",
+          "cap": "Insert Page 3",
+          "slide": "3",
+          "active":"inactive"
+        },
+        {
+          "src": "su_ins_4.jpg",
+          "alt": "Insert Page 4 of Storm (USA Release) Booklet",
+          "cap": "Insert Page 4",
+          "slide": "4",
+          "active":"inactive"
+        },
+        {
+          "src": "su_ins_5.jpg",
+          "alt": "Insert Page 5 of Storm (USA Release) Booklet",
+          "cap": "Insert Page 5",
+          "slide": "5",
+          "active":"inactive"
+        },
+        {
+          "src": "su_ins_6.jpg",
+          "alt": "Insert Page 6 of Storm (USA Release) Booklet",
+          "cap": "Insert Page 6",
+          "slide": "6",
+          "active":"inactive"
+        },
+        {
+          "src": "su_ins_7.jpg",
+          "alt": "Insert Page 7 of Storm (USA Release) Booklet",
+          "cap": "Insert Page 7",
+          "slide": "7",
+          "active":"inactive"
+        },
+        {
+          "src": "su_ins_8.jpg",
+          "alt": "Insert Page 8 of Storm (USA Release) Booklet",
+          "cap": "Insert Page 8",
+          "slide": "8",
+          "active":"inactive"
+        },
+        {
+          "src": "su_ins_9.jpg",
+          "alt": "Insert Page 9 of Storm (USA Release) Booklet",
+          "cap": "Insert Page 9",
+          "slide": "9",
+          "active":"inactive"
+        },
+        {
+          "src": "su_ins_10.jpg",
+          "alt": "Insert Page 10 of Storm (USA Release) Booklet",
+          "cap": "Insert Page 10",
+          "slide": "10",
+          "active":"inactive"
+        },
+        {
+          "src": "su_ins_11.jpg",
+          "alt": "Insert Page 11 of Storm (USA Release) Booklet",
+          "cap": "Insert Page 11",
+          "slide": "11",
+          "active":"inactive"
+        },
+        {
+          "src": "su_jewel.jpg",
+          "alt": "Label of Storm (USA Release) Disc",
+          "cap": "Label",
+          "slide": "12",
+          "active":"inactive"
+        },
+        {
+          "src": "su_label.jpg",
+          "alt": "Label of Storm (USA Release) Disc",
+          "cap": "Label",
+          "slide": "13",
+          "active":"inactive"
+        }
+        ]
+      },
+    { 
+      "key": "BOOK3",
+      "type":"booklet",
+      "images": "disc/storm/images/",
+      "list" : [
+        {
+          "src": "storm_promo_us_cover.jpg",
+          "alt": "Sleeve of Storm USA Promo",
+          "cap": "Storm USA Promo Sleeve",
+          "slide": "1",
+          "active": "active"
+        },
+        {
+          "src": "storm_promo_us_label.jpg",
+          "alt": "Label of Storm USA Promo",
+          "cap": "Storm USA Promo Label",
+          "slide": "2",
+          "active": ""
+        }
+      ]
+    },
+    { 
+      "key": "BOOK4",
+      "type":"booklet",
+      "images": "disc/storm/images/stormadvlist/",
+      "list" : [
+        {
+          "src": "storm_promo_cover.jpg",
+          "alt": "Cover of Storm Advanced Listening Promo CD",
+          "cap": "Storm Advanced Listening Promo CD Cover",
+          "slide": "1",
+          "active": "active"
+        },
+       {
+          "src": "storm_promo_label.jpg",
+          "alt": "Label of Storm Advanced Listening Promo CD",
+          "cap": "Storm Advanced Listening Promo CD Label",
+          "slide": "3",
+          "active":""
+        }
+      ]
+    },
+    {
+      "key": "CD5",
+      "type": "tracklist",
+      "time": "",
+      "list": [
+        {
+          "number": "1",
+          "name": "Storm",
+          "time": "",
+          "composer": ""
+        }
+      ]
+    },
+    { 
+      "key": "BOOK5",
+      "type":"booklet",
+      "images": "disc/storm/images/stormpromo/",
+      "list" : [
+        {
+          "src": "sp_cover.jpg",
+          "alt": "Cover of Storm Single Promo",
+          "cap": "Storm Single Promo CD Cover",
+          "slide": "1",
+          "active": "active"
+        },
+        {
+          "src": "sp_jewel.jpg",
+          "alt": "Back of Storm Single Promo",
+          "cap": "Storm Single Promo CD Back",
+          "slide": "2",
+          "active": ""
+        },
+       {
+          "src": "sp_label.jpg",
+          "alt": "Label of Storm Single Promo",
+          "cap": "Storm Single Promo CD Label",
+          "slide": "3",
+          "active":""
+        }
+      ]
+    },
+    {
+      "key": "CD6",
+      "type": "tracklist",
+      "time": "",
+      "list": [
+        {
+          "number": "1",
+          "name": "Storm",
+          "time": "",
+          "composer": ""
+        },
+        {
+          "number": "2",
+          "name": "Storm (Soundscape Mix)",
+          "time": "",
+          "composer": ""
+        },
+        {
+          "number": "3",
+          "name": "Toccata & Fugue (D's Journey Mix Radio Edit)",
+          "time": "",
+          "composer": ""
+        },
+        {
+          "number": "4",
+          "name": "Toccata & Fugue (D's Hiphouse Mix)",
+          "time": "",
+          "composer": ""
+        }
+      ]
+    },
+    { 
+      "key": "BOOK6",
+      "type":"booklet",
+      "images": "disc/storm/images/stormmax/",
+      "list" : [
+        {
+          "src": "ss_cover.jpg",
+          "alt": "Cover of Storm Maxi Single",
+          "cap": "Storm Maxi Single CD Cover",
+          "slide": "1",
+          "active": "active"
+        },
+        {
+          "src": "ss_ins_2.jpg",
+          "alt": "Back of Storm Maxi Single",
+          "cap": "Storm Maxi Single CD Back",
+          "slide": "2",
+          "active": ""
+        },
+       {
+          "src": "ss_label.jpg",
+          "alt": "Label of Storm Maxi Single",
+          "cap": "Storm Maxi Single CD Label",
+          "slide": "3",
+          "active":""
+        }
+      ]
+    },
+    {
+      "key": "CD7",
+      "type": "tracklist",
+      "time": "",
+      "list": [
+        {
+          "number": "1",
+          "name": "I Feel Love (Single Version)",
+          "time": "4:23",
+          "composer": ""
+        },
+        {
+          "number": "2",
+          "name": "I Feel Love (Klubbheads vs Rollercoaster Mix)",
+          "time": "8:29",
+          "composer": ""
+        },
+        {
+          "number": "3",
+          "name": "I Feel Love (Klubbheads vs Rollercoaster Edit)",
+          "time": "4:22",
+          "composer": ""
+        }
+      ]
+    },
+    { 
+      "key": "BOOK7",
+      "type":"booklet",
+      "images": "disc/storm/images/iflove/",
+      "list" : [
+        {
+          "src": "ifl1_cover.jpg",
+          "alt": "Cover of I Feel Love Single Disc 1",
+          "cap": "I Feel Love Single Disc 1 CD Cover",
+          "slide": "1",
+          "active": "active"
+        },
+        {
+          "src": "ifl1_ins_2.jpg",
+          "alt": "Back of I Feel Love Single Disc 1",
+          "cap": "I Feel Love Single Disc 1 CD Back",
+          "slide": "2",
+          "active": ""
+        },
+       {
+          "src": "ifl1_label.jpg",
+          "alt": "Label of I Feel Love Single Disc 1",
+          "cap": "I Feel Love Single Disc 1 CD Label",
+          "slide": "3",
+          "active":""
+        }
+      ]
+    },
+    {
+      "key": "CD8",
+      "type": "tracklist",
+      "time": "",
+      "list": [
+        {
+          "number": "1",
+          "name": "I Feel Love (Single Version)",
+          "time": "4:23",
+          "composer": ""
+        },
+        {
+          "number": "2",
+          "name": "I Feel Love (Klubbheads vs Rollercoaster Mix)",
+          "time": "8:29",
+          "composer": ""
+        },
+        {
+          "number": "3",
+          "name": "I Feel Love (D-Bop Saturday Nite Mix)",
+          "time": "8:47",
+          "composer": ""
+        }
+      ]
+    },
+    { 
+      "key": "BOOK8",
+      "type":"booklet",
+      "images": "disc/storm/images/iflove2/",
+      "list" : [
+        {
+          "src": "ifl2_cover.jpg",
+          "alt": "Cover of I Feel Love Single Disc 2",
+          "cap": "I Feel Love Single Disc 2 CD Cover",
+          "slide": "1",
+          "active": "active"
+        },
+        {
+          "src": "ifl2_ins_2.jpg",
+          "alt": "Back of I Feel Love Single Disc 2",
+          "cap": "I Feel Love Single Disc 2 CD Back",
+          "slide": "2",
+          "active": ""
+        },
+       {
+          "src": "ifl2_label.jpg",
+          "alt": "Label of I Feel Love Single Disc 2",
+          "cap": "I Feel Love Single Disc 2 CD Label",
+          "slide": "3",
+          "active":""
+        }
+      ]
+    },
+    {
+      "key": "CD9",
+      "type": "tracklist",
+      "time": "",
+      "list": [
+        {
+          "number": "",
+          "name": "This promotion package contains the same tracklistings of both Storm and China Girl - The Classical Album 2.",
+          "time": "",
+          "composer": ""
+        }
+      ]
+    },
+    { 
+      "key": "BOOK9",
+      "type":"booklet",
+      "images": "disc/storm/images/asem/",
+      "list" : [
+        {
+          "src": "asem_cover.jpg",
+          "alt": "Cover of Second Asia-Europe Meeting",
+          "cap": "Second Asia-Europe Meeting Cover",
+          "slide": "1",
+          "active": "active"
+        },
+        {
+          "src": "asem_ins_1.jpg",
+          "alt": "Insert 1 of Second Asia-Europe Meeting",
+          "cap": "Second Asia-Europe Meeting Insert 1",
+          "slide": "2",
+          "active": ""
+        },
+        {
+          "src": "asem_ins_2.jpg",
+          "alt": "Insert 2 of Second Asia-Europe Meeting",
+          "cap": "Second Asia-Europe Meeting Insert 2",
+          "slide": "3",
+          "active": ""
+        },
+        {
+          "src": "asem_ins_3.jpg",
+          "alt": "Insert 3 of Second Asia-Europe Meeting",
+          "cap": "Second Asia-Europe Meeting Insert 3",
+          "slide": "4",
+          "active": ""
+        },
+       {
+          "src": "asem_ins_4.jpg",
+          "alt": "Insert 4 of Second Asia-Europe Meeting",
+          "cap": "Second Asia-Europe Meeting Insert 4",
+          "slide": "5",
+          "active":""
+        },
+       {
+          "src": "asem_ins_5.jpg",
+          "alt": "Insert 5 of Second Asia-Europe Meeting",
+          "cap": "Second Asia-Europe Meeting Insert 5",
+          "slide": "6",
+          "active":""
+        },
+       {
+          "src": "asem_ins_6.jpg",
+          "alt": "Insert 6 of Second Asia-Europe Meeting",
+          "cap": "Second Asia-Europe Meeting Insert 6",
+          "slide": "7",
+          "active":""
+        },
+       {
+          "src": "asem_ins_7.jpg",
+          "alt": "Insert 7 of Second Asia-Europe Meeting",
+          "cap": "Second Asia-Europe Meeting Insert 7",
+          "slide": "8",
+          "active":""
+        },
+       {
+          "src": "asem_ins_8.jpg",
+          "alt": "Insert 8 of Second Asia-Europe Meeting",
+          "cap": "Second Asia-Europe Meeting Insert 8",
+          "slide": "9",
+          "active":""
+        },
+       {
+          "src": "asem_insert_text.jpg",
+          "alt": "Insert 9 of Second Asia-Europe Meeting",
+          "cap": "Second Asia-Europe Meeting Insert 9",
+          "slide": "10",
+          "active":""
+        }
+      ]
+    },
+      {
+        "key": "CD10",
+        "type": "tracklist",
+        "time": "",
+        "list": [
+          {
+            "number": "1",
+            "name": "Storm",
+            "time": "",
+            "composer": ""
+          },
+          {
+            "number": "2",
+            "name": "I Feel Love",
+            "time": "",
+            "composer": ""
+          }
+        ]
+      },
+      { 
+        "key": "BOOK10",
+        "type":"booklet",
+        "images": "disc/storm/images/",
+        "list" : [
+        {
+          "src": "svcd_label.jpg",
+          "alt": "Label of Storm Video CD",
+          "cap": "Label",
+          "slide": "0",
+          "active":"active"
+        }
+       ]
+    },
+    { 
+      "key": "MMEDIA1",
+      "type":"multimedia",
+      "images": "disc/storm/images/stormvcd/",
+      "list" : [
+        {
+          "src": "storm001.jpg",
+          "alt": "Image 1 from Storm VCD",
+          "cap": "Storm VCD Image 1",
+          "slide": "0",
+          "active":"active"
+        },
+        {
+          "src": "storm002.jpg",
+          "alt": "Image 2 from Storm VCD",
+          "cap": "Storm VCD Image 2",
+          "slide": "1",
+          "active":""
+        },
+        {
+          "src": "storm003.jpg",
+          "alt": "Image 3 from Storm VCD",
+          "cap": "Storm VCD Image 3",
+          "slide": "2",
+          "active":""
+        },
+        {
+          "src": "storm004.jpg",
+          "alt": "Image 4 from Storm VCD",
+          "cap": "Storm VCD Image 4",
+          "slide": "3",
+          "active":""
+        },
+        {
+          "src": "storm005.jpg",
+          "alt": "Image 5 from Storm VCD",
+          "cap": "Storm VCD Image 5",
+          "slide": "4",
+          "active":""
+        },
+        {
+          "src": "storm006.jpg",
+          "alt": "Image 6 from Storm VCD",
+          "cap": "Storm VCD Image 6",
+          "slide": "5",
+          "active":""
+        }
+      ]
+    },
+    { 
+      "key": "MMEDIA2",
+      "type":"multimedia",
+      "images": "disc/storm/images/iflvcd/",
+      "list" : [
+        {
+          "src": "ifl001.jpg",
+          "alt": "Image 1 from I Feel Love VCD",
+          "cap": "I Feel Love VCD Image 1",
+          "slide": "0",
+          "active":"active"
+        },
+        {
+          "src": "ifl002.jpg",
+          "alt": "Image 2 from I Feel Love VCD",
+          "cap": "I Feel Love VCD Image 2",
+          "slide": "1",
+          "active":""
+        },
+        {
+          "src": "ifl003.jpg",
+          "alt": "Image 3 from I Feel Love VCD",
+          "cap": "I Feel Love VCD Image 3",
+          "slide": "2",
+          "active":""
+        },
+        {
+          "src": "ifl004.jpg",
+          "alt": "Image 4 from I Feel Love VCD",
+          "cap": "I Feel Love VCD Image 4",
+          "slide": "3",
+          "active":""
+        },
+        {
+          "src": "ifl005.jpg",
+          "alt": "Image 5 from I Feel Love VCD",
+          "cap": "I Feel Love VCD Image 5",
+          "slide": "4",
+          "active":""
+        },
+        {
+          "src": "ifl006.jpg",
+          "alt": "Image 6 from I Feel Love VCD",
+          "cap": "I Feel Love VCD Image 6",
+          "slide": "5",
+          "active":""
         }
       ]
     }
