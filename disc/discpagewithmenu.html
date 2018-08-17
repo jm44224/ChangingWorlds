@@ -3,7 +3,7 @@
     <span class="specializedFont primaryColor" ng-show="title.length > 0">{{title}}</span>
     <span class="specializedFont secondaryColor smallerFont" ng-show="year.length > 0">({{year}})</span>
 </h3>
-<select ng-model="disc_menu" id="disc_menu" class="secondaryBackground sideNavColor">
+<select ng-model="disc_menu" ng-show="menu.length > 0" id="disc_menu" class="secondaryBackground sideNavColor ng-cloak">
     <option  ng-repeat="x in menu" value="{{x.key}}">{{x.title}}</option>
 </select>
 <ul class="primaryFont">

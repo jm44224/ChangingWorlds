@@ -34,20 +34,20 @@
     <link rel="stylesheet" href="styles/fs/fs.css" id="fs" disabled>
 </head>
 <body class="primaryBackground primaryFont" ng-app="myApp" ng-controller="mainCtrl">
-    <div id="divBody"  style="display:none">
+    <div id="divBody"  style="display:block">
     <header id="header" class="container-fluid" style="display:Block">
         <div class="row content">
             <div class="col-sm-4">
                 <h3>
-                    <span class="specializedFont primaryColor">{{header}}</span>
-                    <span class="specializedColor specializedFont primaryColor">*</span>
+                    <span class="specializedFont primaryColor ng-cloak">{{header}}</span>
+                    <span class="specializedColor specializedFont primaryColor ng-cloak">*</span>
                     <span id="sidemenu" class="specializedFont primaryColor pointer float-right" onclick="toggleNav()">&#9776;</span>
                 </h3>
             </div>
             <div class="col-sm-8">
                 <ul id="widemenu" class="nav nav-pills nav-justified">
                     <li ng-repeat="menuItem in menuItems">
-                        <a class="dropdown-toggle primaryColor" data-toggle="dropdown" href="#/{{menuItem.link}}">
+                        <a class="dropdown-toggle primaryColor ng-cloak" data-toggle="dropdown" href="#/{{menuItem.link}}">
                             {{menuItem.title}} 
                             <span ng-if="menuItem.icon" class="{{menuItem.icon}}"></span>
                             <span ng-if="menuItem.submenu" class="caret"></span>
@@ -74,8 +74,8 @@
         <div class="container-fluid primaryColor">
             <div class="row content">
                 <div class="col-sm-5">
-                    <img id="mainImg" class="mainImg img-responsive img-rounded" alt="main image of theme" src="">
-                    <span class="specializedColor specializedFont italicsFont">{{asterisk}}</span>
+                    <img id="mainImg" class="mainImg img-responsive img-rounded ng-cloak" alt="main image of theme" src="">
+                    <span class="specializedColor specializedFont italicsFont ng-cloak">{{asterisk}}</span>
                 </div>
                 <div class="col-sm-7">
                     <div ng-view></div>
@@ -85,12 +85,12 @@
         <footer class="container-fluid">
             <div class="row content primaryColor">
                 <div class="col-sm-5 text-right">
-                    <span class="specializedColor specializedFont italicsFont">{{footer}}</span>
-                    <select id="vmcc_theme" class="secondaryBackground sideNavColor">
+                    <span class="specializedColor specializedFont italicsFont ng-cloak">{{footer}}</span>
+                    <select id="vmcc_theme" ng-show="themes.length > 0" class="secondaryBackground sideNavColor ng-cloak">
                         <option  ng-repeat="theme in themes" value="{{theme.value}}">{{theme.title}}</option>
                     </select>
                 </div>
-                <div class="col-sm-7 text-right">
+                <div class="col-sm-7 text-right ng-cloak">
                     {{copyright}}
                 </div>
             </div>

@@ -6,11 +6,10 @@ $(document).ready(function(){
         TO DO - use a cookie to find last theme
     */
     setTheme("0");
-    
-    $( "#vmcc_theme" ).change(function(event) {
-        setTheme( $( "#vmcc_theme option:selected" ).val().toString() );
-    });
-    $("#divBody").show();
+});
+
+$(document).on('change', '#vmcc_theme', function(event) {
+    setTheme( $( "#vmcc_theme option:selected" ).val().toString() );
 });
 
 function setTheme(theme)
