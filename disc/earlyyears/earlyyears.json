@@ -360,6 +360,174 @@
             "cap": "Disc Two",
             "slide": "1",
             "active":""
+          },
+          {
+            "src": "cc_cd3s.jpg",
+            "alt": "Label of Disc Three",
+            "cap": "Disc Three",
+            "slide": "2",
+            "active":""
+          },
+          {
+            "src": "cc_cover.jpg",
+            "alt": "Front Cover of Classical Collection Booklet",
+            "cap": "Front Cover",
+            "slide": "3",
+            "active":""
+          },
+          {
+            "src": "cc_ins_1.jpg",
+            "alt": "Inside Page 1 of Classical Collection Booklet",
+            "cap": "Inside Page 1",
+            "slide": "4",
+            "active":""
+          },
+          {
+            "src": "cc_ins_2.jpg",
+            "alt": "Inside Page 2 of Classical Collection Booklet",
+            "cap": "Inside Page 2",
+            "slide": "5",
+            "active":""
+          },
+          {
+            "src": "cc_ins_3.jpg",
+            "alt": "Inside Page 3 of Classical Collection Booklet",
+            "cap": "Inside Page 3",
+            "slide": "6",
+            "active":""
+          },
+          {
+            "src": "cc_ins_4.jpg",
+            "alt": "Inside Page 4 of Classical Collection Booklet",
+            "cap": "Inside Page 4",
+            "slide": "7",
+            "active":""
+          },
+          {
+            "src": "cc_ins_5.jpg",
+            "alt": "Inside Page 5 of Classical Collection Booklet",
+            "cap": "Inside Page 5",
+            "slide": "8",
+            "active":""
+          },
+          {
+            "src": "cc_ins_6.jpg",
+            "alt": "Inside Page 6 of Classical Collection Booklet",
+            "cap": "Inside Page 6",
+            "slide": "9",
+            "active":""
+          },
+          {
+            "src": "cc_ins_7.jpg",
+            "alt": "Inside Page 7 of Classical Collection Booklet",
+            "cap": "Inside Page 7",
+            "slide": "10",
+            "active":""
+          },
+          {
+            "src": "cc_ins_8.jpg",
+            "alt": "Inside Page 8 of Classical Collection Booklet",
+            "cap": "Inside Page 8",
+            "slide": "11",
+            "active":""
+          },
+          {
+            "src": "cc_ins_9.jpg",
+            "alt": "Inside Page 9 of Classical Collection Booklet",
+            "cap": "Inside Page 9",
+            "slide": "12",
+            "active":""
+          },
+          {
+            "src": "cc_ins_10.jpg",
+            "alt": "Inside Page 10 of Classical Collection Booklet",
+            "cap": "Inside Page 10",
+            "slide": "13",
+            "active":""
+          },
+          {
+            "src": "cc_ins_11.jpg",
+            "alt": "Inside Page 11 of Classical Collection Booklet",
+            "cap": "Inside Page 11",
+            "slide": "14",
+            "active":""
+          },
+          {
+            "src": "cc_ins_12.jpg",
+            "alt": "Inside Page 12 of Classical Collection Booklet",
+            "cap": "Inside Page 12",
+            "slide": "15",
+            "active":""
+          },
+          {
+            "src": "cc_ins_13.jpg",
+            "alt": "Inside Page 13 of Classical Collection Booklet",
+            "cap": "Inside Page 13",
+            "slide": "16",
+            "active":""
+          },
+          {
+            "src": "cc_ins_14.jpg",
+            "alt": "Inside Page 14 of Classical Collection Booklet",
+            "cap": "Inside Page 14",
+            "slide": "17",
+            "active":""
+          },
+          {
+            "src": "cc_ins_15.jpg",
+            "alt": "Inside Page 15 of Classical Collection Booklet",
+            "cap": "Inside Page 15",
+            "slide": "18",
+            "active":""
+          },
+          {
+            "src": "cc_ins_16.jpg",
+            "alt": "Inside Page 16 of Classical Collection Booklet",
+            "cap": "Inside Page 16",
+            "slide": "19",
+            "active":""
+          },
+          {
+            "src": "cc_ins_17.jpg",
+            "alt": "Inside Page 17 of Classical Collection Booklet",
+            "cap": "Inside Page 17",
+            "slide": "20",
+            "active":""
+          },
+          {
+            "src": "cc_ins_18.jpg",
+            "alt": "Inside Page 18 of Classical Collection Booklet",
+            "cap": "Inside Page 18",
+            "slide": "21",
+            "active":""
+          },
+          {
+            "src": "cc_ins_19.jpg",
+            "alt": "Inside Page 19 of Classical Collection Booklet",
+            "cap": "Inside Page 19",
+            "slide": "22",
+            "active":""
+          },
+          {
+            "src": "cc_ins_20.jpg",
+            "alt": "Inside Page 20 of Classical Collection Booklet",
+            "cap": "Inside Page 20",
+            "slide": "23",
+            "active":""
+          },
+          {
+            "src": "cc_ins_21.jpg",
+            "alt": "Inside Page 21 of Classical Collection Booklet",
+            "cap": "Inside Page 21",
+            "slide": "24",
+            "active":""
+          },
+          {
+            "src": "cc_ins_22.jpg",
+            "alt": "Inside Page 22 of Classical Collection Booklet",
+            "cap": "Inside Page 22",
+            "slide": "25",
+            "active":""
           }
         ]
       },

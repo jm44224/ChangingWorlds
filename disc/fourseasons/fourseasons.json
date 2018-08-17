@@ -408,21 +408,21 @@
         {
           "src": "Inside1.jpg",
           "alt": "Inside Page 1 of Devil's Trill Reflection Booklet",
-          "cap": "Label",
+          "cap": "Inside Page 1",
           "slide": "1",
           "active":"inactive"
         },
         {
           "src": "Inside2.jpg",
           "alt": "Inside Page 2 of Devil's Trill Reflection Booklet",
-          "cap": "Label",
+          "cap": "Inside Page 2",
           "slide": "2",
           "active":"inactive"
         },
         {
           "src": "Back.jpg",
           "alt": "Back of Devil's Trill Reflection Booklet",
-          "cap": "Label",
+          "cap": "Back Cover",
           "slide": "3",
           "active":"inactive"
         },
