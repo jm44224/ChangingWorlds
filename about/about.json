@@ -27,8 +27,20 @@
       "value": "Lionel Catelan"
     },
     {
-      "name": "online",
-      "value": "Vanessa-Mae has neither official websites nor official social media sites."
+      "name": "website",
+      "value": "https://www.vanessamaeofficial.com/"
+    },
+    {
+      "name": "Facebook",
+      "value": "https://www.facebook.com/vanessamaeofficial/"
+    },
+    {
+      "name": "Instgram",
+      "value": "https://www.instagram.com/VanessaMaeMusic/"
+    },
+    {
+      "name": "Twitter",
+      "value": "https://twitter.com/VanessaMaeMusic/"
     }
   ]
 }
